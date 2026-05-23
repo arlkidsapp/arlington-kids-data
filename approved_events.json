@@ -23,7 +23,7 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/yoga-en-espaol-select-saturdays-23822/",
-    "category": "sports"
+    "category": "other"
   },
   {
     "id": "9f927afab9fc",
@@ -63,6 +63,19 @@
     "cost": "Free",
     "url": "https://www.arlnow.com/events/the-city-of-falls-churchs-44th-annual-memorial-day-parade-and-festival-24818/",
     "category": "outdoor"
+  },
+  {
+    "id": "ea20b28b4fdb",
+    "title": "VA250 Mobile Museum Experience Arrives in Falls Church",
+    "date": "2026-05-25",
+    "time": "9:00am - 5:00pm",
+    "location": "300 Park Ave.Falls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/va250-mobile-museum-experience-arrives-in-falls-church-25480/",
+    "category": "educational"
   },
   {
     "id": "e83e6a7504c7",
@@ -167,6 +180,19 @@
     "cost": "Free",
     "url": "https://www.arlnow.com/events/animal-olympics-22269/",
     "category": "sports"
+  },
+  {
+    "id": "041cd8040fb1",
+    "title": "The Art and History of Bonsai",
+    "date": "2026-05-30",
+    "time": "2:00pm - 3:00pm",
+    "location": "1015 N. Quincy StreetArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "6-8",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-art-and-history-of-bonsai-24824/",
+    "category": "educational"
   },
   {
     "id": "8cf4dd2a921e",
