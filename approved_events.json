@@ -1,32 +1,6 @@
 [
   {
-    "id": "e5cc7fc4ab7a",
-    "title": "MoCA on the Move: Andrew Barco \u2014 Flower Pounding on Fabric",
-    "date": "2026-05-24",
-    "time": "10:00am - 1:00pm",
-    "location": "South Fern StreetArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/moca-on-the-move-andrew-barco-flower-pounding-on-fabric-23522/",
-    "category": "arts"
-  },
-  {
-    "id": "d0370e345244",
-    "title": "the City of Falls Church\u2019s 44th Annual Memorial Day Parade and Festival",
-    "date": "2026-05-25",
-    "time": "9:00am - 5:00pm",
-    "location": "300 Park AvenueFalls Church,Virginia22046",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-city-of-falls-churchs-44th-annual-memorial-day-parade-and-festival-24818/",
-    "category": "outdoor"
-  },
-  {
-    "id": "ea20b28b4fdb",
+    "id": "47de6e0a636d",
     "title": "VA250 Mobile Museum Experience Arrives in Falls Church",
     "date": "2026-05-25",
     "time": "9:00am - 5:00pm",
@@ -39,7 +13,7 @@
     "category": "educational"
   },
   {
-    "id": "e83e6a7504c7",
+    "id": "d5dbd64440a6",
     "title": "College LAX Championships- FREE ADMISSION!!!!",
     "date": "2026-05-25",
     "time": "1:00pm - 3:00pm",
@@ -179,7 +153,7 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/percussion-ensemble-in-concert-24546/",
-    "category": "arts"
+    "category": "entertainment"
   },
   {
     "id": "a64c21592d06",
@@ -193,6 +167,19 @@
     "cost": "Free",
     "url": "https://www.arlnow.com/events/intuitive-art-making-mindful-mark-making-25048/",
     "category": "arts"
+  },
+  {
+    "id": "ccc843cabb51",
+    "title": "Global Running Day Mile Time Trials (Washington-Liberty High School)",
+    "date": "2026-06-03",
+    "time": "6:30pm - 8:30pm",
+    "location": "1301 N Stafford StArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "teens",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/global-running-day-mile-time-trials-washington-liberty-high-school-25201/",
+    "category": "sports"
   },
   {
     "id": "dcc4d6a5186f",
