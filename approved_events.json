@@ -1,19 +1,6 @@
 [
   {
-    "id": "e0793de889e8",
-    "title": "Pokemon in Real Life",
-    "date": "2026-05-27",
-    "time": "2:30pm - 3:30pm",
-    "location": "2845 N. Marcey RoadArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pokemon-in-real-life-22268/",
-    "category": "entertainment"
-  },
-  {
-    "id": "70b2dc8402c5",
+    "id": "c2834eb37a84",
     "title": "Coffee and Craft",
     "date": "2026-05-28",
     "time": "10:30am - 12:00pm",
@@ -26,7 +13,7 @@
     "category": "arts"
   },
   {
-    "id": "4d7c37eff2d9",
+    "id": "25df8f76eadb",
     "title": "Music by the Metro \u2013 Clarendon Concert Series\u200b",
     "date": "2026-05-28",
     "time": "6:00pm - 8:00pm",
@@ -167,19 +154,6 @@
     "cost": "Free",
     "url": "https://www.arlnow.com/events/global-running-day-mile-time-trials-washington-liberty-high-school-25201/",
     "category": "sports"
-  },
-  {
-    "id": "dcc4d6a5186f",
-    "title": "Gentle Yoga",
-    "date": "2026-06-04",
-    "time": "6:30pm - 7:30pm",
-    "location": "816 South Walter Reed DriveArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/gentle-yoga-25323/",
-    "category": "other"
   },
   {
     "id": "d604fba4925e",
