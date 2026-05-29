@@ -1,32 +1,6 @@
 [
   {
-    "id": "c2834eb37a84",
-    "title": "Coffee and Craft",
-    "date": "2026-05-28",
-    "time": "10:30am - 12:00pm",
-    "location": "525 14th Street SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/coffee-and-craft-24669/",
-    "category": "arts"
-  },
-  {
-    "id": "25df8f76eadb",
-    "title": "Music by the Metro \u2013 Clarendon Concert Series\u200b",
-    "date": "2026-05-28",
-    "time": "6:00pm - 8:00pm",
-    "location": "3140 Wilson BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/music-by-the-metro-clarendon-concert-series-23971/",
-    "category": "entertainment"
-  },
-  {
-    "id": "a6b87b1fc661",
+    "id": "a57415333333",
     "title": "Green Valley Farmers Market",
     "date": "2026-05-29",
     "time": "4:00pm - 7:00pm",
@@ -88,7 +62,7 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/animal-olympics-22269/",
-    "category": "sports"
+    "category": "outdoor"
   },
   {
     "id": "8cf4dd2a921e",
@@ -127,7 +101,7 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/percussion-ensemble-in-concert-24546/",
-    "category": "arts"
+    "category": "entertainment"
   },
   {
     "id": "a64c21592d06",
@@ -193,5 +167,31 @@
     "cost": "Free",
     "url": "https://www.arlnow.com/events/pre-show-experience-dream-on-a-pajama-dance-party-24014/",
     "category": "entertainment"
+  },
+  {
+    "id": "d087f91b83f5",
+    "title": "MoCA on the Move: Zara Gonzalez Hoang \u2014 More Monoprints!",
+    "date": "2026-06-07",
+    "time": "10:00am - 1:00pm",
+    "location": "South Fern StreetArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/moca-on-the-move-zara-gonzalez-hoang-more-monoprints-23527/",
+    "category": "arts"
+  },
+  {
+    "id": "7042c0d70277",
+    "title": "Analog Afternoon: Y2K Bedazzling",
+    "date": "2026-06-07",
+    "time": "3:00pm - 5:00pm",
+    "location": "525 14th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/analog-afternoon-y2k-bedazzling-25429/",
+    "category": "arts"
   }
 ]
