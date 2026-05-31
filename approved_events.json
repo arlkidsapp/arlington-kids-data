@@ -1,58 +1,6 @@
 [
   {
-    "id": "93136ea24b4f",
-    "title": "Community Yard Sale",
-    "date": "2026-05-30",
-    "time": "9:00am - 12:00pm",
-    "location": "870 South Greenbier street 102Arlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/community-yard-sale-25018/",
-    "category": "other"
-  },
-  {
-    "id": "0f216b23ea68",
-    "title": "Parent + Toddler Time",
-    "date": "2026-05-30",
-    "time": "9:30am - 11:30am",
-    "location": "870 South Greenbier street 102Arlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "0-2",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/parent-toddler-time-25556/",
-    "category": "other"
-  },
-  {
-    "id": "af89dacb3fde",
-    "title": "Halls Hill-High View Park Neighborhood Day 2026",
-    "date": "2026-05-30",
-    "time": "10:00am - 6:00pm",
-    "location": "1945 N Dinwiddie StArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/halls-hill-high-view-park-neighborhood-day-2026-25169/",
-    "category": "outdoor"
-  },
-  {
-    "id": "4db5b1486c65",
-    "title": "Animal Olympics",
-    "date": "2026-05-30",
-    "time": "2:00pm - 3:00pm",
-    "location": "2845 N. Marcey RoadArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/animal-olympics-22269/",
-    "category": "sports"
-  },
-  {
-    "id": "8cf4dd2a921e",
+    "id": "c4a5de7b23e2",
     "title": "MoCA on the Move: Watercolor prints inspired by the Native plants of Metropolita",
     "date": "2026-05-31",
     "time": "10:00am - 1:00pm",
@@ -65,7 +13,7 @@
     "category": "arts"
   },
   {
-    "id": "c2fb88383c95",
+    "id": "87bfa7fa26d5",
     "title": "Kick-A-Thon to Benefit Arlington Free Clinic",
     "date": "2026-05-31",
     "time": "2:00pm - 4:00pm",
@@ -78,7 +26,7 @@
     "category": "sports"
   },
   {
-    "id": "38874b5c8a98",
+    "id": "4a33cdad1384",
     "title": "Percussion Ensemble in Concert",
     "date": "2026-05-31",
     "time": "3:00pm - 4:00pm",
@@ -156,19 +104,6 @@
     "category": "outdoor"
   },
   {
-    "id": "55addc4a0998",
-    "title": "Ball-Sellers House Open for FREE Tours",
-    "date": "2026-06-06",
-    "time": "1:00pm - 4:00pm",
-    "location": "5620 3rd Street, SouthArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/ball-sellers-house-open-for-free-tours-25683/",
-    "category": "educational"
-  },
-  {
     "id": "7c8531b2d57e",
     "title": "Pre-Show Experience: Dream On: A Pajama Dance Party",
     "date": "2026-06-06",
@@ -206,5 +141,31 @@
     "cost": "Free",
     "url": "https://www.arlnow.com/events/analog-afternoon-y2k-bedazzling-25429/",
     "category": "arts"
+  },
+  {
+    "id": "8f697ebbd2f2",
+    "title": "Self-Defense Basics Class",
+    "date": "2026-06-10",
+    "time": "5:00pm - 7:00pm",
+    "location": "735 South 18th StreetArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "9-12",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/self-defense-basics-class-25322/",
+    "category": "sports"
+  },
+  {
+    "id": "d5db5f72d9cf",
+    "title": "The Superman Cartoons of Max Fleischer",
+    "date": "2026-06-10",
+    "time": "7:00pm - 9:00pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-superman-cartoons-of-max-fleischer-25466/",
+    "category": "entertainment"
   }
 ]
