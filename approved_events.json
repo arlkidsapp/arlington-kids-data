@@ -1,44 +1,5 @@
 [
   {
-    "id": "c4a5de7b23e2",
-    "title": "MoCA on the Move: Watercolor prints inspired by the Native plants of Metropolita",
-    "date": "2026-05-31",
-    "time": "10:00am - 1:00pm",
-    "location": "South Fern StreetArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/moca-on-the-move-watercolor-prints-inspired-by-the-native-plants-of-metropolita-23525/",
-    "category": "arts"
-  },
-  {
-    "id": "87bfa7fa26d5",
-    "title": "Kick-A-Thon to Benefit Arlington Free Clinic",
-    "date": "2026-05-31",
-    "time": "2:00pm - 4:00pm",
-    "location": "932 S Walter Reed DriveArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/kick-a-thon-to-benefit-arlington-free-clinic-25227/",
-    "category": "sports"
-  },
-  {
-    "id": "4a33cdad1384",
-    "title": "Percussion Ensemble in Concert",
-    "date": "2026-05-31",
-    "time": "3:00pm - 4:00pm",
-    "location": "1633 Davidson RdMclean,Virginia22010",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/percussion-ensemble-in-concert-24546/",
-    "category": "entertainment"
-  },
-  {
     "id": "a64c21592d06",
     "title": "Intuitive Art Making: Mindful Mark Making",
     "date": "2026-06-03",
@@ -91,6 +52,19 @@
     "category": "outdoor"
   },
   {
+    "id": "57fea34d786c",
+    "title": "Cinema on the Plaza: Turning Red",
+    "date": "2026-06-05",
+    "time": "8:00pm - 10:00pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/cinema-on-the-plaza-turning-red-25733/",
+    "category": "entertainment"
+  },
+  {
     "id": "19d64a933b00",
     "title": "Green Valley Car & Bike Show",
     "date": "2026-06-06",
@@ -102,6 +76,19 @@
     "cost": "Free",
     "url": "https://www.arlnow.com/events/green-valley-car-bike-show-25612/",
     "category": "outdoor"
+  },
+  {
+    "id": "55addc4a0998",
+    "title": "Ball-Sellers House Open for FREE Tours",
+    "date": "2026-06-06",
+    "time": "1:00pm - 4:00pm",
+    "location": "5620 3rd Street, SouthArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/ball-sellers-house-open-for-free-tours-25683/",
+    "category": "educational"
   },
   {
     "id": "7c8531b2d57e",
@@ -137,7 +124,7 @@
     "location": "525 14th St SArlington,Virginia22202",
     "address": null,
     "description": "No description available",
-    "ageRange": "9-12",
+    "ageRange": "6-8",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/analog-afternoon-y2k-bedazzling-25429/",
     "category": "arts"
