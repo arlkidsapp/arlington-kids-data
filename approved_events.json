@@ -78,19 +78,6 @@
     "category": "outdoor"
   },
   {
-    "id": "55addc4a0998",
-    "title": "Ball-Sellers House Open for FREE Tours",
-    "date": "2026-06-06",
-    "time": "1:00pm - 4:00pm",
-    "location": "5620 3rd Street, SouthArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/ball-sellers-house-open-for-free-tours-25683/",
-    "category": "educational"
-  },
-  {
     "id": "7c8531b2d57e",
     "title": "Pre-Show Experience: Dream On: A Pajama Dance Party",
     "date": "2026-06-06",
@@ -124,10 +111,75 @@
     "location": "525 14th St SArlington,Virginia22202",
     "address": null,
     "description": "No description available",
-    "ageRange": "6-8",
+    "ageRange": "9-12",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/analog-afternoon-y2k-bedazzling-25429/",
     "category": "arts"
+  },
+  {
+    "id": "394d1b9772d8",
+    "title": "Knit Kindness",
+    "date": "2026-06-08",
+    "time": "12:30pm - 1:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "6-8",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/knit-kindness-25742/",
+    "category": "arts"
+  },
+  {
+    "id": "0ed7c96fbd40",
+    "title": "K-Pop Dance with WJ Dance Studio",
+    "date": "2026-06-08",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/k-pop-dance-with-wj-dance-studio-25741/",
+    "category": "arts"
+  },
+  {
+    "id": "a12a2e35c391",
+    "title": "Mason Square Makers",
+    "date": "2026-06-09",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/mason-square-makers-25744/",
+    "category": "arts"
+  },
+  {
+    "id": "07cc75eff6a6",
+    "title": "Storytime",
+    "date": "2026-06-10",
+    "time": "11:30am - 12:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "3-5",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/storytime-25747/",
+    "category": "educational"
+  },
+  {
+    "id": "17edd1778549",
+    "title": "Chess Social",
+    "date": "2026-06-10",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "6-8",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/chess-social-25748/",
+    "category": "educational"
   },
   {
     "id": "8f697ebbd2f2",
@@ -141,6 +193,19 @@
     "cost": "Free",
     "url": "https://www.arlnow.com/events/self-defense-basics-class-25322/",
     "category": "sports"
+  },
+  {
+    "id": "051b329ef6ed",
+    "title": "Outdoor Yoga with Mind the Mat",
+    "date": "2026-06-10",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-25749/",
+    "category": "outdoor"
   },
   {
     "id": "d5db5f72d9cf",
