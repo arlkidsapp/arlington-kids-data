@@ -1,6 +1,6 @@
 [
   {
-    "id": "a64c21592d06",
+    "id": "7adf53eab77a",
     "title": "Intuitive Art Making: Mindful Mark Making",
     "date": "2026-06-03",
     "time": "6:30pm - 7:30pm",
@@ -13,7 +13,7 @@
     "category": "arts"
   },
   {
-    "id": "ccc843cabb51",
+    "id": "bafb084360e5",
     "title": "Global Running Day Mile Time Trials (Washington-Liberty High School)",
     "date": "2026-06-03",
     "time": "6:30pm - 8:30pm",
@@ -78,6 +78,19 @@
     "category": "outdoor"
   },
   {
+    "id": "55addc4a0998",
+    "title": "Ball-Sellers House Open for FREE Tours",
+    "date": "2026-06-06",
+    "time": "1:00pm - 4:00pm",
+    "location": "5620 3rd Street, SouthArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/ball-sellers-house-open-for-free-tours-25683/",
+    "category": "educational"
+  },
+  {
     "id": "7c8531b2d57e",
     "title": "Pre-Show Experience: Dream On: A Pajama Dance Party",
     "date": "2026-06-06",
@@ -85,7 +98,7 @@
     "location": "125 S. Old Glebe Rd.Arlington,Virginia22204",
     "address": null,
     "description": "No description available",
-    "ageRange": "all ages",
+    "ageRange": "3-5",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/pre-show-experience-dream-on-a-pajama-dance-party-24014/",
     "category": "entertainment"
@@ -143,19 +156,6 @@
     "category": "arts"
   },
   {
-    "id": "a12a2e35c391",
-    "title": "Mason Square Makers",
-    "date": "2026-06-09",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/mason-square-makers-25744/",
-    "category": "arts"
-  },
-  {
     "id": "07cc75eff6a6",
     "title": "Storytime",
     "date": "2026-06-10",
@@ -176,7 +176,7 @@
     "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
     "address": null,
     "description": "No description available",
-    "ageRange": "6-8",
+    "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/chess-social-25748/",
     "category": "educational"
@@ -189,7 +189,7 @@
     "location": "735 South 18th StreetArlington,Virginia22202",
     "address": null,
     "description": "No description available",
-    "ageRange": "9-12",
+    "ageRange": "teens",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/self-defense-basics-class-25322/",
     "category": "sports"
