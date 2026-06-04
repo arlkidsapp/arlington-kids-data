@@ -1,32 +1,6 @@
 [
   {
-    "id": "7adf53eab77a",
-    "title": "Intuitive Art Making: Mindful Mark Making",
-    "date": "2026-06-03",
-    "time": "6:30pm - 7:30pm",
-    "location": "525 14th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/intuitive-art-making-mindful-mark-making-25048/",
-    "category": "arts"
-  },
-  {
-    "id": "bafb084360e5",
-    "title": "Global Running Day Mile Time Trials (Washington-Liberty High School)",
-    "date": "2026-06-03",
-    "time": "6:30pm - 8:30pm",
-    "location": "1301 N Stafford StArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "teens",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/global-running-day-mile-time-trials-washington-liberty-high-school-25201/",
-    "category": "sports"
-  },
-  {
-    "id": "dcc4d6a5186f",
+    "id": "08f4993c0874",
     "title": "Gentle Yoga",
     "date": "2026-06-04",
     "time": "6:30pm - 7:30pm",
@@ -36,7 +10,7 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/gentle-yoga-25323/",
-    "category": "sports"
+    "category": "other"
   },
   {
     "id": "d604fba4925e",
@@ -78,6 +52,19 @@
     "category": "outdoor"
   },
   {
+    "id": "8362a156e5d3",
+    "title": "NoVa Synchro Water Show (Minnie Howard Aquatics Facility)",
+    "date": "2026-06-06",
+    "time": "11:00am - 12:00pm",
+    "location": "3795 W Braddock Rd.Alexandria,Virginia22302",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/nova-synchro-water-show-minnie-howard-aquatics-facility-25857/",
+    "category": "sports"
+  },
+  {
     "id": "55addc4a0998",
     "title": "Ball-Sellers House Open for FREE Tours",
     "date": "2026-06-06",
@@ -98,7 +85,7 @@
     "location": "125 S. Old Glebe Rd.Arlington,Virginia22204",
     "address": null,
     "description": "No description available",
-    "ageRange": "3-5",
+    "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/pre-show-experience-dream-on-a-pajama-dance-party-24014/",
     "category": "entertainment"
@@ -156,6 +143,19 @@
     "category": "arts"
   },
   {
+    "id": "a12a2e35c391",
+    "title": "Mason Square Makers",
+    "date": "2026-06-09",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/mason-square-makers-25744/",
+    "category": "arts"
+  },
+  {
     "id": "07cc75eff6a6",
     "title": "Storytime",
     "date": "2026-06-10",
@@ -176,7 +176,7 @@
     "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
     "address": null,
     "description": "No description available",
-    "ageRange": "all ages",
+    "ageRange": "6-8",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/chess-social-25748/",
     "category": "educational"
@@ -219,5 +219,18 @@
     "cost": "Free",
     "url": "https://www.arlnow.com/events/the-superman-cartoons-of-max-fleischer-25466/",
     "category": "entertainment"
+  },
+  {
+    "id": "a09805c0d0db",
+    "title": "Ping Pong",
+    "date": "2026-06-11",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/ping-pong-25752/",
+    "category": "sports"
   }
 ]
