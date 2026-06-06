@@ -1,32 +1,6 @@
 [
   {
-    "id": "a57415333333",
-    "title": "Green Valley Farmers Market",
-    "date": "2026-06-05",
-    "time": "4:00pm - 7:00pm",
-    "location": "2406 S. Shirlington Rd.6Arlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/green-valley-farmers-market-25584/",
-    "category": "outdoor"
-  },
-  {
-    "id": "d37efcb287fb",
-    "title": "Cinema on the Plaza: Turning Red",
-    "date": "2026-06-05",
-    "time": "8:00pm - 10:00pm",
-    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/cinema-on-the-plaza-turning-red-25733/",
-    "category": "entertainment"
-  },
-  {
-    "id": "19d64a933b00",
+    "id": "9a015cba773c",
     "title": "Green Valley Car & Bike Show",
     "date": "2026-06-06",
     "time": "10:00am - 4:00pm",
@@ -39,7 +13,7 @@
     "category": "outdoor"
   },
   {
-    "id": "8362a156e5d3",
+    "id": "4ca12c4d94f5",
     "title": "NoVa Synchro Water Show (Minnie Howard Aquatics Facility)",
     "date": "2026-06-06",
     "time": "11:00am - 12:00pm",
@@ -52,7 +26,7 @@
     "category": "sports"
   },
   {
-    "id": "55addc4a0998",
+    "id": "98ec896c26f4",
     "title": "Ball-Sellers House Open for FREE Tours",
     "date": "2026-06-06",
     "time": "1:00pm - 4:00pm",
@@ -65,7 +39,7 @@
     "category": "educational"
   },
   {
-    "id": "7c8531b2d57e",
+    "id": "b2fb858f371f",
     "title": "Pre-Show Experience: Dream On: A Pajama Dance Party",
     "date": "2026-06-06",
     "time": "2:00pm - 2:30pm",
@@ -75,6 +49,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/pre-show-experience-dream-on-a-pajama-dance-party-24014/",
+    "category": "entertainment"
+  },
+  {
+    "id": "65b6bdca02c0",
+    "title": "Saturday Shuffle: Concert: The Flip Phone",
+    "date": "2026-06-06",
+    "time": "6:30pm - 8:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/saturday-shuffle-concert-the-flip-phone-25734/",
     "category": "entertainment"
   },
   {
@@ -150,7 +137,7 @@
     "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
     "address": null,
     "description": "No description available",
-    "ageRange": "all ages",
+    "ageRange": "3-5",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/storytime-25747/",
     "category": "educational"
@@ -219,5 +206,31 @@
     "cost": "Free",
     "url": "https://www.arlnow.com/events/ping-pong-25752/",
     "category": "sports"
+  },
+  {
+    "id": "1c4fb58d45b7",
+    "title": "Video Game Social",
+    "date": "2026-06-12",
+    "time": "12:30pm - 1:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/video-game-social-25754/",
+    "category": "entertainment"
+  },
+  {
+    "id": "2c33c4d2253c",
+    "title": "Coloring Page Friday",
+    "date": "2026-06-12",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/coloring-page-friday-25755/",
+    "category": "arts"
   }
 ]
