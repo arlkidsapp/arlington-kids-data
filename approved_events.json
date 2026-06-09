@@ -1,58 +1,6 @@
 [
   {
-    "id": "86fbc6b14b40",
-    "title": "Rising Senior Week",
-    "date": "2026-06-08",
-    "time": "12:00pm - 12:45pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rising-senior-week-25452/",
-    "category": "other"
-  },
-  {
-    "id": "5ed816474b94",
-    "title": "Knit Kindness",
-    "date": "2026-06-08",
-    "time": "12:30pm - 1:30pm",
-    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/knit-kindness-25742/",
-    "category": "other"
-  },
-  {
-    "id": "19ff3ff5c78c",
-    "title": "33rd Annual Chef\u2019s Best Dinner & Auction (Marriott Marquis DC)",
-    "date": "2026-06-08",
-    "time": "5:30pm - 8:15pm",
-    "location": "901 Massachusetts Avenue, NW Washington, DC 20001Washington,District of Columbia20006",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/33rd-annual-chefs-best-dinner-auction-marriott-marquis-dc-25418/",
-    "category": "other"
-  },
-  {
-    "id": "c0c6c658aa89",
-    "title": "K-Pop Dance with WJ Dance Studio",
-    "date": "2026-06-08",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/k-pop-dance-with-wj-dance-studio-25741/",
-    "category": "other"
-  },
-  {
-    "id": "1f348bbcc76d",
+    "id": "c32aaa44f35a",
     "title": "The State of Healthcare Conference 2026",
     "date": "2026-06-09",
     "time": "8:00am - 1:30pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "ba5fb8c16e4f",
+    "id": "4c6f065c90e9",
     "title": "Breath, Meditation, & Movement",
     "date": "2026-06-09",
     "time": "12:00pm - 1:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "a12a2e35c391",
+    "id": "9329cac2064f",
     "title": "Mason Square Makers",
     "date": "2026-06-09",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "9179ab8f2598",
+    "id": "6f4b3f1703f4",
     "title": "Trivia Tuesday",
     "date": "2026-06-09",
     "time": "8:30pm - 9:30pm",
@@ -296,6 +244,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/pilates-with-mind-the-mat-25753/",
+    "category": "other"
+  },
+  {
+    "id": "837bf5fea75b",
+    "title": "American Mahjong 101: Beginner Fundamentals at Montahj Social",
+    "date": "2026-06-11",
+    "time": "6:00pm - 9:00pm",
+    "location": "4201 Wilson Blvd #0160, Arlington, VA 22203, USAArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/american-mahjong-101-beginner-fundamentals-at-montahj-social-25995/",
     "category": "other"
   },
   {
@@ -673,6 +634,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/american-mahjong-102-strategy-development-at-montahj-social-26001/",
+    "category": "other"
+  },
+  {
+    "id": "4010219131fb",
+    "title": "Public Programs at the Planetarium on June 14th",
+    "date": "2026-06-14",
+    "time": "1:30pm - 4:00pm",
+    "location": "1426 N Quincy StArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/public-programs-at-the-planetarium-on-june-14th-25791/",
+    "category": "other"
+  },
+  {
+    "id": "453be720672c",
+    "title": "LIVE at the Lyceum \u2013 Alexandria Baroque Concert",
+    "date": "2026-06-14",
+    "time": "3:00pm - 4:00pm",
+    "location": "201 S Washington StAlexandria,Virginia22314",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/live-at-the-lyceum-alexandria-baroque-concert-25714/",
+    "category": "other"
+  },
+  {
+    "id": "922d896d0fd7",
+    "title": "Profs & Pints Northern Virginia: Lafayette\u2019s Long Fight for Liberty",
+    "date": "2026-06-14",
+    "time": "6:00pm - 8:30pm",
+    "location": "2010 Crystal DriveArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-lafayettes-long-fight-for-liberty-25658/",
     "category": "other"
   }
 ]
