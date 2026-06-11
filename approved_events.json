@@ -1,97 +1,6 @@
 [
   {
-    "id": "f136c6371812",
-    "title": "Storytime",
-    "date": "2026-06-10",
-    "time": "11:30am - 12:30pm",
-    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/storytime-25747/",
-    "category": "other"
-  },
-  {
-    "id": "8d3ae04e9ac8",
-    "title": "Chess Social",
-    "date": "2026-06-10",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/chess-social-25748/",
-    "category": "other"
-  },
-  {
-    "id": "0bdddf243b95",
-    "title": "Self-Defense Basics Class",
-    "date": "2026-06-10",
-    "time": "5:00pm - 7:00pm",
-    "location": "735 South 18th StreetArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/self-defense-basics-class-25322/",
-    "category": "other"
-  },
-  {
-    "id": "7e32bd6b6794",
-    "title": "Outdoor Yoga with Mind the Mat",
-    "date": "2026-06-10",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-25749/",
-    "category": "other"
-  },
-  {
-    "id": "c76322b192c3",
-    "title": "Advance Arlington\u2019s Annual Soir\u00e9e Celebrating Community Conversations",
-    "date": "2026-06-10",
-    "time": "6:30pm - 8:30pm",
-    "location": "3550 Wilson BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/advance-arlingtons-annual-soire-celebrating-community-conversations-25855/",
-    "category": "other"
-  },
-  {
-    "id": "b37945713649",
-    "title": "ROAD LONGER THAN MEMORY With Author Melanie McCabe",
-    "date": "2026-06-10",
-    "time": "7:00pm - 8:00pm",
-    "location": "2200 N Westmoreland StArlington,Virginia22213",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/road-longer-than-memory-with-author-melanie-mccabe-25238/",
-    "category": "other"
-  },
-  {
-    "id": "d600f286e36d",
-    "title": "The Superman Cartoons of Max Fleischer",
-    "date": "2026-06-10",
-    "time": "7:00pm - 9:00pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-superman-cartoons-of-max-fleischer-25466/",
-    "category": "other"
-  },
-  {
-    "id": "67fcd0040871",
+    "id": "0b9d4447766c",
     "title": "Webinar: Credit Score 101",
     "date": "2026-06-11",
     "time": "12:00pm - 1:00pm",
@@ -104,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "dd970879c303",
+    "id": "2cee1b3ade70",
     "title": "Yoga & Flow with SPENGA",
     "date": "2026-06-11",
     "time": "12:00pm - 1:00pm",
@@ -117,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "a09805c0d0db",
+    "id": "6d186d3d7303",
     "title": "Ping Pong",
     "date": "2026-06-11",
     "time": "3:00pm - 4:30pm",
@@ -130,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "aefbe1eac6ca",
+    "id": "97b92689d21c",
     "title": "World Cup at The Renegade",
     "date": "2026-06-11",
     "time": "3:00pm - 11:11pm",
@@ -143,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "03e5db6d3047",
+    "id": "da40611e832f",
     "title": "Rosslyn LIVE",
     "date": "2026-06-11",
     "time": "5:30pm - 8:00pm",
@@ -156,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "26ddcb423137",
+    "id": "636b5c7ef667",
     "title": "YIMBY Curious: An Intro to the Pro-Housing Movement in Arlington",
     "date": "2026-06-11",
     "time": "6:00pm - 7:30pm",
@@ -169,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "9bc66b09f834",
+    "id": "3d26c33ab93b",
     "title": "25th Remembrance of 9/11: A Fireside Chat",
     "date": "2026-06-11",
     "time": "6:00pm - 8:00pm",
@@ -182,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "ca7c3f9ae45e",
+    "id": "56378e76f708",
     "title": "Pilates with Mind the Mat",
     "date": "2026-06-11",
     "time": "6:00pm - 7:00pm",
@@ -195,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "837bf5fea75b",
+    "id": "18dc17360b8d",
     "title": "American Mahjong 101: Beginner Fundamentals at Montahj Social",
     "date": "2026-06-11",
     "time": "6:00pm - 9:00pm",
@@ -208,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "3fec223281bb",
+    "id": "bbcdd081dbeb",
     "title": "Queer Author Salon",
     "date": "2026-06-11",
     "time": "6:30pm - 8:00pm",
@@ -221,7 +130,7 @@
     "category": "other"
   },
   {
-    "id": "cfddcd6db2d3",
+    "id": "bca037037dac",
     "title": "Monthly Meditation",
     "date": "2026-06-11",
     "time": "6:30pm - 7:30pm",
@@ -234,7 +143,7 @@
     "category": "other"
   },
   {
-    "id": "67555c754d27",
+    "id": "a26497620b06",
     "title": "Arlington Historical Society Annual Members Meeting",
     "date": "2026-06-11",
     "time": "7:00pm - 7:15pm",
@@ -247,7 +156,7 @@
     "category": "other"
   },
   {
-    "id": "15d5240653ce",
+    "id": "61a6355b2b53",
     "title": "Pep Banned",
     "date": "2026-06-11",
     "time": "7:00pm - 9:00pm",
@@ -260,7 +169,7 @@
     "category": "other"
   },
   {
-    "id": "ac17525e7376",
+    "id": "72abd2280c2b",
     "title": "Bridges of Washington, DC: The Virginia Side",
     "date": "2026-06-11",
     "time": "7:15pm - 8:45pm",
@@ -465,6 +374,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/ball-sellers-house-museum-open-for-free-tours-25684/",
+    "category": "other"
+  },
+  {
+    "id": "866598aa9f07",
+    "title": "Arlington Democrats Juneteenth Celebration",
+    "date": "2026-06-13",
+    "time": "1:00pm - 5:00pm",
+    "location": "1945 N Dinwiddie StArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/arlington-democrats-juneteenth-celebration-26065/",
     "category": "other"
   },
   {
@@ -673,6 +595,71 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/lawn-games-social-25823/",
+    "category": "other"
+  },
+  {
+    "id": "2728543d7257",
+    "title": "K-Pop with WJ Dance Studio",
+    "date": "2026-06-15",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/k-pop-with-wj-dance-studio-25824/",
+    "category": "other"
+  },
+  {
+    "id": "5930d66c8af2",
+    "title": "Frozen Sing-Along Movie Night at the Arlington Drafthouse",
+    "date": "2026-06-15",
+    "time": "7:00pm - 8:45pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/frozen-sing-along-movie-night-at-the-arlington-drafthouse-26063/",
+    "category": "other"
+  },
+  {
+    "id": "e3e93bcb39ee",
+    "title": "Breath, Meditation and Movement",
+    "date": "2026-06-16",
+    "time": "12:00pm - 1:00pm",
+    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/breath-meditation-and-movement-25825/",
+    "category": "other"
+  },
+  {
+    "id": "1742762a2eee",
+    "title": "Mason Square Makers",
+    "date": "2026-06-16",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/mason-square-makers-25826/",
+    "category": "other"
+  },
+  {
+    "id": "bbb5761c7cfe",
+    "title": "How Do Retirement Communities Work? \u2013 Free Workshop",
+    "date": "2026-06-16",
+    "time": "5:00pm - 7:00pm",
+    "location": "4600 Cherry Hill Rd.Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/how-do-retirement-communities-work-free-workshop-26016/",
     "category": "other"
   }
 ]
