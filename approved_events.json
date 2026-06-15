@@ -1,84 +1,6 @@
 [
   {
-    "id": "c5fcfbe88e94",
-    "title": "MoCA on the Move: Make and Take \u201cDIY Stamps\u201d",
-    "date": "2026-06-14",
-    "time": "10:00am - 1:00pm",
-    "location": "South Fern StreetArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/moca-on-the-move-make-and-take-diy-stamps-23528/",
-    "category": "other"
-  },
-  {
-    "id": "9802be61cbcb",
-    "title": "American Mahjong 102: Strategy Development at Montahj Social",
-    "date": "2026-06-14",
-    "time": "12:00pm - 3:00pm",
-    "location": "4201 Wilson Blvd #0160, Arlington, VA 22203, USAArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/american-mahjong-102-strategy-development-at-montahj-social-26001/",
-    "category": "other"
-  },
-  {
-    "id": "a167981c6c78",
-    "title": "Public Programs at the Planetarium on June 14th",
-    "date": "2026-06-14",
-    "time": "1:30pm - 4:00pm",
-    "location": "1426 N Quincy StArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/public-programs-at-the-planetarium-on-june-14th-25791/",
-    "category": "other"
-  },
-  {
-    "id": "0c75932c7c99",
-    "title": "LIVE at the Lyceum \u2013 Alexandria Baroque Concert",
-    "date": "2026-06-14",
-    "time": "3:00pm - 4:00pm",
-    "location": "201 S Washington StAlexandria,Virginia22314",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/live-at-the-lyceum-alexandria-baroque-concert-25714/",
-    "category": "other"
-  },
-  {
-    "id": "07447b530190",
-    "title": "Profs & Pints Northern Virginia: Lafayette\u2019s Long Fight for Liberty",
-    "date": "2026-06-14",
-    "time": "6:00pm - 8:30pm",
-    "location": "2010 Crystal DriveArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-lafayettes-long-fight-for-liberty-25658/",
-    "category": "other"
-  },
-  {
-    "id": "b4c754c23543",
-    "title": "Paris Sashay & Friends: Pride Edition",
-    "date": "2026-06-14",
-    "time": "7:00pm - 9:00pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/paris-sashay-friends-pride-edition-25851/",
-    "category": "other"
-  },
-  {
-    "id": "cb8e5e39f50d",
+    "id": "5ed816474b94",
     "title": "Knit Kindness",
     "date": "2026-06-15",
     "time": "12:30pm - 1:30pm",
@@ -91,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "fac3238f6f1c",
+    "id": "12973ce02e38",
     "title": "Lawn Games Social",
     "date": "2026-06-15",
     "time": "3:00pm - 4:00pm",
@@ -104,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "2728543d7257",
+    "id": "23f0dafb74f6",
     "title": "K-Pop with WJ Dance Studio",
     "date": "2026-06-15",
     "time": "6:00pm - 7:00pm",
@@ -117,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "5930d66c8af2",
+    "id": "e1d57104cb1d",
     "title": "Frozen Sing-Along Movie Night at the Arlington Drafthouse",
     "date": "2026-06-15",
     "time": "7:00pm - 8:45pm",
@@ -257,6 +179,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/storytime-25828/",
+    "category": "other"
+  },
+  {
+    "id": "838bdb7b4df6",
+    "title": "American Mahjong Social League at Montahj Social",
+    "date": "2026-06-17",
+    "time": "12:00pm - 2:00pm",
+    "location": "4201 Wilson Blvd #0160, Arlington, VA 22203, USAArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/american-mahjong-social-league-at-montahj-social-26157/",
     "category": "other"
   },
   {
@@ -403,6 +338,19 @@
     "category": "other"
   },
   {
+    "id": "155b8972815d",
+    "title": "Author Talk: Nicole Taylor, \u201cWatermelon & Red Birds: A Cookbook for Juneteenth\u201d",
+    "date": "2026-06-18",
+    "time": "6:30pm - 7:45pm",
+    "location": "1015 N Quincy StArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/author-talk-nicole-taylor-watermelon-red-birds-a-cookbook-for-juneteenth-26167/",
+    "category": "other"
+  },
+  {
     "id": "3a3249465c39",
     "title": "A Nation in Music: Celebrating 250 Years of America",
     "date": "2026-06-18",
@@ -429,6 +377,19 @@
     "category": "other"
   },
   {
+    "id": "cb75d69fec84",
+    "title": "American Mahjong Social League at Montahj Social",
+    "date": "2026-06-18",
+    "time": "7:00pm - 9:00pm",
+    "location": "4201 Wilson Blvd #0160, Arlington, VA 22203, USAarlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/american-mahjong-social-league-at-montahj-social-26158/",
+    "category": "other"
+  },
+  {
     "id": "0aa966fa6f07",
     "title": "Drunk Black History",
     "date": "2026-06-18",
@@ -439,6 +400,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/drunk-black-history-25106/",
+    "category": "other"
+  },
+  {
+    "id": "ff43ca4c6a30",
+    "title": "\u201cBy George: It All Comes Down\u201d immersive documentary at Dupont Underground",
+    "date": "2026-06-19",
+    "time": "11:00am - 5:00pm",
+    "location": "19 Dupont CircleWashington,District of Columbia20036",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/by-george-it-all-comes-down-immersive-documentary-at-dupont-underground-26149/",
     "category": "other"
   },
   {
@@ -530,6 +504,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/at-the-vanguarda-90s-college-reunion-26084/",
+    "category": "other"
+  },
+  {
+    "id": "27d1da50d186",
+    "title": "Tim Meadows (Live Comedy @ Arlington Drafthouse)",
+    "date": "2026-06-19",
+    "time": "7:00pm - 8:45pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/tim-meadows-live-comedy-arlington-drafthouse-26155/",
     "category": "other"
   },
   {
@@ -634,6 +621,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/yacht-party-at-the-village-at-shirlington-24655/",
+    "category": "other"
+  },
+  {
+    "id": "2921329163e2",
+    "title": "Play All Day VA",
+    "date": "2026-06-20",
+    "time": "5:00pm - 7:00pm",
+    "location": "300 N. Park DrArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/play-all-day-va-25894/",
     "category": "other"
   }
 ]
