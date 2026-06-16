@@ -1,58 +1,6 @@
 [
   {
-    "id": "5ed816474b94",
-    "title": "Knit Kindness",
-    "date": "2026-06-15",
-    "time": "12:30pm - 1:30pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/knit-kindness-25822/",
-    "category": "other"
-  },
-  {
-    "id": "12973ce02e38",
-    "title": "Lawn Games Social",
-    "date": "2026-06-15",
-    "time": "3:00pm - 4:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/lawn-games-social-25823/",
-    "category": "other"
-  },
-  {
-    "id": "23f0dafb74f6",
-    "title": "K-Pop with WJ Dance Studio",
-    "date": "2026-06-15",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/k-pop-with-wj-dance-studio-25824/",
-    "category": "other"
-  },
-  {
-    "id": "e1d57104cb1d",
-    "title": "Frozen Sing-Along Movie Night at the Arlington Drafthouse",
-    "date": "2026-06-15",
-    "time": "7:00pm - 8:45pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/frozen-sing-along-movie-night-at-the-arlington-drafthouse-26063/",
-    "category": "other"
-  },
-  {
-    "id": "e3e93bcb39ee",
+    "id": "77c07141c6de",
     "title": "Breath, Meditation and Movement",
     "date": "2026-06-16",
     "time": "12:00pm - 1:00pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "1742762a2eee",
+    "id": "9329cac2064f",
     "title": "Mason Square Makers",
     "date": "2026-06-16",
     "time": "3:00pm - 4:30pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "bbb5761c7cfe",
+    "id": "09d111efc38f",
     "title": "How Do Retirement Communities Work? \u2013 Free Workshop",
     "date": "2026-06-16",
     "time": "5:00pm - 7:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "f8c18825d47c",
+    "id": "59a1e98bd519",
     "title": "In Person Happy Hour",
     "date": "2026-06-16",
     "time": "6:00pm - 7:30pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "f13d9a6c9a67",
+    "id": "b16b2317d9e2",
     "title": "Free Soccer Camp (Alexandria Field)",
     "date": "2026-06-16",
     "time": "6:00pm - 8:00pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "abc24184920b",
+    "id": "e27c6ac887a0",
     "title": "Artist Talk: All The Tea on Generation Fabulous",
     "date": "2026-06-16",
     "time": "6:30pm - 7:30pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "238e00fc789d",
+    "id": "dcab9f5164c2",
     "title": "FREE Home Buying Workshop: Discover Arlington + The Davenport Group",
     "date": "2026-06-16",
     "time": "6:30pm - 7:30pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "7c8d476141b0",
+    "id": "7e4d89435b8a",
     "title": "Trivia Tuesdays",
     "date": "2026-06-16",
     "time": "8:30pm - 9:30pm",
@@ -244,6 +192,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/world-soccer-championship-watch-party-wednesdays-26071/",
+    "category": "other"
+  },
+  {
+    "id": "c9554e2f2f2c",
+    "title": "Garden Edition \u2013 Death Cafe at Glencarlyn",
+    "date": "2026-06-17",
+    "time": "6:00pm - 7:30pm",
+    "location": "300 South Kensington StreetArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/garden-edition-death-cafe-at-glencarlyn-26207/",
     "category": "other"
   },
   {
@@ -546,6 +507,19 @@
     "category": "other"
   },
   {
+    "id": "e8c576d8ca28",
+    "title": "Open House @ Little Lambs Academy!",
+    "date": "2026-06-20",
+    "time": "10:00am - 3:00pm",
+    "location": "333 S Glebe Rd, Suite AArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/open-house-little-lambs-academy-26176/",
+    "category": "other"
+  },
+  {
     "id": "6f1650445472",
     "title": "Saturday Sound Bath",
     "date": "2026-06-20",
@@ -634,6 +608,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/play-all-day-va-25894/",
+    "category": "other"
+  },
+  {
+    "id": "b21139185f59",
+    "title": "Bubbles & Amenities Party",
+    "date": "2026-06-20",
+    "time": "5:30pm - 6:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/bubbles-amenities-party-25839/",
+    "category": "other"
+  },
+  {
+    "id": "8637d0a203c6",
+    "title": "Portofino Wine Dinner",
+    "date": "2026-06-20",
+    "time": "6:30pm - 10:00pm",
+    "location": "526 23rd St S, Portofino RestaurantArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/portofino-wine-dinner-25336/",
+    "category": "other"
+  },
+  {
+    "id": "86d41575a0b0",
+    "title": "Saturday Shuffle",
+    "date": "2026-06-20",
+    "time": "7:00pm - 10:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/saturday-shuffle-25840/",
     "category": "other"
   }
 ]
