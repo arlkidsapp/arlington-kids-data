@@ -1,110 +1,6 @@
 [
   {
-    "id": "77c07141c6de",
-    "title": "Breath, Meditation and Movement",
-    "date": "2026-06-16",
-    "time": "12:00pm - 1:00pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/breath-meditation-and-movement-25825/",
-    "category": "other"
-  },
-  {
-    "id": "9329cac2064f",
-    "title": "Mason Square Makers",
-    "date": "2026-06-16",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/mason-square-makers-25826/",
-    "category": "other"
-  },
-  {
-    "id": "09d111efc38f",
-    "title": "How Do Retirement Communities Work? \u2013 Free Workshop",
-    "date": "2026-06-16",
-    "time": "5:00pm - 7:00pm",
-    "location": "4600 Cherry Hill Rd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/how-do-retirement-communities-work-free-workshop-26016/",
-    "category": "other"
-  },
-  {
-    "id": "59a1e98bd519",
-    "title": "In Person Happy Hour",
-    "date": "2026-06-16",
-    "time": "6:00pm - 7:30pm",
-    "location": "2401 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/in-person-happy-hour-25450/",
-    "category": "other"
-  },
-  {
-    "id": "b16b2317d9e2",
-    "title": "Free Soccer Camp (Alexandria Field)",
-    "date": "2026-06-16",
-    "time": "6:00pm - 8:00pm",
-    "location": "TBDAlexandria,Virginia22312",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-soccer-camp-alexandria-field-25694/",
-    "category": "other"
-  },
-  {
-    "id": "e27c6ac887a0",
-    "title": "Artist Talk: All The Tea on Generation Fabulous",
-    "date": "2026-06-16",
-    "time": "6:30pm - 7:30pm",
-    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/artist-talk-all-the-tea-on-generation-fabulous-25368/",
-    "category": "other"
-  },
-  {
-    "id": "dcab9f5164c2",
-    "title": "FREE Home Buying Workshop: Discover Arlington + The Davenport Group",
-    "date": "2026-06-16",
-    "time": "6:30pm - 7:30pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-home-buying-workshop-discover-arlington-the-davenport-group-25419/",
-    "category": "other"
-  },
-  {
-    "id": "7e4d89435b8a",
-    "title": "Trivia Tuesdays",
-    "date": "2026-06-16",
-    "time": "8:30pm - 9:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/trivia-tuesdays-25827/",
-    "category": "other"
-  },
-  {
-    "id": "069e1074ccef",
+    "id": "4a57add35658",
     "title": "Exploring the World of Tea with UppiTea",
     "date": "2026-06-17",
     "time": "11:00am - 12:00pm",
@@ -117,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "6fcaa49e6110",
+    "id": "f136c6371812",
     "title": "Storytime",
     "date": "2026-06-17",
     "time": "11:30am - 12:30pm",
@@ -130,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "838bdb7b4df6",
+    "id": "974985ecee1a",
     "title": "American Mahjong Social League at Montahj Social",
     "date": "2026-06-17",
     "time": "12:00pm - 2:00pm",
@@ -143,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "6f95ee7bb24a",
+    "id": "8d3ae04e9ac8",
     "title": "Chess Social",
     "date": "2026-06-17",
     "time": "3:00pm - 4:30pm",
@@ -156,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "be084f732d25",
+    "id": "b88647163d0a",
     "title": "Dish with the Commish",
     "date": "2026-06-17",
     "time": "5:00pm - 7:00pm",
@@ -169,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "19e80ba42177",
+    "id": "7e32bd6b6794",
     "title": "Outdoor Yoga with Mind the Mat",
     "date": "2026-06-17",
     "time": "6:00pm - 7:00pm",
@@ -182,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "1185af548788",
+    "id": "9b1b51dc4f1f",
     "title": "World Soccer Championship Watch Party Wednesdays",
     "date": "2026-06-17",
     "time": "6:00pm - 9:00pm",
@@ -195,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "c9554e2f2f2c",
+    "id": "0e9d475295e3",
     "title": "Garden Edition \u2013 Death Cafe at Glencarlyn",
     "date": "2026-06-17",
     "time": "6:00pm - 7:30pm",
@@ -208,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "6b1a467f9266",
+    "id": "765c0a5482b9",
     "title": "Wellness Wednesday: Sound Bath & Music",
     "date": "2026-06-17",
     "time": "6:30pm - 7:30pm",
@@ -647,6 +543,136 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/saturday-shuffle-25840/",
+    "category": "other"
+  },
+  {
+    "id": "ae59636ecf07",
+    "title": "Tim Meadows (Live Comedy @ Arlington Drafthouse)",
+    "date": "2026-06-20",
+    "time": "7:00pm - 8:45pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/tim-meadows-live-comedy-arlington-drafthouse-26202/",
+    "category": "other"
+  },
+  {
+    "id": "dd5727a05df4",
+    "title": "Stargazing on Sally\u2019s Night",
+    "date": "2026-06-20",
+    "time": "9:00pm - 11:00pm",
+    "location": "7th Street and Independence Avenue SWWashington,District of Columbia20560",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/stargazing-on-sallys-night-26009/",
+    "category": "other"
+  },
+  {
+    "id": "673a72b7366a",
+    "title": "Summer Solstice Ceremony: Radiance, Expression and Being Seen",
+    "date": "2026-06-21",
+    "time": "2:00pm - 5:00pm",
+    "location": "1050 North Stuart StreetArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/summer-solstice-ceremony-radiance-expression-and-being-seen-25411/",
+    "category": "other"
+  },
+  {
+    "id": "c137a1fe6477",
+    "title": "Firefly Festival (Fort CF Smith Park)",
+    "date": "2026-06-21",
+    "time": "7:00pm - 9:00pm",
+    "location": "2411 N 24th StArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/firefly-festival-fort-cf-smith-park-26141/",
+    "category": "other"
+  },
+  {
+    "id": "62733dc8ff0d",
+    "title": "Artificial Intelligence and Fraud: Is it a Scam?",
+    "date": "2026-06-22",
+    "time": "10:00am - 12:00pm",
+    "location": "2909 16th St SouthArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/artificial-intelligence-and-fraud-is-it-a-scam-26022/",
+    "category": "other"
+  },
+  {
+    "id": "737b30a9b4b5",
+    "title": "Knit Kindness",
+    "date": "2026-06-22",
+    "time": "12:30pm - 1:30pm",
+    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/knit-kindness-25900/",
+    "category": "other"
+  },
+  {
+    "id": "194b0757212d",
+    "title": "Summer camp 2026",
+    "date": "2026-06-22",
+    "time": "1:00pm - 4:00pm",
+    "location": "5512 23RD STREET NORTHARLINGTON,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/summer-camp-2026-23369/",
+    "category": "other"
+  },
+  {
+    "id": "81f70170267a",
+    "title": "Lawn Games Social",
+    "date": "2026-06-22",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/lawn-games-social-25902/",
+    "category": "other"
+  },
+  {
+    "id": "4a88d03b6f14",
+    "title": "K-Pop with WJ Dance Studio",
+    "date": "2026-06-22",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/k-pop-with-wj-dance-studio-25903/",
+    "category": "other"
+  },
+  {
+    "id": "ba03925aac67",
+    "title": "Last Day to Register for Summer Social Sport Leagues",
+    "date": "2026-06-23",
+    "time": "12:00am - 11:59pm",
+    "location": "Washington, District of ColumbiaWashington,District of Columbia20018",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/last-day-to-register-for-summer-social-sport-leagues-24766/",
     "category": "other"
   }
 ]
