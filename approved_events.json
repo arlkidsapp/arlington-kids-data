@@ -1,149 +1,6 @@
 [
   {
-    "id": "2cee1b3ade70",
-    "title": "Yoga & Flow with SPENGA",
-    "date": "2026-06-18",
-    "time": "12:00pm - 1:00pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/yoga-flow-with-spenga-25832/",
-    "category": "other"
-  },
-  {
-    "id": "6d186d3d7303",
-    "title": "Ping Pong",
-    "date": "2026-06-18",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/ping-pong-25833/",
-    "category": "other"
-  },
-  {
-    "id": "3882bf540b70",
-    "title": "Studio Sessions at Met Park",
-    "date": "2026-06-18",
-    "time": "5:00pm - 7:00pm",
-    "location": "South Fern StreetArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/studio-sessions-at-met-park-25043/",
-    "category": "other"
-  },
-  {
-    "id": "56378e76f708",
-    "title": "Pilates with Mind the Mat",
-    "date": "2026-06-18",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pilates-with-mind-the-mat-25834/",
-    "category": "other"
-  },
-  {
-    "id": "10819d00315e",
-    "title": "Catholic Running (and Walking) Group",
-    "date": "2026-06-18",
-    "time": "6:30pm - 8:00pm",
-    "location": "1910 N Randolph StArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/catholic-running-and-walking-group-25328/",
-    "category": "other"
-  },
-  {
-    "id": "c5521cb24454",
-    "title": "The Art of Downsizing",
-    "date": "2026-06-18",
-    "time": "6:30pm - 7:30pm",
-    "location": "816 South Walter Reed DriveArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-art-of-downsizing-25586/",
-    "category": "other"
-  },
-  {
-    "id": "703c82994f33",
-    "title": "Author Talk: Nicole Taylor, \u201cWatermelon & Red Birds: A Cookbook for Juneteenth\u201d",
-    "date": "2026-06-18",
-    "time": "6:30pm - 7:45pm",
-    "location": "1015 N Quincy StArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/author-talk-nicole-taylor-watermelon-red-birds-a-cookbook-for-juneteenth-26167/",
-    "category": "other"
-  },
-  {
-    "id": "4b0fa9dcc9af",
-    "title": "A Nation in Music: Celebrating 250 Years of America",
-    "date": "2026-06-18",
-    "time": "7:00pm - 8:30pm",
-    "location": "200 S. Carlin Springs RoadArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/a-nation-in-music-celebrating-250-years-of-america-24985/",
-    "category": "other"
-  },
-  {
-    "id": "a84f513b993a",
-    "title": "Tim Meadows (Live Comedy Show @ Arlington Drafthouse)",
-    "date": "2026-06-18",
-    "time": "7:00pm - 9:00pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/tim-meadows-live-comedy-show-arlington-drafthouse-26087/",
-    "category": "other"
-  },
-  {
-    "id": "974985ecee1a",
-    "title": "American Mahjong Social League at Montahj Social",
-    "date": "2026-06-18",
-    "time": "7:00pm - 9:00pm",
-    "location": "4201 Wilson Blvd #0160, Arlington, VA 22203, USAarlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/american-mahjong-social-league-at-montahj-social-26158/",
-    "category": "other"
-  },
-  {
-    "id": "8fbaa0c893d3",
-    "title": "Drunk Black History",
-    "date": "2026-06-18",
-    "time": "7:30pm - 9:00pm",
-    "location": "1523 22nd St. NWWashington,District of Columbia20037",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/drunk-black-history-25106/",
-    "category": "other"
-  },
-  {
-    "id": "ff43ca4c6a30",
+    "id": "0d706d071f27",
     "title": "\u201cBy George: It All Comes Down\u201d immersive documentary at Dupont Underground",
     "date": "2026-06-19",
     "time": "11:00am - 5:00pm",
@@ -156,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "db4dd7a03166",
+    "id": "960a4a5f2573",
     "title": "Juneteenth Community Day",
     "date": "2026-06-19",
     "time": "4:00pm - 7:00pm",
@@ -169,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "044b3aa786cf",
+    "id": "582e6b306521",
     "title": "3rd Annual Juneteenth Community Day",
     "date": "2026-06-19",
     "time": "4:00pm - 7:00pm",
@@ -182,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "73297d560c29",
+    "id": "803f1ed861c2",
     "title": "Air and Space \u2013 After Hours",
     "date": "2026-06-19",
     "time": "6:00pm - 11:00pm",
@@ -195,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "139b6d0be69f",
+    "id": "6f0dd858e3b0",
     "title": "At the Vanguard\u2014A \u201890s College Reunion",
     "date": "2026-06-19",
     "time": "6:00pm - 11:00pm",
@@ -208,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "27d1da50d186",
+    "id": "b843894f0839",
     "title": "Tim Meadows (Live Comedy @ Arlington Drafthouse)",
     "date": "2026-06-19",
     "time": "7:00pm - 8:45pm",
@@ -221,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "23084bac63a5",
+    "id": "33a69a8ff339",
     "title": "Live Comedy Show Starring Matt Bergman (Comedy Central)",
     "date": "2026-06-19",
     "time": "8:00pm - 10:00pm",
@@ -387,6 +244,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/portofino-wine-dinner-25336/",
+    "category": "other"
+  },
+  {
+    "id": "f374e4af6208",
+    "title": "Tibet Film Screening | Daughter of the Light",
+    "date": "2026-06-20",
+    "time": "6:30pm - 9:30pm",
+    "location": "1957 E St NW Ste 503Washington,District of Columbia20052-0041",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/tibet-film-screening-daughter-of-the-light-26278/",
     "category": "other"
   },
   {
@@ -673,6 +543,136 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-25910/",
+    "category": "other"
+  },
+  {
+    "id": "7743f87531bd",
+    "title": "Grease! Sing-Along (Ladies/Wine NIght)",
+    "date": "2026-06-24",
+    "time": "7:00pm - 8:45pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/grease-sing-along-ladieswine-night-26156/",
+    "category": "other"
+  },
+  {
+    "id": "9a7d9f75d179",
+    "title": "Yoga & Flow with SPENGA",
+    "date": "2026-06-25",
+    "time": "12:00pm - 1:00pm",
+    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/yoga-flow-with-spenga-25911/",
+    "category": "other"
+  },
+  {
+    "id": "ceca25b654c6",
+    "title": "Ping Pong",
+    "date": "2026-06-25",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/ping-pong-25912/",
+    "category": "other"
+  },
+  {
+    "id": "9ca6eeb37275",
+    "title": "Pilates with Mind the Mat",
+    "date": "2026-06-25",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/pilates-with-mind-the-mat-25913/",
+    "category": "other"
+  },
+  {
+    "id": "1a83b1fbd9f1",
+    "title": "World Cup Soccer Game USA vs. Turkiye @ Arlington Drafthouse",
+    "date": "2026-06-25",
+    "time": "9:00pm - 12:45am",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/world-cup-soccer-game-usa-vs-turkiye-arlington-drafthouse-26271/",
+    "category": "other"
+  },
+  {
+    "id": "a0a8335bec97",
+    "title": "Videogame Social",
+    "date": "2026-06-26",
+    "time": "12:30pm - 1:30pm",
+    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/videogame-social-25914/",
+    "category": "other"
+  },
+  {
+    "id": "67019dd3349b",
+    "title": "Coloring Page Friday",
+    "date": "2026-06-26",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/coloring-page-friday-25915/",
+    "category": "other"
+  },
+  {
+    "id": "9e53db2eca75",
+    "title": "Zumba Power Hour",
+    "date": "2026-06-26",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/zumba-power-hour-25916/",
+    "category": "other"
+  },
+  {
+    "id": "20367ba17817",
+    "title": "Summer Fridays Outdoors: Ride to Catboat Pizza Bar",
+    "date": "2026-06-26",
+    "time": "6:00pm - 8:30pm",
+    "location": "1 Marina DriveAlexandria,Virginia22314",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/summer-fridays-outdoors-ride-to-catboat-pizza-bar-26177/",
+    "category": "other"
+  },
+  {
+    "id": "2f435027dca3",
+    "title": "Pride Prom 2026: Starry Night (Torpedo Factory Arts Center)",
+    "date": "2026-06-26",
+    "time": "7:00pm - 11:00pm",
+    "location": "105 N Union StAlexandria,Virginia22314",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/pride-prom-2026-starry-night-torpedo-factory-arts-center-25997/",
     "category": "other"
   }
 ]
