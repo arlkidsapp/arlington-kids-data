@@ -1,97 +1,6 @@
 [
   {
-    "id": "0d706d071f27",
-    "title": "\u201cBy George: It All Comes Down\u201d immersive documentary at Dupont Underground",
-    "date": "2026-06-19",
-    "time": "11:00am - 5:00pm",
-    "location": "19 Dupont CircleWashington,District of Columbia20036",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/by-george-it-all-comes-down-immersive-documentary-at-dupont-underground-26149/",
-    "category": "other"
-  },
-  {
-    "id": "960a4a5f2573",
-    "title": "Juneteenth Community Day",
-    "date": "2026-06-19",
-    "time": "4:00pm - 7:00pm",
-    "location": "1325 South Dinwiddie StreetArlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/juneteenth-community-day-25739/",
-    "category": "other"
-  },
-  {
-    "id": "582e6b306521",
-    "title": "3rd Annual Juneteenth Community Day",
-    "date": "2026-06-19",
-    "time": "4:00pm - 7:00pm",
-    "location": "1325 S. Dinwiddie St.Arlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/3rd-annual-juneteenth-community-day-26044/",
-    "category": "other"
-  },
-  {
-    "id": "803f1ed861c2",
-    "title": "Air and Space \u2013 After Hours",
-    "date": "2026-06-19",
-    "time": "6:00pm - 11:00pm",
-    "location": "650 Jefferson Drive SWWashington,District of Columbia20560",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/air-and-space-after-hours-26006/",
-    "category": "other"
-  },
-  {
-    "id": "6f0dd858e3b0",
-    "title": "At the Vanguard\u2014A \u201890s College Reunion",
-    "date": "2026-06-19",
-    "time": "6:00pm - 11:00pm",
-    "location": "1400 Constitution Ave. NW, Washington, DC 20560Washington DC,20560",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/at-the-vanguarda-90s-college-reunion-26084/",
-    "category": "other"
-  },
-  {
-    "id": "b843894f0839",
-    "title": "Tim Meadows (Live Comedy @ Arlington Drafthouse)",
-    "date": "2026-06-19",
-    "time": "7:00pm - 8:45pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/tim-meadows-live-comedy-arlington-drafthouse-26155/",
-    "category": "other"
-  },
-  {
-    "id": "33a69a8ff339",
-    "title": "Live Comedy Show Starring Matt Bergman (Comedy Central)",
-    "date": "2026-06-19",
-    "time": "8:00pm - 10:00pm",
-    "location": "529 23rd Street SouthArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/live-comedy-show-starring-matt-bergman-comedy-central-26136/",
-    "category": "other"
-  },
-  {
-    "id": "481bb5628298",
+    "id": "4ac03ffd672d",
     "title": "Do Good Global Meal Pack",
     "date": "2026-06-20",
     "time": "9:00am - 5:00pm",
@@ -104,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "e8c576d8ca28",
+    "id": "912a4841302b",
     "title": "Open House @ Little Lambs Academy!",
     "date": "2026-06-20",
     "time": "10:00am - 3:00pm",
@@ -117,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "6f1650445472",
+    "id": "930745d920b3",
     "title": "Saturday Sound Bath",
     "date": "2026-06-20",
     "time": "12:00pm - 1:00pm",
@@ -130,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "37497c046774",
+    "id": "f9e1c4dfa5a7",
     "title": "Cultural Fest: JUBILEE: A Juneteenth Celebration",
     "date": "2026-06-20",
     "time": "1:00pm - 3:00pm",
@@ -143,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "978d499f9c2e",
+    "id": "326994a31448",
     "title": "Family Afternoon Movie: \u201cSoul\u201d",
     "date": "2026-06-20",
     "time": "1:00pm - 3:00pm",
@@ -156,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "79441213620a",
+    "id": "df0ce91d051c",
     "title": "Ball-Sellers House Museum Open for FREE Tours",
     "date": "2026-06-20",
     "time": "1:00pm - 4:00pm",
@@ -169,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "100e9f4ef921",
+    "id": "1f6e5ed7ec28",
     "title": "A Capella Concert: Bella Voce",
     "date": "2026-06-20",
     "time": "3:00pm - 4:00pm",
@@ -182,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "49e83e31117e",
+    "id": "1d2a48402047",
     "title": "Yacht Party at The Village at Shirlington",
     "date": "2026-06-20",
     "time": "4:00pm - 7:00pm",
@@ -195,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "2921329163e2",
+    "id": "c6b74dee9a73",
     "title": "Play All Day VA",
     "date": "2026-06-20",
     "time": "5:00pm - 7:00pm",
@@ -208,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "b21139185f59",
+    "id": "18137a75c723",
     "title": "Bubbles & Amenities Party",
     "date": "2026-06-20",
     "time": "5:30pm - 6:30pm",
@@ -221,7 +130,7 @@
     "category": "other"
   },
   {
-    "id": "ba9553026ac0",
+    "id": "540edf50e23f",
     "title": "Karaoke and Raffle Night",
     "date": "2026-06-20",
     "time": "6:00pm - 2:00am",
@@ -234,7 +143,7 @@
     "category": "other"
   },
   {
-    "id": "8637d0a203c6",
+    "id": "4cbcecfa9bde",
     "title": "Portofino Wine Dinner",
     "date": "2026-06-20",
     "time": "6:30pm - 10:00pm",
@@ -247,7 +156,7 @@
     "category": "other"
   },
   {
-    "id": "f374e4af6208",
+    "id": "733cc529a44c",
     "title": "Tibet Film Screening | Daughter of the Light",
     "date": "2026-06-20",
     "time": "6:30pm - 9:30pm",
@@ -260,7 +169,7 @@
     "category": "other"
   },
   {
-    "id": "86d41575a0b0",
+    "id": "60e9bc94bb34",
     "title": "Saturday Shuffle",
     "date": "2026-06-20",
     "time": "7:00pm - 10:00pm",
@@ -273,7 +182,7 @@
     "category": "other"
   },
   {
-    "id": "ae59636ecf07",
+    "id": "b843894f0839",
     "title": "Tim Meadows (Live Comedy @ Arlington Drafthouse)",
     "date": "2026-06-20",
     "time": "7:00pm - 8:45pm",
@@ -286,7 +195,7 @@
     "category": "other"
   },
   {
-    "id": "dd5727a05df4",
+    "id": "018718a79508",
     "title": "Stargazing on Sally\u2019s Night",
     "date": "2026-06-20",
     "time": "9:00pm - 11:00pm",
@@ -533,6 +442,19 @@
     "category": "other"
   },
   {
+    "id": "c4b9b93bb450",
+    "title": "Sillygander: Improv Watch & Learn",
+    "date": "2026-06-24",
+    "time": "5:30pm - 7:30pm",
+    "location": "1015 N Quincy StArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sillygander-improv-watch-learn-26308/",
+    "category": "other"
+  },
+  {
     "id": "806778831282",
     "title": "Outdoor Yoga with Mind the Mat",
     "date": "2026-06-24",
@@ -673,6 +595,84 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/pride-prom-2026-starry-night-torpedo-factory-arts-center-25997/",
+    "category": "other"
+  },
+  {
+    "id": "1f2c605ac2b8",
+    "title": "June Sound Bath: Explore Your Inner Freedom",
+    "date": "2026-06-26",
+    "time": "7:00pm - 8:00pm",
+    "location": "1050 North Stuart StreetArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/june-sound-bath-explore-your-inner-freedom-26146/",
+    "category": "other"
+  },
+  {
+    "id": "37618a3250b7",
+    "title": "Nick Thune (Live Comedy @ Arlington Drafthouse)",
+    "date": "2026-06-26",
+    "time": "7:00pm - 8:45pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/nick-thune-live-comedy-arlington-drafthouse-26203/",
+    "category": "other"
+  },
+  {
+    "id": "b3a08daaadc3",
+    "title": "Yoga en Espa\u00f1ol: Select Saturdays",
+    "date": "2026-06-27",
+    "time": "9:30am - 10:30am",
+    "location": "3550 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/yoga-en-espaol-select-saturdays-23823/",
+    "category": "other"
+  },
+  {
+    "id": "e12daaaf0b59",
+    "title": "Young Explorers Club",
+    "date": "2026-06-27",
+    "time": "10:00am - 12:00pm",
+    "location": "109 Founders AvenueFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/young-explorers-club-25523/",
+    "category": "other"
+  },
+  {
+    "id": "fb231cdfa62e",
+    "title": "Kol Ami Pride Shabbat",
+    "date": "2026-06-27",
+    "time": "10:00am - 12:00pm",
+    "location": "4444 Arlington Blvd.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/kol-ami-pride-shabbat-26273/",
+    "category": "other"
+  },
+  {
+    "id": "ca55c2eb46c9",
+    "title": "First Baby? Connect with other New Moms!",
+    "date": "2026-06-27",
+    "time": "11:00am - 12:00pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/first-baby-connect-with-other-new-moms-26013/",
     "category": "other"
   }
 ]
