@@ -1,45 +1,6 @@
 [
   {
-    "id": "9415f8784d07",
-    "title": "Summer Solstice Ceremony: Radiance, Expression and Being Seen",
-    "date": "2026-06-21",
-    "time": "2:00pm - 5:00pm",
-    "location": "1050 North Stuart StreetArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/summer-solstice-ceremony-radiance-expression-and-being-seen-25411/",
-    "category": "other"
-  },
-  {
-    "id": "2c7bec975e4c",
-    "title": "Stoppard\u2019s Every Good Boy Deserves Favor",
-    "date": "2026-06-21",
-    "time": "5:00pm - 6:00pm",
-    "location": "4201 Wilson BlvdArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/stoppards-every-good-boy-deserves-favor-26268/",
-    "category": "other"
-  },
-  {
-    "id": "88b9355d4499",
-    "title": "Firefly Festival (Fort CF Smith Park)",
-    "date": "2026-06-21",
-    "time": "7:00pm - 9:00pm",
-    "location": "2411 N 24th StArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/firefly-festival-fort-cf-smith-park-26141/",
-    "category": "other"
-  },
-  {
-    "id": "62733dc8ff0d",
+    "id": "4d50512d7c03",
     "title": "Artificial Intelligence and Fraud: Is it a Scam?",
     "date": "2026-06-22",
     "time": "10:00am - 12:00pm",
@@ -52,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "737b30a9b4b5",
+    "id": "5ed816474b94",
     "title": "Knit Kindness",
     "date": "2026-06-22",
     "time": "12:30pm - 1:30pm",
@@ -65,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "194b0757212d",
+    "id": "5bce55fddf7f",
     "title": "Summer camp 2026",
     "date": "2026-06-22",
     "time": "1:00pm - 4:00pm",
@@ -78,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "81f70170267a",
+    "id": "12973ce02e38",
     "title": "Lawn Games Social",
     "date": "2026-06-22",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "4a88d03b6f14",
+    "id": "23f0dafb74f6",
     "title": "K-Pop with WJ Dance Studio",
     "date": "2026-06-22",
     "time": "6:00pm - 7:00pm",
@@ -257,6 +218,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-25910/",
+    "category": "other"
+  },
+  {
+    "id": "126b45b4a053",
+    "title": "American Mahjong Beginner Instruction at Montahj Social",
+    "date": "2026-06-24",
+    "time": "6:00pm - 9:00pm",
+    "location": "4201 Wilson Blvd #0160, Arlington, VA 22203, USAArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/american-mahjong-beginner-instruction-at-montahj-social-26328/",
     "category": "other"
   },
   {
@@ -673,6 +647,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/national-landing-community-bike-ride-25772/",
+    "category": "other"
+  },
+  {
+    "id": "7647b278a794",
+    "title": "Toastmasters Open House (Hybrid) \u2013 Spirited Speakers Club",
+    "date": "2026-06-28",
+    "time": "11:30am - 1:00pm",
+    "location": "1881 N. Nash StArlington,Virginia22209",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/toastmasters-open-house-hybrid-spirited-speakers-club-26305/",
+    "category": "other"
+  },
+  {
+    "id": "52fd1045a0dc",
+    "title": "World Pup Cup @ Met Park",
+    "date": "2026-06-28",
+    "time": "5:00pm - 7:00pm",
+    "location": "1330 S Fair StArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/world-pup-cup-met-park-25664/",
     "category": "other"
   }
 ]
