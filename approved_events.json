@@ -1,84 +1,6 @@
 [
   {
-    "id": "4d50512d7c03",
-    "title": "Artificial Intelligence and Fraud: Is it a Scam?",
-    "date": "2026-06-22",
-    "time": "10:00am - 12:00pm",
-    "location": "2909 16th St SouthArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/artificial-intelligence-and-fraud-is-it-a-scam-26022/",
-    "category": "other"
-  },
-  {
-    "id": "5ed816474b94",
-    "title": "Knit Kindness",
-    "date": "2026-06-22",
-    "time": "12:30pm - 1:30pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/knit-kindness-25900/",
-    "category": "other"
-  },
-  {
-    "id": "5bce55fddf7f",
-    "title": "Summer camp 2026",
-    "date": "2026-06-22",
-    "time": "1:00pm - 4:00pm",
-    "location": "5512 23RD STREET NORTHARLINGTON,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/summer-camp-2026-23369/",
-    "category": "other"
-  },
-  {
-    "id": "12973ce02e38",
-    "title": "Lawn Games Social",
-    "date": "2026-06-22",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/lawn-games-social-25902/",
-    "category": "other"
-  },
-  {
-    "id": "23f0dafb74f6",
-    "title": "K-Pop with WJ Dance Studio",
-    "date": "2026-06-22",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/k-pop-with-wj-dance-studio-25903/",
-    "category": "other"
-  },
-  {
-    "id": "ba03925aac67",
-    "title": "Last Day to Register for Summer Social Sport Leagues",
-    "date": "2026-06-23",
-    "time": "12:00am - 11:59pm",
-    "location": "Washington, District of ColumbiaWashington,District of Columbia20018",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/last-day-to-register-for-summer-social-sport-leagues-24766/",
-    "category": "other"
-  },
-  {
-    "id": "990423bb12da",
+    "id": "77c07141c6de",
     "title": "Breath, Meditation and Movement",
     "date": "2026-06-23",
     "time": "12:00pm - 1:00pm",
@@ -91,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "6cab4d137774",
+    "id": "fb3b09db4489",
     "title": "CAREER WEEK",
     "date": "2026-06-23",
     "time": "12:00pm - 12:45pm",
@@ -104,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "02a4e3ede2e8",
+    "id": "9329cac2064f",
     "title": "Mason Square Makers",
     "date": "2026-06-23",
     "time": "3:00pm - 4:30pm",
@@ -117,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "83ab249d5437",
+    "id": "7e4d89435b8a",
     "title": "Trivia Tuesdays",
     "date": "2026-06-23",
     "time": "8:30pm - 9:30pm",
@@ -244,6 +166,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/grease-sing-along-ladieswine-night-26156/",
+    "category": "other"
+  },
+  {
+    "id": "65b499bed783",
+    "title": "World Soccer Championship Watch Party",
+    "date": "2026-06-24",
+    "time": "9:00pm - 11:00pm",
+    "location": "909 S Dinwiddie StArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/world-soccer-championship-watch-party-26348/",
     "category": "other"
   },
   {
@@ -572,6 +507,19 @@
     "category": "other"
   },
   {
+    "id": "2ae94ad7f368",
+    "title": "Celebrating Human Life",
+    "date": "2026-06-27",
+    "time": "5:00pm - 7:00pm",
+    "location": "1300 Crystal DriveArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/celebrating-human-life-26329/",
+    "category": "other"
+  },
+  {
     "id": "dc5867154408",
     "title": "Bubbles & Amenities Party",
     "date": "2026-06-27",
@@ -673,6 +621,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/world-pup-cup-met-park-25664/",
+    "category": "other"
+  },
+  {
+    "id": "55385f3f1960",
+    "title": "Profs & Pints Northern Virginia: Dune and Messiahs",
+    "date": "2026-06-28",
+    "time": "6:00pm - 8:30pm",
+    "location": "2010 Crystal DriveArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-dune-and-messiahs-25735/",
+    "category": "other"
+  },
+  {
+    "id": "39dcbb2d0ae2",
+    "title": "Drafthouse Divas Pride Drag Show @ Arlington Drafthouse",
+    "date": "2026-06-28",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/drafthouse-divas-pride-drag-show-arlington-drafthouse-26205/",
+    "category": "other"
+  },
+  {
+    "id": "69b3e2a6014d",
+    "title": "Knox Engler Quartet at Blues Alley",
+    "date": "2026-06-29",
+    "time": "7:30pm - 11:00pm",
+    "location": "1073 Wisconsin Ave NWWashington DC,District of Columbia20010",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/knox-engler-quartet-at-blues-alley-26228/",
+    "category": "other"
+  },
+  {
+    "id": "1e7dd07751d5",
+    "title": "\u201c1776\u201d at Ballston\u2019s Regal Theater",
+    "date": "2026-06-30",
+    "time": "7:00am - 9:00pm",
+    "location": "671 North Glebe RoadArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/1776-at-ballstons-regal-theater-25681/",
     "category": "other"
   }
 ]
