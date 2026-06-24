@@ -1,58 +1,6 @@
 [
   {
-    "id": "77c07141c6de",
-    "title": "Breath, Meditation and Movement",
-    "date": "2026-06-23",
-    "time": "12:00pm - 1:00pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/breath-meditation-and-movement-25905/",
-    "category": "other"
-  },
-  {
-    "id": "fb3b09db4489",
-    "title": "CAREER WEEK",
-    "date": "2026-06-23",
-    "time": "12:00pm - 12:45pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/career-week-26039/",
-    "category": "other"
-  },
-  {
-    "id": "9329cac2064f",
-    "title": "Mason Square Makers",
-    "date": "2026-06-23",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/mason-square-makers-25906/",
-    "category": "other"
-  },
-  {
-    "id": "7e4d89435b8a",
-    "title": "Trivia Tuesdays",
-    "date": "2026-06-23",
-    "time": "8:30pm - 9:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/trivia-tuesdays-25907/",
-    "category": "other"
-  },
-  {
-    "id": "bf46473f378a",
+    "id": "f136c6371812",
     "title": "Storytime",
     "date": "2026-06-24",
     "time": "11:30am - 12:30pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "04407e658879",
+    "id": "040affc1d07b",
     "title": "The Pike \u2013 Lunch Club at Sofia\u2019s Pupuseria",
     "date": "2026-06-24",
     "time": "12:00pm - 1:30pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "3a320e63e344",
+    "id": "8d3ae04e9ac8",
     "title": "Chess Social",
     "date": "2026-06-24",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "0b00c8b579b7",
+    "id": "c9582e574a45",
     "title": "Sundae Social: A Summer Mental Health Gathering",
     "date": "2026-06-24",
     "time": "4:30pm - 7:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "98203c0099cf",
+    "id": "7c37c2d45a22",
     "title": "Dog-Friendly PAWp-up with Chippin Dog Treats",
     "date": "2026-06-24",
     "time": "4:30pm - 6:30pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "c4b9b93bb450",
+    "id": "fd54fa2a5ddc",
     "title": "Sillygander: Improv Watch & Learn",
     "date": "2026-06-24",
     "time": "5:30pm - 7:30pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "806778831282",
+    "id": "7e32bd6b6794",
     "title": "Outdoor Yoga with Mind the Mat",
     "date": "2026-06-24",
     "time": "6:00pm - 7:00pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "126b45b4a053",
+    "id": "3c34d039301e",
     "title": "American Mahjong Beginner Instruction at Montahj Social",
     "date": "2026-06-24",
     "time": "6:00pm - 9:00pm",
@@ -156,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "7743f87531bd",
+    "id": "3ca773d1d15a",
     "title": "Grease! Sing-Along (Ladies/Wine NIght)",
     "date": "2026-06-24",
     "time": "7:00pm - 8:45pm",
@@ -169,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "65b499bed783",
+    "id": "21e984836892",
     "title": "World Soccer Championship Watch Party",
     "date": "2026-06-24",
     "time": "9:00pm - 11:00pm",
@@ -673,6 +621,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/1776-at-ballstons-regal-theater-25681/",
+    "category": "other"
+  },
+  {
+    "id": "12cc6296f181",
+    "title": "Celebrate 50 Years of Air and Space",
+    "date": "2026-07-01",
+    "time": "11:00am - 5:00pm",
+    "location": "650 Jefferson Drive SWWashington,District of Columbia20560",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/celebrate-50-years-of-air-and-space-26070/",
+    "category": "other"
+  },
+  {
+    "id": "1613d2da18e0",
+    "title": "Intuitive Art Making: Collage Exploration",
+    "date": "2026-07-01",
+    "time": "6:30pm - 7:30pm",
+    "location": "525 14th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/intuitive-art-making-collage-exploration-25049/",
+    "category": "other"
+  },
+  {
+    "id": "ad9fe9415ba2",
+    "title": "World Cup USA vs. TBD! @ Arlington Drafthouse!",
+    "date": "2026-07-01",
+    "time": "7:00pm - 10:45pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/world-cup-usa-vs-tbd-arlington-drafthouse-26343/",
+    "category": "other"
+  },
+  {
+    "id": "b06e7abccf08",
+    "title": "The Pike \u2013 America 250 Happy Hour at William Jeffrey\u2019s Tavern",
+    "date": "2026-07-02",
+    "time": "5:00pm - 7:00pm",
+    "location": "2301 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-pike-america-250-happy-hour-at-william-jeffreys-tavern-26362/",
     "category": "other"
   }
 ]
