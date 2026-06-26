@@ -1,58 +1,6 @@
 [
   {
-    "id": "2cee1b3ade70",
-    "title": "Yoga & Flow with SPENGA",
-    "date": "2026-06-25",
-    "time": "12:00pm - 1:00pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/yoga-flow-with-spenga-25911/",
-    "category": "other"
-  },
-  {
-    "id": "6d186d3d7303",
-    "title": "Ping Pong",
-    "date": "2026-06-25",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/ping-pong-25912/",
-    "category": "other"
-  },
-  {
-    "id": "56378e76f708",
-    "title": "Pilates with Mind the Mat",
-    "date": "2026-06-25",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pilates-with-mind-the-mat-25913/",
-    "category": "other"
-  },
-  {
-    "id": "bbb8dae1331e",
-    "title": "World Cup Soccer Game USA vs. Turkiye @ Arlington Drafthouse",
-    "date": "2026-06-25",
-    "time": "9:00pm - 12:45am",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/world-cup-soccer-game-usa-vs-turkiye-arlington-drafthouse-26271/",
-    "category": "other"
-  },
-  {
-    "id": "a0a8335bec97",
+    "id": "057660f85c36",
     "title": "Videogame Social",
     "date": "2026-06-26",
     "time": "12:30pm - 1:30pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "67019dd3349b",
+    "id": "00337a5d5166",
     "title": "Coloring Page Friday",
     "date": "2026-06-26",
     "time": "3:00pm - 4:30pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "9e53db2eca75",
+    "id": "8aaee8a44777",
     "title": "Zumba Power Hour",
     "date": "2026-06-26",
     "time": "6:00pm - 7:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "20367ba17817",
+    "id": "d278dec2cb15",
     "title": "Summer Fridays Outdoors: Ride to Catboat Pizza Bar",
     "date": "2026-06-26",
     "time": "6:00pm - 8:30pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "2f435027dca3",
+    "id": "372600bcd00a",
     "title": "Pride Prom 2026: Starry Night (Torpedo Factory Arts Center)",
     "date": "2026-06-26",
     "time": "7:00pm - 11:00pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "1f2c605ac2b8",
+    "id": "2d05b814f847",
     "title": "June Sound Bath: Explore Your Inner Freedom",
     "date": "2026-06-26",
     "time": "7:00pm - 8:00pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "37618a3250b7",
+    "id": "2db6c7cac97b",
     "title": "Nick Thune (Live Comedy @ Arlington Drafthouse)",
     "date": "2026-06-26",
     "time": "7:00pm - 8:45pm",
@@ -611,6 +559,19 @@
     "category": "other"
   },
   {
+    "id": "731c3ab99326",
+    "title": "Celebrate July 4 at the Civitan Open Air Flea Market",
+    "date": "2026-07-04",
+    "time": "7:00am - 1:00pm",
+    "location": "4001 15th Street NorthArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/celebrate-july-4-at-the-civitan-open-air-flea-market-26436/",
+    "category": "other"
+  },
+  {
     "id": "60bd00a59fb1",
     "title": "Reading the Declaration of Independence",
     "date": "2026-07-04",
@@ -660,6 +621,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/falls-church-250-author-talk-jared-peatman-26311/",
+    "category": "other"
+  },
+  {
+    "id": "e9422f5a4a19",
+    "title": "Launch Event for Ashley Muskett\u2019s MANY THE MONSTERS",
+    "date": "2026-07-08",
+    "time": "7:00pm - 8:00pm",
+    "location": "2200 N Westmoreland StArlington,Virginia22213",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/launch-event-for-ashley-musketts-many-the-monsters-26218/",
+    "category": "other"
+  },
+  {
+    "id": "b925886cf643",
+    "title": "Member Showcase",
+    "date": "2026-07-09",
+    "time": "5:00pm - 7:00pm",
+    "location": "2700 Clarendon Boulevard, Suite R330Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/member-showcase-26147/",
+    "category": "other"
+  },
+  {
+    "id": "1a2127e4448c",
+    "title": "Rosslyn LIVE",
+    "date": "2026-07-09",
+    "time": "5:30pm - 8:00pm",
+    "location": "1300 Langston BoulevardArlington,Virginia22209",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rosslyn-live-25346/",
     "category": "other"
   }
 ]
