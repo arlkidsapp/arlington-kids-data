@@ -1,84 +1,6 @@
 [
   {
-    "id": "3dca71b6b1e6",
-    "title": "National Landing Community Bike Ride",
-    "date": "2026-06-28",
-    "time": "8:00am - 10:00am",
-    "location": "475 Long Bridge DrArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/national-landing-community-bike-ride-25772/",
-    "category": "other"
-  },
-  {
-    "id": "2780d5fc5243",
-    "title": "Toastmasters Open House (Hybrid) \u2013 Spirited Speakers Club",
-    "date": "2026-06-28",
-    "time": "11:30am - 1:00pm",
-    "location": "1881 N. Nash StArlington,Virginia22209",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/toastmasters-open-house-hybrid-spirited-speakers-club-26305/",
-    "category": "other"
-  },
-  {
-    "id": "46a08ffc9956",
-    "title": "World Pup Cup @ Met Park",
-    "date": "2026-06-28",
-    "time": "5:00pm - 7:00pm",
-    "location": "1330 S Fair StArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/world-pup-cup-met-park-25664/",
-    "category": "other"
-  },
-  {
-    "id": "90206528091b",
-    "title": "World Pup Cups at Rosslyn\u2019s Dog Park",
-    "date": "2026-06-28",
-    "time": "5:30pm - 6:30pm",
-    "location": "1400 Langston BlvdArlington,Virginia22209",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/world-pup-cups-at-rosslyns-dog-park-26390/",
-    "category": "other"
-  },
-  {
-    "id": "ecfe0a19c50c",
-    "title": "Profs & Pints Northern Virginia: Dune and Messiahs",
-    "date": "2026-06-28",
-    "time": "6:00pm - 8:30pm",
-    "location": "2010 Crystal DriveArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-dune-and-messiahs-25735/",
-    "category": "other"
-  },
-  {
-    "id": "fcf3b874554e",
-    "title": "Drafthouse Divas Pride Drag Show @ Arlington Drafthouse",
-    "date": "2026-06-28",
-    "time": "7:00pm - 8:30pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/drafthouse-divas-pride-drag-show-arlington-drafthouse-26205/",
-    "category": "other"
-  },
-  {
-    "id": "865ed8f09659",
+    "id": "5ed816474b94",
     "title": "Knit Kindness",
     "date": "2026-06-29",
     "time": "12:30pm - 1:30pm",
@@ -91,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "e39383ab350c",
+    "id": "12973ce02e38",
     "title": "Lawn Games Social",
     "date": "2026-06-29",
     "time": "3:00pm - 4:30pm",
@@ -104,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "5d255fc00039",
+    "id": "23f0dafb74f6",
     "title": "K-Pop with WJ Dance Studio",
     "date": "2026-06-29",
     "time": "6:00pm - 7:00pm",
@@ -117,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "69b3e2a6014d",
+    "id": "a2ce28f0facf",
     "title": "Knox Engler Quartet at Blues Alley",
     "date": "2026-06-29",
     "time": "7:30pm - 11:00pm",
@@ -624,6 +546,19 @@
     "category": "other"
   },
   {
+    "id": "cdcb5c16a081",
+    "title": "Sound Bath: New Moon in Cancer",
+    "date": "2026-07-14",
+    "time": "6:30pm - 8:00pm",
+    "location": "1050 N Stuart St.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sound-bath-new-moon-in-cancer-26497/",
+    "category": "other"
+  },
+  {
     "id": "fb63fffbf017",
     "title": "Wellness Wednesdays: Sound Bath & Music",
     "date": "2026-07-15",
@@ -660,6 +595,71 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/nova-puzzlers-pairs-competition-26462/",
+    "category": "other"
+  },
+  {
+    "id": "542851f7cc0f",
+    "title": "July 18 \u2013 Movie Night on the Pike: Miss Congeniality",
+    "date": "2026-07-18",
+    "time": "8:00pm - 10:30pm",
+    "location": "909 S Dinwiddie StArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/july-18-movie-night-on-the-pike-miss-congeniality-26378/",
+    "category": "other"
+  },
+  {
+    "id": "85159aa4fbdb",
+    "title": "MoCa on the Move: Summer Fun Family Series | PAPER GARDEN POSTCARD COLLAGES",
+    "date": "2026-07-19",
+    "time": "10:00am - 1:00pm",
+    "location": "1300 S Elm StArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/moca-on-the-move-summer-fun-family-series-paper-garden-postcard-collages-26282/",
+    "category": "other"
+  },
+  {
+    "id": "5856e7225f69",
+    "title": "Profs & Pints Northern Virginia: Those Who Gave Rise to Our Navy",
+    "date": "2026-07-19",
+    "time": "6:00pm - 8:30pm",
+    "location": "2010 Crystal DriveArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-those-who-gave-rise-to-our-navy-26339/",
+    "category": "other"
+  },
+  {
+    "id": "ca5d8012d1e3",
+    "title": "FREE Home Buying Workshop: Discover Arlington + The Davenport Group",
+    "date": "2026-07-21",
+    "time": "6:30pm - 7:30pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/free-home-buying-workshop-discover-arlington-the-davenport-group-26255/",
+    "category": "other"
+  },
+  {
+    "id": "12583cc8b4dc",
+    "title": "Sillygander: Improv Watch & Learn",
+    "date": "2026-07-22",
+    "time": "5:30pm - 7:30pm",
+    "location": "1015 N Quincy StArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sillygander-improv-watch-learn-26309/",
     "category": "other"
   }
 ]
