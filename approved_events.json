@@ -1,71 +1,6 @@
 [
   {
-    "id": "5ed816474b94",
-    "title": "Knit Kindness",
-    "date": "2026-06-29",
-    "time": "12:30pm - 1:30pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/knit-kindness-26468/",
-    "category": "other"
-  },
-  {
-    "id": "12973ce02e38",
-    "title": "Lawn Games Social",
-    "date": "2026-06-29",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/lawn-games-social-26469/",
-    "category": "other"
-  },
-  {
-    "id": "23f0dafb74f6",
-    "title": "K-Pop with WJ Dance Studio",
-    "date": "2026-06-29",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/k-pop-with-wj-dance-studio-26470/",
-    "category": "other"
-  },
-  {
-    "id": "a2ce28f0facf",
-    "title": "Knox Engler Quartet at Blues Alley",
-    "date": "2026-06-29",
-    "time": "7:30pm - 11:00pm",
-    "location": "1073 Wisconsin Ave NWWashington DC,District of Columbia20010",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/knox-engler-quartet-at-blues-alley-26228/",
-    "category": "other"
-  },
-  {
-    "id": "1e7dd07751d5",
-    "title": "\u201c1776\u201d at Ballston\u2019s Regal Theater",
-    "date": "2026-06-30",
-    "time": "7:00am - 9:00pm",
-    "location": "671 North Glebe RoadArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/1776-at-ballstons-regal-theater-25681/",
-    "category": "other"
-  },
-  {
-    "id": "b2194645778c",
+    "id": "77c07141c6de",
     "title": "Breath, Meditation and Movement",
     "date": "2026-06-30",
     "time": "12:00pm - 1:00pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "11f086cf8050",
+    "id": "9329cac2064f",
     "title": "Mason Square Makers",
     "date": "2026-06-30",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +26,33 @@
     "category": "other"
   },
   {
-    "id": "de1260cc55a3",
+    "id": "aa04d6949ec2",
+    "title": "June Death Cafe at Courthouse",
+    "date": "2026-06-30",
+    "time": "6:30pm - 7:30pm",
+    "location": "2100 Clarendon BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/june-death-cafe-at-courthouse-26523/",
+    "category": "other"
+  },
+  {
+    "id": "02a19434c838",
+    "title": "\u201c1776\u201d at Ballston\u2019s Regal Theater",
+    "date": "2026-06-30",
+    "time": "7:00pm - 9:00pm",
+    "location": "671 North Glebe RoadArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/1776-at-ballstons-regal-theater-25681/",
+    "category": "other"
+  },
+  {
+    "id": "7e4d89435b8a",
     "title": "Trivia Tuesdays",
     "date": "2026-06-30",
     "time": "8:30pm - 9:30pm",
@@ -153,6 +114,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-26482/",
+    "category": "other"
+  },
+  {
+    "id": "e1b9d5730b2c",
+    "title": "\u201cBeachy\u201d Summer Reading at Courthouse Library",
+    "date": "2026-07-01",
+    "time": "6:00pm - 7:15pm",
+    "location": "2100 Clarendon BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/beachy-summer-reading-at-courthouse-library-26524/",
     "category": "other"
   },
   {
@@ -247,6 +221,32 @@
     "category": "other"
   },
   {
+    "id": "4a0ce92a6014",
+    "title": "Gentle Yoga",
+    "date": "2026-07-02",
+    "time": "6:30pm - 7:30pm",
+    "location": "816 South Walter Reed DriveArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/gentle-yoga-26531/",
+    "category": "other"
+  },
+  {
+    "id": "657cc6e963c7",
+    "title": "We Ain\u2019t Done Wild \u2018n\u2019 Out Tour Live Comedy @ Arlington Drafthouse",
+    "date": "2026-07-02",
+    "time": "7:00pm - 9:00pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/we-aint-done-wild-n-out-tour-live-comedy-arlington-drafthouse-26538/",
+    "category": "other"
+  },
+  {
     "id": "f5248fda49f3",
     "title": "Pre-Independence Day Rooftop Bash",
     "date": "2026-07-03",
@@ -257,6 +257,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/pre-independence-day-rooftop-bash-25574/",
+    "category": "other"
+  },
+  {
+    "id": "095b38ad287c",
+    "title": "World Cup Soccer Game World Soccer Argentina vs Cabo Verde @Arlington Drafthouse",
+    "date": "2026-07-03",
+    "time": "5:00pm - 12:00am",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/world-cup-soccer-game-world-soccer-argentina-vs-cabo-verde-arlington-drafthouse-26539/",
     "category": "other"
   },
   {
@@ -302,13 +315,13 @@
     "id": "60bd00a59fb1",
     "title": "Reading the Declaration of Independence",
     "date": "2026-07-04",
-    "time": "1:00pm - 2:00pm",
-    "location": "5620 3rd Street, SouthArlington,Virginia22204",
+    "time": "2:00pm - 3:30pm",
+    "location": "1805 South Arlington Ridge RoadArlington,Virginia22207",
     "address": null,
     "description": "No description available",
     "ageRange": "all ages",
     "cost": "Free",
-    "url": "https://www.arlnow.com/events/reading-the-declaration-of-independence-25682/",
+    "url": "https://www.arlnow.com/events/reading-the-declaration-of-independence-26548/",
     "category": "other"
   },
   {
@@ -533,6 +546,19 @@
     "category": "other"
   },
   {
+    "id": "2609e4689e95",
+    "title": "Information Session for The Borgen Project (An online event)",
+    "date": "2026-07-14",
+    "time": "11:00am - 11:30am",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/information-session-for-the-borgen-project-an-online-event-26507/",
+    "category": "other"
+  },
+  {
     "id": "3c5e94e5ced9",
     "title": "Until Help Arrives Training",
     "date": "2026-07-14",
@@ -634,32 +660,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-those-who-gave-rise-to-our-navy-26339/",
-    "category": "other"
-  },
-  {
-    "id": "ca5d8012d1e3",
-    "title": "FREE Home Buying Workshop: Discover Arlington + The Davenport Group",
-    "date": "2026-07-21",
-    "time": "6:30pm - 7:30pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-home-buying-workshop-discover-arlington-the-davenport-group-26255/",
-    "category": "other"
-  },
-  {
-    "id": "12583cc8b4dc",
-    "title": "Sillygander: Improv Watch & Learn",
-    "date": "2026-07-22",
-    "time": "5:30pm - 7:30pm",
-    "location": "1015 N Quincy StArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sillygander-improv-watch-learn-26309/",
     "category": "other"
   }
 ]
