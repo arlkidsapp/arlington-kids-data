@@ -1,32 +1,6 @@
 [
   {
-    "id": "233d5f9908f5",
-    "title": "Pre-Independence Day Rooftop Bash",
-    "date": "2026-07-03",
-    "time": "5:00pm - 10:00pm",
-    "location": "3185 Wilson BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pre-independence-day-rooftop-bash-25574/",
-    "category": "other"
-  },
-  {
-    "id": "6fa9891792bc",
-    "title": "World Cup Soccer Game World Soccer Argentina vs Cabo Verde @Arlington Drafthouse",
-    "date": "2026-07-03",
-    "time": "5:00pm - 12:00am",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/world-cup-soccer-game-world-soccer-argentina-vs-cabo-verde-arlington-drafthouse-26539/",
-    "category": "other"
-  },
-  {
-    "id": "731c3ab99326",
+    "id": "9cdfd7695562",
     "title": "Celebrate July 4 at the Civitan Open Air Flea Market",
     "date": "2026-07-04",
     "time": "7:00am - 1:00pm",
@@ -39,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "a6b0d3488396",
+    "id": "00916cbca062",
     "title": "Barcroft 4th of July Parade",
     "date": "2026-07-04",
     "time": "9:45am - 12:30pm",
@@ -52,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "60bd00a59fb1",
+    "id": "1e8810e158fe",
     "title": "Reading the Declaration of Independence",
     "date": "2026-07-04",
     "time": "2:00pm - 3:30pm",
@@ -65,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "31dff8cd4e1d",
+    "id": "ab7c8d0a74f7",
     "title": "ALL AMERICAN ROOFTOP FEST",
     "date": "2026-07-04",
     "time": "3:00pm - 10:00pm",
@@ -660,6 +634,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/vishal-sheykhar-the-superhit-tour-live-at-the-hall-at-live-july-23rd-26056/",
+    "category": "other"
+  },
+  {
+    "id": "363b24e29e44",
+    "title": "Civic Jam",
+    "date": "2026-07-24",
+    "time": "6:00pm - 10:00pm",
+    "location": "312 Park AvenueFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/civic-jam-26187/",
     "category": "other"
   }
 ]
