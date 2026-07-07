@@ -1,19 +1,6 @@
 [
   {
-    "id": "890fb598cbaf",
-    "title": "World Cup Soccer Game USA vs Belgium! @ Arlington Drafthouse",
-    "date": "2026-07-06",
-    "time": "6:45pm - 10:30pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/world-cup-soccer-game-usa-vs-belgium-arlington-drafthouse-26701/",
-    "category": "other"
-  },
-  {
-    "id": "83b2c0d62a21",
+    "id": "d301353a68a5",
     "title": "Falls Church 250 Author Talk: Jared Peatman",
     "date": "2026-07-07",
     "time": "6:30pm - 7:30pm",
@@ -335,6 +322,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/information-session-for-the-borgen-project-an-online-event-26507/",
+    "category": "other"
+  },
+  {
+    "id": "bca55df75771",
+    "title": "Ask Our Admissions Insider: Live Q&A with Kristin Landis",
+    "date": "2026-07-14",
+    "time": "12:00pm - 1:00pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/ask-our-admissions-insider-live-qa-with-kristin-landis-26713/",
     "category": "other"
   },
   {
