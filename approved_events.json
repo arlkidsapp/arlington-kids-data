@@ -1,97 +1,6 @@
 [
   {
-    "id": "eb75d517b99a",
-    "title": "Friday Field Trip: Creating a Life You Love",
-    "date": "2026-07-10",
-    "time": "8:00am - 7:00pm",
-    "location": "329 N Manchester StArlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/friday-field-trip-creating-a-life-you-love-26430/",
-    "category": "other"
-  },
-  {
-    "id": "057660f85c36",
-    "title": "Videogame Social",
-    "date": "2026-07-10",
-    "time": "12:30pm - 1:30pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/videogame-social-26804/",
-    "category": "other"
-  },
-  {
-    "id": "846d3618a574",
-    "title": "Analog Night: Art Trading Cards with Artist Molly McCracken",
-    "date": "2026-07-10",
-    "time": "6:00pm - 8:00pm",
-    "location": "525 14th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/analog-night-art-trading-cards-with-artist-molly-mccracken-26101/",
-    "category": "other"
-  },
-  {
-    "id": "84ae4cd36571",
-    "title": "Andrew Orolfo Live! @Arlington Drafthouse",
-    "date": "2026-07-10",
-    "time": "7:00pm - 8:30pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/andrew-orolfo-live-arlington-drafthouse-26702/",
-    "category": "other"
-  },
-  {
-    "id": "0c546703d4b8",
-    "title": "The Comedy Catalyst Graduation Showcase",
-    "date": "2026-07-10",
-    "time": "7:00pm - 9:00pm",
-    "location": "1640 Columbia Rd NWWashington,District of Columbia20009",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-comedy-catalyst-graduation-showcase-26760/",
-    "category": "other"
-  },
-  {
-    "id": "8e897f6e1d35",
-    "title": "Tartuffe and Susannah | American Opera Gems",
-    "date": "2026-07-10",
-    "time": "7:30pm - 9:30pm",
-    "location": "8991 Brook RoadMclean,Virginia22102",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/tartuffe-and-susannah-american-opera-gems-26154/",
-    "category": "other"
-  },
-  {
-    "id": "c8d8a5dfe3ac",
-    "title": "Cinema on the Plaza",
-    "date": "2026-07-10",
-    "time": "7:30pm - 10:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/cinema-on-the-plaza-26838/",
-    "category": "other"
-  },
-  {
-    "id": "8245bc7230d3",
+    "id": "70688a24ff88",
     "title": "Fall 10 Miler/Half Marathon Training Run",
     "date": "2026-07-11",
     "time": "7:00am - 10:00am",
@@ -104,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "34460bbde7d9",
+    "id": "e93d10fdc1df",
     "title": "Basic Self-Defense Class with EvolveAll at Columbia Pike",
     "date": "2026-07-11",
     "time": "10:30am - 12:00pm",
@@ -117,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "4ff8e89f103a",
+    "id": "930745d920b3",
     "title": "Saturday Sound Bath",
     "date": "2026-07-11",
     "time": "12:00pm - 1:00pm",
@@ -130,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "e2939e132b68",
+    "id": "3fdf7f39f89a",
     "title": "Libraries, Liberty, and Community",
     "date": "2026-07-11",
     "time": "1:00pm - 3:00pm",
@@ -143,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "3b101ca9464d",
+    "id": "b73ff25081ce",
     "title": "Crochet Community Social: Drop-In Stitch Session",
     "date": "2026-07-11",
     "time": "2:30pm - 4:00pm",
@@ -156,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "069556c7982a",
+    "id": "4b4c28dbf8fa",
     "title": "Andrew Orolfo Live Comedy! @Arlington Drafthouse",
     "date": "2026-07-11",
     "time": "7:00pm - 8:30pm",
@@ -169,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "56c4d36b18f4",
+    "id": "9cb5d5290a65",
     "title": "The Comedy Karaoke Trivia Funtime Show with Jenny Cavallero",
     "date": "2026-07-11",
     "time": "7:30pm - 9:30pm",
@@ -182,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "b53abd71a8cb",
+    "id": "f42b079cb582",
     "title": "Movie Nights on the Pike \u2013 World Cup Quarterfinal",
     "date": "2026-07-11",
     "time": "8:30pm - 11:00pm",
@@ -195,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "1b06c6d815d8",
+    "id": "4a6b8392226f",
     "title": "World Cup Soccer Game Argentina vs. Switzerland! @Arlington Drafthouse!",
     "date": "2026-07-11",
     "time": "8:45pm - 11:30pm",
@@ -296,6 +205,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-folktales-of-summer-forests-26368/",
+    "category": "other"
+  },
+  {
+    "id": "2e3e40bd6542",
+    "title": "Love Island Season Finale Watch Party at Makers",
+    "date": "2026-07-12",
+    "time": "8:00pm - 10:30pm",
+    "location": "1450 South Eads St, Suite 65Arlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/love-island-season-finale-watch-party-at-makers-26887/",
     "category": "other"
   },
   {
@@ -611,6 +533,19 @@
     "category": "other"
   },
   {
+    "id": "0fbb77dc36ad",
+    "title": "Sustainable Mobility Happy Hour @ Rosslyn",
+    "date": "2026-07-16",
+    "time": "5:00pm - 7:00pm",
+    "location": "1700 N Moore St Level M2Arlington,Virginia22209",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sustainable-mobility-happy-hour-rosslyn-26889/",
+    "category": "other"
+  },
+  {
     "id": "b8e858e44c36",
     "title": "Pilates with Mind the Mat",
     "date": "2026-07-16",
@@ -673,6 +608,71 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/videogame-social-26826/",
+    "category": "other"
+  },
+  {
+    "id": "ec64d98c37ac",
+    "title": "Coloring Page Friday",
+    "date": "2026-07-17",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/coloring-page-friday-26828/",
+    "category": "other"
+  },
+  {
+    "id": "653e50b2adb2",
+    "title": "Make It Make Sense: Dream Sip \u2018n Paint with Artist David Ignacio",
+    "date": "2026-07-17",
+    "time": "6:00pm - 8:00pm",
+    "location": "525 14th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/make-it-make-sense-dream-sip-n-paint-with-artist-david-ignacio-26238/",
+    "category": "other"
+  },
+  {
+    "id": "19721f638742",
+    "title": "Zumba Power Hour",
+    "date": "2026-07-17",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/zumba-power-hour-26830/",
+    "category": "other"
+  },
+  {
+    "id": "9bf6defde937",
+    "title": "Rich Vos: Live Comedy! At Arlington Drafthouse!",
+    "date": "2026-07-17",
+    "time": "7:00pm - 8:45pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rich-vos-live-comedy-at-arlington-drafthouse-26783/",
+    "category": "other"
+  },
+  {
+    "id": "a981bc34174d",
+    "title": "LibraryFest: Happy 250!",
+    "date": "2026-07-18",
+    "time": "10:00am - 7:00pm",
+    "location": "1015 N Quincy StArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/libraryfest-happy-250-26737/",
     "category": "other"
   }
 ]
