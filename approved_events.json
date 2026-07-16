@@ -1,110 +1,6 @@
 [
   {
-    "id": "f136c6371812",
-    "title": "Storytime",
-    "date": "2026-07-15",
-    "time": "11:30am - 12:30pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/storytime-26816/",
-    "category": "other"
-  },
-  {
-    "id": "8d3ae04e9ac8",
-    "title": "Chess Social",
-    "date": "2026-07-15",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/chess-social-26819/",
-    "category": "other"
-  },
-  {
-    "id": "583c336775d5",
-    "title": "Brain Break",
-    "date": "2026-07-15",
-    "time": "4:00pm - 6:00pm",
-    "location": "1330 S Fern StArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/brain-break-26739/",
-    "category": "other"
-  },
-  {
-    "id": "a8ed8aa38e91",
-    "title": "Sundeck Summer Reads",
-    "date": "2026-07-15",
-    "time": "6:00pm - 7:00pm",
-    "location": "355 Water StreetWashington,District of Columbia20007",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sundeck-summer-reads-26575/",
-    "category": "other"
-  },
-  {
-    "id": "f7d6e6e4d437",
-    "title": "Barcroft Community Resources Fair",
-    "date": "2026-07-15",
-    "time": "6:00pm - 8:00pm",
-    "location": "1120 S George Mason DrArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/barcroft-community-resources-fair-26811/",
-    "category": "other"
-  },
-  {
-    "id": "7e32bd6b6794",
-    "title": "Outdoor Yoga with Mind the Mat",
-    "date": "2026-07-15",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-26820/",
-    "category": "other"
-  },
-  {
-    "id": "2c1bd2aca3dc",
-    "title": "Wellness Wednesdays: Sound Bath & Music",
-    "date": "2026-07-15",
-    "time": "6:30pm - 7:30pm",
-    "location": "525 14th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/wellness-wednesdays-sound-bath-music-25051/",
-    "category": "other"
-  },
-  {
-    "id": "c5521cb24454",
-    "title": "The Art of Downsizing",
-    "date": "2026-07-15",
-    "time": "6:30pm - 7:30pm",
-    "location": "300 South Kensington StArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-art-of-downsizing-26572/",
-    "category": "other"
-  },
-  {
-    "id": "b5d92112be57",
+    "id": "2cee1b3ade70",
     "title": "Yoga & Flow with SPENGA",
     "date": "2026-07-16",
     "time": "12:00pm - 1:00pm",
@@ -117,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "710fb0d9bb9a",
+    "id": "6d186d3d7303",
     "title": "Ping Pong",
     "date": "2026-07-16",
     "time": "3:00pm - 4:00pm",
@@ -130,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "a6f53b00786b",
+    "id": "38bc45baa4cc",
     "title": "PANINI Sticker Swap",
     "date": "2026-07-16",
     "time": "4:30pm - 7:00pm",
@@ -143,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "0fbb77dc36ad",
+    "id": "93020801911f",
     "title": "Sustainable Mobility Happy Hour @ Rosslyn",
     "date": "2026-07-16",
     "time": "5:00pm - 7:00pm",
@@ -156,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "b8e858e44c36",
+    "id": "56378e76f708",
     "title": "Pilates with Mind the Mat",
     "date": "2026-07-16",
     "time": "6:00pm - 7:00pm",
@@ -169,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "d21a63494a81",
+    "id": "1bfddf0e9923",
     "title": "Civic Virtue dinner and facilitated discussion",
     "date": "2026-07-16",
     "time": "6:30pm - 9:00pm",
@@ -182,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "6632a8bc6635",
+    "id": "49e1eb60707e",
     "title": "Ovation Dinner Theatre\u2019s Murder at the Long Branch Saloon! @Arlington Drafthouse",
     "date": "2026-07-16",
     "time": "7:15pm - 8:45pm",
@@ -247,6 +143,19 @@
     "category": "other"
   },
   {
+    "id": "f360c3c8238b",
+    "title": "FIFA World Cup Sticker Exchange in Arlington",
+    "date": "2026-07-17",
+    "time": "6:30pm - 9:00pm",
+    "location": "1041 S. Edgewood St.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fifa-world-cup-sticker-exchange-in-arlington-26988/",
+    "category": "other"
+  },
+  {
     "id": "9bf6defde937",
     "title": "Rich Vos: Live Comedy! At Arlington Drafthouse!",
     "date": "2026-07-17",
@@ -257,6 +166,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/rich-vos-live-comedy-at-arlington-drafthouse-26783/",
+    "category": "other"
+  },
+  {
+    "id": "7c7737f80829",
+    "title": "FREE barre3 Class at Stratford Beer Garden",
+    "date": "2026-07-18",
+    "time": "9:00am - 9:45am",
+    "location": "300 West Broad StreetFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/free-barre3-class-at-stratford-beer-garden-26997/",
     "category": "other"
   },
   {
@@ -309,6 +231,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/saturday-sound-bath-26832/",
+    "category": "other"
+  },
+  {
+    "id": "a9233ef242ac",
+    "title": "Meet Arlington\u2019s Chester the Toucan at Mimi\u2019s Handmade",
+    "date": "2026-07-18",
+    "time": "1:00pm - 3:00pm",
+    "location": "1201 South Joyce StreetArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/meet-arlingtons-chester-the-toucan-at-mimis-handmade-26989/",
     "category": "other"
   },
   {
@@ -416,6 +351,19 @@
     "category": "other"
   },
   {
+    "id": "14d02c0c0556",
+    "title": "Gentle Yoga in the Galleries: Monday Nights \u2013 Museum of Contemporary Art Arlington",
+    "date": "2026-07-20",
+    "time": "6:30pm - 7:30pm",
+    "location": "3550 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/gentle-yoga-in-the-galleries-monday-nights-museum-of-contemporary-art-arlington-27005/",
+    "category": "other"
+  },
+  {
     "id": "60244c585072",
     "title": "Brain Break",
     "date": "2026-07-21",
@@ -491,6 +439,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/sundeck-summer-reads-26577/",
+    "category": "other"
+  },
+  {
+    "id": "b423ce74c675",
+    "title": "NAMI Talks- Racism & Mental Health",
+    "date": "2026-07-22",
+    "time": "6:30pm - 8:30pm",
+    "location": "1701 N. George Mason DriveArlington,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/nami-talks-racism-mental-health-27015/",
     "category": "other"
   },
   {
@@ -650,6 +611,19 @@
     "category": "other"
   },
   {
+    "id": "7a4a5c49c52e",
+    "title": "MoCA on the Move: Summer Fun Family Series (Metropolitan Park)",
+    "date": "2026-07-26",
+    "time": "10:00am - 1:00pm",
+    "location": "South Fern StreetArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/moca-on-the-move-summer-fun-family-series-metropolitan-park-27013/",
+    "category": "other"
+  },
+  {
     "id": "35cc8aaac914",
     "title": "15 Minute History: Photographer Lloyd Wolf",
     "date": "2026-07-26",
@@ -660,6 +634,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/15-minute-history-photographer-lloyd-wolf-26704/",
+    "category": "other"
+  },
+  {
+    "id": "193c104272e0",
+    "title": "Between the Lines with Jason Reynolds and Adedayo \u201cDayo\u201d Kosoko",
+    "date": "2026-07-26",
+    "time": "4:00pm - 6:00pm",
+    "location": "925 13th St. NWWashington,District of Columbia20005",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/between-the-lines-with-jason-reynolds-and-adedayo-dayo-kosoko-26943/",
+    "category": "other"
+  },
+  {
+    "id": "f0f9501eca9d",
+    "title": "Profs & Pints Northern Virginia: Owl Wisdom",
+    "date": "2026-07-26",
+    "time": "6:00pm - 8:30pm",
+    "location": "2010 Crystal DriveArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-owl-wisdom-26429/",
     "category": "other"
   }
 ]
