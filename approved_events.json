@@ -1,45 +1,6 @@
 [
   {
-    "id": "cbb6b1117d8e",
-    "title": "MoCa on the Move: Summer Fun Family Series | PAPER GARDEN POSTCARD COLLAGES",
-    "date": "2026-07-19",
-    "time": "10:00am - 1:00pm",
-    "location": "1300 S Elm StArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/moca-on-the-move-summer-fun-family-series-paper-garden-postcard-collages-26282/",
-    "category": "other"
-  },
-  {
-    "id": "2145502e5013",
-    "title": "World Cup Soccer Game Finals!!! @Arlington Drafthouse",
-    "date": "2026-07-19",
-    "time": "2:00pm - 5:30pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/world-cup-soccer-game-finals-arlington-drafthouse-26785/",
-    "category": "other"
-  },
-  {
-    "id": "156f23465581",
-    "title": "Profs & Pints Northern Virginia: Those Who Gave Rise to Our Navy",
-    "date": "2026-07-19",
-    "time": "6:00pm - 8:30pm",
-    "location": "2010 Crystal DriveArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-those-who-gave-rise-to-our-navy-26339/",
-    "category": "other"
-  },
-  {
-    "id": "49cb0e27f5ff",
+    "id": "5ed816474b94",
     "title": "Knit Kindness",
     "date": "2026-07-20",
     "time": "12:30pm - 1:30pm",
@@ -52,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "7fcc4ea20553",
+    "id": "12973ce02e38",
     "title": "Lawn Games Social",
     "date": "2026-07-20",
     "time": "3:00pm - 4:30pm",
@@ -65,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "64f0d00364b1",
+    "id": "23f0dafb74f6",
     "title": "K-Pop with WJ Dance Studio",
     "date": "2026-07-20",
     "time": "6:00pm - 7:00pm",
@@ -78,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "14d02c0c0556",
+    "id": "4ee0383aebd1",
     "title": "Gentle Yoga in the Galleries: Monday Nights \u2013 Museum of Contemporary Art Arlington",
     "date": "2026-07-20",
     "time": "6:30pm - 7:30pm",
@@ -660,6 +621,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/college-without-chaos-helping-your-student-stay-focused-and-on-track-26869/",
+    "category": "other"
+  },
+  {
+    "id": "13eaec50fc4e",
+    "title": "Origins of Arlington\u2019s County Manager Plan: 1927-1931",
+    "date": "2026-07-30",
+    "time": "7:00pm - 8:30pm",
+    "location": "2807 N. Glebe Rd,Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/origins-of-arlingtons-county-manager-plan-1927-1931-26705/",
+    "category": "other"
+  },
+  {
+    "id": "6f9d47d23ed5",
+    "title": "Live Comedy Show Starring Jim Bryan (Prime)",
+    "date": "2026-07-31",
+    "time": "8:00pm - 10:00pm",
+    "location": "529 23rd Street SouthArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/live-comedy-show-starring-jim-bryan-prime-26958/",
+    "category": "other"
+  },
+  {
+    "id": "b44b3f089b6d",
+    "title": "Yoga in the Galleries: Saturday Mornings",
+    "date": "2026-08-01",
+    "time": "9:30am - 10:30am",
+    "location": "3550 Wilson BoulevardArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/yoga-in-the-galleries-saturday-mornings-27048/",
     "category": "other"
   }
 ]
