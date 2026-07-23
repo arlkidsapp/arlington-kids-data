@@ -1,97 +1,6 @@
 [
   {
-    "id": "fa3c6eab1d70",
-    "title": "Medicare Basics",
-    "date": "2026-07-22",
-    "time": "10:30am - 12:00pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/medicare-basics-26621/",
-    "category": "other"
-  },
-  {
-    "id": "f136c6371812",
-    "title": "Storytime",
-    "date": "2026-07-22",
-    "time": "11:30am - 12:30pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/storytime-27073/",
-    "category": "other"
-  },
-  {
-    "id": "8d3ae04e9ac8",
-    "title": "Chess Social",
-    "date": "2026-07-22",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/chess-social-27074/",
-    "category": "other"
-  },
-  {
-    "id": "fd54fa2a5ddc",
-    "title": "Sillygander: Improv Watch & Learn",
-    "date": "2026-07-22",
-    "time": "5:30pm - 7:30pm",
-    "location": "1015 N Quincy StArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sillygander-improv-watch-learn-26309/",
-    "category": "other"
-  },
-  {
-    "id": "a8ed8aa38e91",
-    "title": "Sundeck Summer Reads",
-    "date": "2026-07-22",
-    "time": "6:00pm - 7:00pm",
-    "location": "355 Water StreetWashington,District of Columbia20007",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sundeck-summer-reads-26577/",
-    "category": "other"
-  },
-  {
-    "id": "7e32bd6b6794",
-    "title": "Outdoor Yoga with Mind the Mat",
-    "date": "2026-07-22",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-27075/",
-    "category": "other"
-  },
-  {
-    "id": "1560da88bae4",
-    "title": "NAMI Talks- Racism & Mental Health",
-    "date": "2026-07-22",
-    "time": "6:30pm - 8:30pm",
-    "location": "1701 N. George Mason DriveArlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/nami-talks-racism-mental-health-27015/",
-    "category": "other"
-  },
-  {
-    "id": "6372266424d7",
+    "id": "2cee1b3ade70",
     "title": "Yoga & Flow with SPENGA",
     "date": "2026-07-23",
     "time": "12:00pm - 1:00pm",
@@ -104,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "545e224fd9d1",
+    "id": "6d186d3d7303",
     "title": "Ping Pong",
     "date": "2026-07-23",
     "time": "3:00pm - 4:30pm",
@@ -117,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "341ff00dc972",
+    "id": "262ef9170310",
     "title": "Spirit of \u201976 Party",
     "date": "2026-07-23",
     "time": "6:00pm - 9:00pm",
@@ -130,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "6be13183fd6e",
+    "id": "56378e76f708",
     "title": "Pilates with Mind the Mat",
     "date": "2026-07-23",
     "time": "6:00pm - 7:00pm",
@@ -143,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "fb7c1ab90e8f",
+    "id": "139ff10ca733",
     "title": "World Cup Panini Sticker Trading Night",
     "date": "2026-07-23",
     "time": "6:15pm - 7:45pm",
@@ -156,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "e266a3e77981",
+    "id": "a588eff1a06f",
     "title": "FREE Home Buying Class (Online)",
     "date": "2026-07-23",
     "time": "6:30pm - 7:30pm",
@@ -169,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "2e32a978daf9",
+    "id": "5c57abd051df",
     "title": "Vishal & Sheykhar \u201cThe Superhit Tour\u201d Live at The HALL at Live! July \u2013 23rd",
     "date": "2026-07-23",
     "time": "8:00pm - 11:00pm",
@@ -244,6 +153,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/civic-jam-26187/",
+    "category": "other"
+  },
+  {
+    "id": "efe7f73cfe1c",
+    "title": "Taylor Williamson Live Comedy! @ Arlington Drafthouse",
+    "date": "2026-07-24",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/taylor-williamson-live-comedy-arlington-drafthouse-27178/",
     "category": "other"
   },
   {
@@ -374,6 +296,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/bubbles-amenities-party-27083/",
+    "category": "other"
+  },
+  {
+    "id": "133377c8b8bf",
+    "title": "Taylor Williamson Live Comedy! \u2013 Arlington Drafthouse",
+    "date": "2026-07-25",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/taylor-williamson-live-comedy-arlington-drafthouse-27179/",
     "category": "other"
   },
   {
@@ -520,6 +455,19 @@
     "category": "other"
   },
   {
+    "id": "dbdb8480b4f3",
+    "title": "Spanish Conversation at Columbia Pike Library",
+    "date": "2026-07-27",
+    "time": "6:30pm - 7:30pm",
+    "location": "816 S. Walter Reed Dr.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/spanish-conversation-at-columbia-pike-library-27176/",
+    "category": "other"
+  },
+  {
     "id": "a30704947dc6",
     "title": "Young Explorers: Drop-In",
     "date": "2026-07-28",
@@ -660,6 +608,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/manassas-african-american-heritage-festival-metz-middle-school-26769/",
+    "category": "other"
+  },
+  {
+    "id": "4e8e27c4739b",
+    "title": "August 1 \u2013 Movie Night on the Pike: I Know What You Did Last Summer",
+    "date": "2026-08-01",
+    "time": "8:00pm - 10:30pm",
+    "location": "2597 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/august-1-movie-night-on-the-pike-i-know-what-you-did-last-summer-26381/",
+    "category": "other"
+  },
+  {
+    "id": "503a287a8632",
+    "title": "Taylor Swift Cover Band at The Renegade",
+    "date": "2026-08-01",
+    "time": "10:00pm - 1:30am",
+    "location": "3100 Clarendon BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/taylor-swift-cover-band-at-the-renegade-26313/",
+    "category": "other"
+  },
+  {
+    "id": "4193b3831cec",
+    "title": "MoCA on the Move: Summer Fun Family Series | SUMMER MEMORIES POSTCARDS",
+    "date": "2026-08-02",
+    "time": "10:00am - 1:00pm",
+    "location": "1300 S Elm StArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/moca-on-the-move-summer-fun-family-series-summer-memories-postcards-26284/",
+    "category": "other"
+  },
+  {
+    "id": "af78d7cd833d",
+    "title": "Profs & Pints Northern Virginia: The Road to Mass Surveillance",
+    "date": "2026-08-02",
+    "time": "6:00pm - 8:30pm",
+    "location": "2010 Crystal DriveArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-the-road-to-mass-surveillance-26916/",
     "category": "other"
   }
 ]
