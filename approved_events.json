@@ -1,97 +1,6 @@
 [
   {
-    "id": "2cee1b3ade70",
-    "title": "Yoga & Flow with SPENGA",
-    "date": "2026-07-23",
-    "time": "12:00pm - 1:00pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/yoga-flow-with-spenga-27076/",
-    "category": "other"
-  },
-  {
-    "id": "6d186d3d7303",
-    "title": "Ping Pong",
-    "date": "2026-07-23",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/ping-pong-27077/",
-    "category": "other"
-  },
-  {
-    "id": "262ef9170310",
-    "title": "Spirit of \u201976 Party",
-    "date": "2026-07-23",
-    "time": "6:00pm - 9:00pm",
-    "location": "1805 S. Arlington Ridge RdArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/spirit-of-76-party-26373/",
-    "category": "other"
-  },
-  {
-    "id": "56378e76f708",
-    "title": "Pilates with Mind the Mat",
-    "date": "2026-07-23",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pilates-with-mind-the-mat-27078/",
-    "category": "other"
-  },
-  {
-    "id": "139ff10ca733",
-    "title": "World Cup Panini Sticker Trading Night",
-    "date": "2026-07-23",
-    "time": "6:15pm - 7:45pm",
-    "location": "816 S. Walter Reed DrArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/world-cup-panini-sticker-trading-night-27146/",
-    "category": "other"
-  },
-  {
-    "id": "a588eff1a06f",
-    "title": "FREE Home Buying Class (Online)",
-    "date": "2026-07-23",
-    "time": "6:30pm - 7:30pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-home-buying-class-online-26874/",
-    "category": "other"
-  },
-  {
-    "id": "5c57abd051df",
-    "title": "Vishal & Sheykhar \u201cThe Superhit Tour\u201d Live at The HALL at Live! July \u2013 23rd",
-    "date": "2026-07-23",
-    "time": "8:00pm - 11:00pm",
-    "location": "7002 Arundel Mills CirHanover,Maryland21076",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/vishal-sheykhar-the-superhit-tour-live-at-the-hall-at-live-july-23rd-26056/",
-    "category": "other"
-  },
-  {
-    "id": "66aba6a6307c",
+    "id": "045caa259e72",
     "title": "Summer Leadership Breakfast series",
     "date": "2026-07-24",
     "time": "8:00am - 9:30am",
@@ -104,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "7c5ddc77b507",
+    "id": "057660f85c36",
     "title": "Videogame Social",
     "date": "2026-07-24",
     "time": "12:30pm - 1:30pm",
@@ -117,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "85844868b3eb",
+    "id": "00337a5d5166",
     "title": "Coloring Page Friday",
     "date": "2026-07-24",
     "time": "3:00pm - 4:30pm",
@@ -130,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "04cd16e98f8d",
+    "id": "8aaee8a44777",
     "title": "Zumba Power Hour",
     "date": "2026-07-24",
     "time": "5:30pm - 6:30pm",
@@ -143,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "363b24e29e44",
+    "id": "7a8c61b1c260",
     "title": "Civic Jam",
     "date": "2026-07-24",
     "time": "6:00pm - 10:00pm",
@@ -156,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "efe7f73cfe1c",
+    "id": "ac41e31b4f00",
     "title": "Taylor Williamson Live Comedy! @ Arlington Drafthouse",
     "date": "2026-07-24",
     "time": "7:00pm - 8:30pm",
@@ -442,6 +351,45 @@
     "category": "other"
   },
   {
+    "id": "5d0cd319a749",
+    "title": "Knit Kindness",
+    "date": "2026-07-27",
+    "time": "12:30pm - 1:30pm",
+    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/knit-kindness-27191/",
+    "category": "other"
+  },
+  {
+    "id": "e623e25a4243",
+    "title": "Lawn Games Social",
+    "date": "2026-07-27",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/lawn-games-social-27192/",
+    "category": "other"
+  },
+  {
+    "id": "a7f2a206ac3e",
+    "title": "K-Pop with WJ Dance Studio",
+    "date": "2026-07-27",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/k-pop-with-wj-dance-studio-27194/",
+    "category": "other"
+  },
+  {
     "id": "0f2f9857055d",
     "title": "Gentle Yoga in the Galleries: Monday Nights",
     "date": "2026-07-27",
@@ -481,6 +429,84 @@
     "category": "other"
   },
   {
+    "id": "b5332d99bcc6",
+    "title": "Breath, Meditation and Movement",
+    "date": "2026-07-28",
+    "time": "12:00pm - 1:00pm",
+    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/breath-meditation-and-movement-27195/",
+    "category": "other"
+  },
+  {
+    "id": "9774bea2a466",
+    "title": "Mason Square Makers",
+    "date": "2026-07-28",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/mason-square-makers-27196/",
+    "category": "other"
+  },
+  {
+    "id": "e85a7db415c8",
+    "title": "Trivia Tuesdays",
+    "date": "2026-07-28",
+    "time": "8:30pm - 9:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/trivia-tuesdays-27197/",
+    "category": "other"
+  },
+  {
+    "id": "7600445da9cd",
+    "title": "Storytime",
+    "date": "2026-07-29",
+    "time": "11:30am - 12:30pm",
+    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/storytime-27198/",
+    "category": "other"
+  },
+  {
+    "id": "a6f267b7d5ab",
+    "title": "Chess Social",
+    "date": "2026-07-29",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/chess-social-27199/",
+    "category": "other"
+  },
+  {
+    "id": "52519d733bd2",
+    "title": "Outdoor Yoga with Mind the Mat",
+    "date": "2026-07-29",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-27200/",
+    "category": "other"
+  },
+  {
     "id": "0d7b9a34b751",
     "title": "Prom-Themed Launch Party for BLACK GIRLS DON\u2019T CRY by Alex Travis",
     "date": "2026-07-29",
@@ -504,6 +530,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/college-without-chaos-helping-your-student-stay-focused-and-on-track-26869/",
+    "category": "other"
+  },
+  {
+    "id": "ec9c321a52c1",
+    "title": "Yoga & Flow with SPENGA",
+    "date": "2026-07-30",
+    "time": "12:00pm - 1:00pm",
+    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/yoga-flow-with-spenga-27202/",
+    "category": "other"
+  },
+  {
+    "id": "59f4c2b47836",
+    "title": "Ping Pong",
+    "date": "2026-07-30",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/ping-pong-27203/",
+    "category": "other"
+  },
+  {
+    "id": "6fab0941302a",
+    "title": "Pilates with Mind the Mat",
+    "date": "2026-07-30",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/pilates-with-mind-the-mat-27204/",
     "category": "other"
   },
   {
@@ -595,71 +660,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/beats-bites-and-brews-in-old-town-alexandria-22489/",
-    "category": "other"
-  },
-  {
-    "id": "9c32db2c0a97",
-    "title": "Manassas African-American Heritage Festival (Metz Middle School)",
-    "date": "2026-08-01",
-    "time": "11:00am - 6:00pm",
-    "location": "9950 Wellington RoadManassas,Virginia20110",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/manassas-african-american-heritage-festival-metz-middle-school-26769/",
-    "category": "other"
-  },
-  {
-    "id": "4e8e27c4739b",
-    "title": "August 1 \u2013 Movie Night on the Pike: I Know What You Did Last Summer",
-    "date": "2026-08-01",
-    "time": "8:00pm - 10:30pm",
-    "location": "2597 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/august-1-movie-night-on-the-pike-i-know-what-you-did-last-summer-26381/",
-    "category": "other"
-  },
-  {
-    "id": "503a287a8632",
-    "title": "Taylor Swift Cover Band at The Renegade",
-    "date": "2026-08-01",
-    "time": "10:00pm - 1:30am",
-    "location": "3100 Clarendon BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/taylor-swift-cover-band-at-the-renegade-26313/",
-    "category": "other"
-  },
-  {
-    "id": "4193b3831cec",
-    "title": "MoCA on the Move: Summer Fun Family Series | SUMMER MEMORIES POSTCARDS",
-    "date": "2026-08-02",
-    "time": "10:00am - 1:00pm",
-    "location": "1300 S Elm StArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/moca-on-the-move-summer-fun-family-series-summer-memories-postcards-26284/",
-    "category": "other"
-  },
-  {
-    "id": "af78d7cd833d",
-    "title": "Profs & Pints Northern Virginia: The Road to Mass Surveillance",
-    "date": "2026-08-02",
-    "time": "6:00pm - 8:30pm",
-    "location": "2010 Crystal DriveArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-the-road-to-mass-surveillance-26916/",
     "category": "other"
   }
 ]
