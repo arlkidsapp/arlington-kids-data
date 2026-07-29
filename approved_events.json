@@ -1,71 +1,6 @@
 [
   {
-    "id": "f949e46f256d",
-    "title": "Young Explorers: Drop-In",
-    "date": "2026-07-28",
-    "time": "10:00am - 12:00pm",
-    "location": "525 14th Street SouthArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/young-explorers-drop-in-27020/",
-    "category": "other"
-  },
-  {
-    "id": "77c07141c6de",
-    "title": "Breath, Meditation and Movement",
-    "date": "2026-07-28",
-    "time": "12:00pm - 1:00pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/breath-meditation-and-movement-27195/",
-    "category": "other"
-  },
-  {
-    "id": "9329cac2064f",
-    "title": "Mason Square Makers",
-    "date": "2026-07-28",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/mason-square-makers-27196/",
-    "category": "other"
-  },
-  {
-    "id": "fe9993504765",
-    "title": "July Death Cafe at Courthouse Library",
-    "date": "2026-07-28",
-    "time": "6:00pm - 7:30pm",
-    "location": "2100 Clarendon BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/july-death-cafe-at-courthouse-library-27301/",
-    "category": "other"
-  },
-  {
-    "id": "7e4d89435b8a",
-    "title": "Trivia Tuesdays",
-    "date": "2026-07-28",
-    "time": "8:30pm - 9:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/trivia-tuesdays-27197/",
-    "category": "other"
-  },
-  {
-    "id": "7600445da9cd",
+    "id": "f136c6371812",
     "title": "Storytime",
     "date": "2026-07-29",
     "time": "11:30am - 12:30pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "a6f267b7d5ab",
+    "id": "8d3ae04e9ac8",
     "title": "Chess Social",
     "date": "2026-07-29",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "52519d733bd2",
+    "id": "7e32bd6b6794",
     "title": "Outdoor Yoga with Mind the Mat",
     "date": "2026-07-29",
     "time": "6:00pm - 7:00pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "0500ebfbfd90",
+    "id": "cee186314119",
     "title": "Panini World Cup Sticker Trading Night",
     "date": "2026-07-29",
     "time": "6:15pm - 7:45pm",
@@ -117,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "0d7b9a34b751",
+    "id": "ce56ec34d93c",
     "title": "Prom-Themed Launch Party for BLACK GIRLS DON\u2019T CRY by Alex Travis",
     "date": "2026-07-29",
     "time": "7:00pm - 8:00pm",
@@ -244,6 +179,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/fridays-at-fort-totten-concert-series-27309/",
+    "category": "other"
+  },
+  {
+    "id": "a2ca735cbac0",
+    "title": "Daphnique Springs Live Comedy! @Arlington Drafthouse!",
+    "date": "2026-07-31",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/daphnique-springs-live-comedy-arlington-drafthouse-27349/",
     "category": "other"
   },
   {
@@ -377,6 +325,19 @@
     "category": "other"
   },
   {
+    "id": "e8bd62ef401a",
+    "title": "Daphnique Springs Live Comedy! @ Arlington Drafthouse!",
+    "date": "2026-08-01",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/daphnique-springs-live-comedy-arlington-drafthouse-27350/",
+    "category": "other"
+  },
+  {
     "id": "4e8e27c4739b",
     "title": "August 1 \u2013 Movie Night on the Pike: I Know What You Did Last Summer",
     "date": "2026-08-01",
@@ -413,6 +374,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/moca-on-the-move-summer-fun-family-series-summer-memories-postcards-26284/",
+    "category": "other"
+  },
+  {
+    "id": "1fd5c0b5cc56",
+    "title": "Lord of the Rings Film Festival @ Arlington Drafthouse!",
+    "date": "2026-08-02",
+    "time": "11:30am - 10:15pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/lord-of-the-rings-film-festival-arlington-drafthouse-27351/",
     "category": "other"
   },
   {
@@ -673,6 +647,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/yoga-flow-with-spenga-27275/",
+    "category": "other"
+  },
+  {
+    "id": "4621926e56d2",
+    "title": "Ping Pong",
+    "date": "2026-08-06",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/ping-pong-27276/",
+    "category": "other"
+  },
+  {
+    "id": "3d7acfaf79cb",
+    "title": "Member Showcase",
+    "date": "2026-08-06",
+    "time": "5:00pm - 7:00pm",
+    "location": "2700 Clarendon Boulevard, Suite R330Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/member-showcase-26148/",
     "category": "other"
   }
 ]
