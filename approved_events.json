@@ -1,71 +1,6 @@
 [
   {
-    "id": "0e5d2fd08627",
-    "title": "College Without Chaos: Helping Your Student Stay Focused and On Track",
-    "date": "2026-07-30",
-    "time": "12:00pm - 12:45pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/college-without-chaos-helping-your-student-stay-focused-and-on-track-26869/",
-    "category": "other"
-  },
-  {
-    "id": "2cee1b3ade70",
-    "title": "Yoga & Flow with SPENGA",
-    "date": "2026-07-30",
-    "time": "12:00pm - 1:00pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/yoga-flow-with-spenga-27202/",
-    "category": "other"
-  },
-  {
-    "id": "6d186d3d7303",
-    "title": "Ping Pong",
-    "date": "2026-07-30",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/ping-pong-27203/",
-    "category": "other"
-  },
-  {
-    "id": "56378e76f708",
-    "title": "Pilates with Mind the Mat",
-    "date": "2026-07-30",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pilates-with-mind-the-mat-27204/",
-    "category": "other"
-  },
-  {
-    "id": "066297202c14",
-    "title": "Origins of Arlington\u2019s County Manager Plan: 1927-1931",
-    "date": "2026-07-30",
-    "time": "7:00pm - 8:30pm",
-    "location": "2807 N. Glebe Rd,Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/origins-of-arlingtons-county-manager-plan-1927-1931-26705/",
-    "category": "other"
-  },
-  {
-    "id": "ec9652b8a01b",
+    "id": "057660f85c36",
     "title": "Videogame Social",
     "date": "2026-07-31",
     "time": "12:30pm - 1:30pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "768e71f89aa8",
+    "id": "00337a5d5166",
     "title": "Coloring Page Friday",
     "date": "2026-07-31",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "bf431d4c7da6",
+    "id": "8aaee8a44777",
     "title": "Zumba Power Hour",
     "date": "2026-07-31",
     "time": "5:30pm - 6:30pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "df41d5020c36",
+    "id": "bc04cc508746",
     "title": "Fridays at Fort Totten Concert Series",
     "date": "2026-07-31",
     "time": "6:00pm - 8:00pm",
@@ -117,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "a2ca735cbac0",
+    "id": "2a26f6e66c49",
     "title": "Daphnique Springs Live Comedy! @Arlington Drafthouse!",
     "date": "2026-07-31",
     "time": "7:00pm - 8:30pm",
@@ -130,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "6f9d47d23ed5",
+    "id": "7c42869380d1",
     "title": "Live Comedy Show Starring Jim Bryan (Prime)",
     "date": "2026-07-31",
     "time": "8:00pm - 10:00pm",
@@ -598,6 +533,19 @@
     "category": "other"
   },
   {
+    "id": "b19da933bb17",
+    "title": "The Pike Lunch Club: Arlington Arts",
+    "date": "2026-08-06",
+    "time": "12:00pm - 1:30pm",
+    "location": "1035 S Edgewood DrArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-pike-lunch-club-arlington-arts-27413/",
+    "category": "other"
+  },
+  {
     "id": "4621926e56d2",
     "title": "Ping Pong",
     "date": "2026-08-06",
@@ -621,6 +569,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/member-showcase-26148/",
+    "category": "other"
+  },
+  {
+    "id": "c72f78cb1fb4",
+    "title": "The Pike Happy Hour: Art on the Pike Paint & Sip",
+    "date": "2026-08-06",
+    "time": "5:00pm - 7:00pm",
+    "location": "3207 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-pike-happy-hour-art-on-the-pike-paint-sip-27412/",
     "category": "other"
   },
   {
@@ -673,6 +634,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/gentle-yoga-26709/",
+    "category": "other"
+  },
+  {
+    "id": "1e09fd8d9696",
+    "title": "FREE Summer Leadership Breakfast Series",
+    "date": "2026-08-07",
+    "time": "8:00am - 9:30am",
+    "location": "300 North Park DriveArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/free-summer-leadership-breakfast-series-27362/",
+    "category": "other"
+  },
+  {
+    "id": "0f335be936ab",
+    "title": "Videogame Social",
+    "date": "2026-08-07",
+    "time": "12:30pm - 1:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/videogame-social-27278/",
+    "category": "other"
+  },
+  {
+    "id": "467f128b1444",
+    "title": "Coloring Page Friday",
+    "date": "2026-08-07",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/coloring-page-friday-27279/",
     "category": "other"
   }
 ]
