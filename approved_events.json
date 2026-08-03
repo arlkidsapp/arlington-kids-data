@@ -1,71 +1,6 @@
 [
   {
-    "id": "19cdd0d901af",
-    "title": "MoCA on the Move: Summer Fun Family Series | SUMMER MEMORIES POSTCARDS",
-    "date": "2026-08-02",
-    "time": "10:00am - 1:00pm",
-    "location": "1300 S Elm StArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/moca-on-the-move-summer-fun-family-series-summer-memories-postcards-26284/",
-    "category": "other"
-  },
-  {
-    "id": "d112f5477812",
-    "title": "Lord of the Rings Film Festival @ Arlington Drafthouse!",
-    "date": "2026-08-02",
-    "time": "11:30am - 10:15pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/lord-of-the-rings-film-festival-arlington-drafthouse-27351/",
-    "category": "other"
-  },
-  {
-    "id": "7bd49c716dd4",
-    "title": "Memorializing the Enslaved Dedication Ceremony Honoring Two Once Enslaved People",
-    "date": "2026-08-02",
-    "time": "12:00pm - 1:00pm",
-    "location": "5300 10th Street, NorthArlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/memorializing-the-enslaved-dedication-ceremony-honoring-two-once-enslaved-people-27391/",
-    "category": "other"
-  },
-  {
-    "id": "e82c5c9fa342",
-    "title": "LIVE at the Lyceum: Songs of Women\u2019s Loves and Losses",
-    "date": "2026-08-02",
-    "time": "3:00pm - 4:00pm",
-    "location": "201 S Washington StAlexandria,Virginia22314",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/live-at-the-lyceum-songs-of-womens-loves-and-losses-27217/",
-    "category": "other"
-  },
-  {
-    "id": "553aaae25d3c",
-    "title": "Profs & Pints Northern Virginia: The Road to Mass Surveillance",
-    "date": "2026-08-02",
-    "time": "6:00pm - 8:30pm",
-    "location": "2010 Crystal DriveArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-the-road-to-mass-surveillance-26916/",
-    "category": "other"
-  },
-  {
-    "id": "6fbc5d5c6dd7",
+    "id": "5ed816474b94",
     "title": "Knit Kindness",
     "date": "2026-08-03",
     "time": "12:30pm - 1:30pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "b56690c6a5b3",
+    "id": "12973ce02e38",
     "title": "Lawn Games Social",
     "date": "2026-08-03",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "766db9401896",
+    "id": "23f0dafb74f6",
     "title": "K-Pop with WJ Dance Studio",
     "date": "2026-08-03",
     "time": "6:00pm - 7:00pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "89baae1ad346",
+    "id": "ee7e0d06e623",
     "title": "Share this event Gentle Yoga in the Galleries: Monday Nights (Museum of Contemporary Art Arlington)",
     "date": "2026-08-03",
     "time": "6:30pm - 7:30pm",
@@ -611,6 +546,19 @@
     "category": "other"
   },
   {
+    "id": "92cfb96945aa",
+    "title": "Veterans Art Exhibit",
+    "date": "2026-08-09",
+    "time": "12:00pm - 9:00pm",
+    "location": "3445 Washington BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/veterans-art-exhibit-27457/",
+    "category": "other"
+  },
+  {
     "id": "70fb1cd7e417",
     "title": "LIVE @ the Lyceum: Aloha Players Concert",
     "date": "2026-08-09",
@@ -673,6 +621,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/drop-in-resume-and-job-search-help-27113/",
+    "category": "other"
+  },
+  {
+    "id": "040ca539f34b",
+    "title": "Gentle Yoga in the Galleries: Monday Nights",
+    "date": "2026-08-10",
+    "time": "6:30pm - 7:30pm",
+    "location": "3550 Wilson BoulevardArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/gentle-yoga-in-the-galleries-monday-nights-27026/",
+    "category": "other"
+  },
+  {
+    "id": "2ceed5c1c63f",
+    "title": "Young Explorers: Drop-In",
+    "date": "2026-08-11",
+    "time": "10:00am - 12:00pm",
+    "location": "525 14th Street SouthArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/young-explorers-drop-in-27022/",
+    "category": "other"
+  },
+  {
+    "id": "468aee1f0eff",
+    "title": "Inova Blood Drive",
+    "date": "2026-08-11",
+    "time": "2:00pm - 7:00pm",
+    "location": "1015 N Quincy StArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/inova-blood-drive-26259/",
+    "category": "other"
+  },
+  {
+    "id": "ffa86c958f6c",
+    "title": "College Prep 101: A Guide to Success",
+    "date": "2026-08-11",
+    "time": "6:30pm - 7:30pm",
+    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/college-prep-101-a-guide-to-success-27117/",
     "category": "other"
   }
 ]
