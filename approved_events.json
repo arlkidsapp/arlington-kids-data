@@ -1,58 +1,6 @@
 [
   {
-    "id": "5ed816474b94",
-    "title": "Knit Kindness",
-    "date": "2026-08-03",
-    "time": "12:30pm - 1:30pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/knit-kindness-27264/",
-    "category": "other"
-  },
-  {
-    "id": "12973ce02e38",
-    "title": "Lawn Games Social",
-    "date": "2026-08-03",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/lawn-games-social-27265/",
-    "category": "other"
-  },
-  {
-    "id": "23f0dafb74f6",
-    "title": "K-Pop with WJ Dance Studio",
-    "date": "2026-08-03",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/k-pop-with-wj-dance-studio-27266/",
-    "category": "other"
-  },
-  {
-    "id": "ee7e0d06e623",
-    "title": "Share this event Gentle Yoga in the Galleries: Monday Nights (Museum of Contemporary Art Arlington)",
-    "date": "2026-08-03",
-    "time": "6:30pm - 7:30pm",
-    "location": "3550 Wilson BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/share-this-event-gentle-yoga-in-the-galleries-monday-nights-museum-of-contemporary-art-arlington-27007/",
-    "category": "other"
-  },
-  {
-    "id": "1361d11779e8",
+    "id": "f949e46f256d",
     "title": "Young Explorers: Drop-In",
     "date": "2026-08-04",
     "time": "10:00am - 12:00pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "95a2e8696990",
+    "id": "77c07141c6de",
     "title": "Breath, Meditation and Movement",
     "date": "2026-08-04",
     "time": "12:00pm - 1:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "0f66d915b3db",
+    "id": "9329cac2064f",
     "title": "Mason Square Makers",
     "date": "2026-08-04",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "0bd3127dd2e6",
+    "id": "2bdbada49c46",
     "title": "EcoAmbassador Info Session & Social",
     "date": "2026-08-04",
     "time": "6:30pm - 8:30pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "06aff6431af4",
+    "id": "b43be5445424",
     "title": "AI and Games: A Recent History",
     "date": "2026-08-04",
     "time": "6:30pm - 7:30pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "8832c160b6cb",
+    "id": "c70ebd8ba1da",
     "title": "Author Anna Bright Discusses WINGS OF REVERIE",
     "date": "2026-08-04",
     "time": "7:00pm - 8:00pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "010499318ef8",
+    "id": "7e4d89435b8a",
     "title": "Trivia Tuesdays",
     "date": "2026-08-04",
     "time": "8:30pm - 9:30pm",
@@ -673,6 +621,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/college-prep-101-a-guide-to-success-27117/",
+    "category": "other"
+  },
+  {
+    "id": "115bbe04dd23",
+    "title": "Arlington County Fair",
+    "date": "2026-08-12",
+    "time": "5:00pm - 10:30pm",
+    "location": "3501 2nd St SArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/arlington-county-fair-26961/",
+    "category": "other"
+  },
+  {
+    "id": "1933aa87f4ec",
+    "title": "Sound Bath: New Moon in Leo",
+    "date": "2026-08-12",
+    "time": "6:30pm - 8:00pm",
+    "location": "1050 N Stuart St.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sound-bath-new-moon-in-leo-26499/",
+    "category": "other"
+  },
+  {
+    "id": "a17a7d4d0614",
+    "title": "Rosslyn LIVE",
+    "date": "2026-08-13",
+    "time": "5:30pm - 8:00pm",
+    "location": "1300 Langston BoulevardArlington,Virginia22209",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rosslyn-live-25347/",
+    "category": "other"
+  },
+  {
+    "id": "5f09f5b91bbc",
+    "title": "Monthly Meditation",
+    "date": "2026-08-13",
+    "time": "6:30pm - 7:30pm",
+    "location": "816 South Walter Reed DriveArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/monthly-meditation-26987/",
     "category": "other"
   }
 ]
