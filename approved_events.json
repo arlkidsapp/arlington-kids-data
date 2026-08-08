@@ -1,71 +1,6 @@
 [
   {
-    "id": "ef8d37af6ef2",
-    "title": "FREE Summer Leadership Breakfast Series",
-    "date": "2026-08-07",
-    "time": "8:00am - 9:30am",
-    "location": "300 North Park DriveArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-summer-leadership-breakfast-series-27362/",
-    "category": "other"
-  },
-  {
-    "id": "057660f85c36",
-    "title": "Videogame Social",
-    "date": "2026-08-07",
-    "time": "12:30pm - 1:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/videogame-social-27278/",
-    "category": "other"
-  },
-  {
-    "id": "00337a5d5166",
-    "title": "Coloring Page Friday",
-    "date": "2026-08-07",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/coloring-page-friday-27279/",
-    "category": "other"
-  },
-  {
-    "id": "e07e95de5b96",
-    "title": "Zumba power hour",
-    "date": "2026-08-07",
-    "time": "5:30pm - 6:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/zumba-power-hour-27280/",
-    "category": "other"
-  },
-  {
-    "id": "7a81ea24e718",
-    "title": "Sound Bath: Energy, Worth, and Inner Light",
-    "date": "2026-08-07",
-    "time": "7:00pm - 8:00pm",
-    "location": "1050 N Stuart St.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sound-bath-energy-worth-and-inner-light-26498/",
-    "category": "other"
-  },
-  {
-    "id": "44b30eedd348",
+    "id": "3dca71b6b1e6",
     "title": "National Landing Community Bike Ride",
     "date": "2026-08-08",
     "time": "8:00am - 10:00am",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "bc16c8cb2ef2",
+    "id": "4fde0275126a",
     "title": "Yoga in the Galleries: Saturday Mornings",
     "date": "2026-08-08",
     "time": "11:00am - 12:00pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "e89742e7cb5f",
+    "id": "769b2dff8dfb",
     "title": "First Baby? Connect in-person with other New Moms!",
     "date": "2026-08-08",
     "time": "11:00am - 12:00pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "8e46bd4eb54c",
+    "id": "930745d920b3",
     "title": "Saturday Sound Bath",
     "date": "2026-08-08",
     "time": "12:00pm - 1:00pm",
@@ -117,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "bbc2b4f084a7",
+    "id": "b73ff25081ce",
     "title": "Crochet Community Social: Drop-In Stitch Session",
     "date": "2026-08-08",
     "time": "2:30pm - 4:00pm",
@@ -130,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "b4ffe00df672",
+    "id": "91f9e4f8253d",
     "title": "Daisy\u2019s Legacy 2nd Anniversary Celebration",
     "date": "2026-08-08",
     "time": "5:00pm - 8:00pm",
@@ -143,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "8f62794e11c1",
+    "id": "18137a75c723",
     "title": "Bubbles & Amenities Party",
     "date": "2026-08-08",
     "time": "5:30pm - 6:30pm",
@@ -156,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "e1348ea943f7",
+    "id": "60e9bc94bb34",
     "title": "Saturday Shuffle",
     "date": "2026-08-08",
     "time": "6:30pm - 8:30pm",
@@ -169,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "922dd132ddc8",
+    "id": "3b83eb84be27",
     "title": "The Comedy Karaoke Trivia Funtime Show with Dom Grayer",
     "date": "2026-08-08",
     "time": "7:30pm - 9:30pm",
@@ -673,6 +608,71 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/free-home-buying-workshop-discover-arlington-the-davenport-group-27171/",
+    "category": "other"
+  },
+  {
+    "id": "accf7c86e6dd",
+    "title": "Wellness Wednesday: Sound Bath & Music",
+    "date": "2026-08-19",
+    "time": "9:30am - 10:30am",
+    "location": "525 14th Street SouthArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/wellness-wednesday-sound-bath-music-27017/",
+    "category": "other"
+  },
+  {
+    "id": "b6e21e4140e1",
+    "title": "Zumba!",
+    "date": "2026-08-19",
+    "time": "12:00pm - 1:00pm",
+    "location": "1015 N Quincy StArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/zumba-27336/",
+    "category": "other"
+  },
+  {
+    "id": "a47ac17b2a86",
+    "title": "Start Strong: The Hidden Skills That Predict Success This School Year",
+    "date": "2026-08-19",
+    "time": "12:00pm - 12:45pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/start-strong-the-hidden-skills-that-predict-success-this-school-year-27463/",
+    "category": "other"
+  },
+  {
+    "id": "388d9a682538",
+    "title": "Sensory Friendly Night",
+    "date": "2026-08-20",
+    "time": "6:00pm - 8:00pm",
+    "location": "925 13th St. NW (Entrance on K Street)Washington,District of Columbia20005",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sensory-friendly-night-26976/",
+    "category": "other"
+  },
+  {
+    "id": "9e2a3dc8b999",
+    "title": "Cortland Community Pop Up at Courthaus Social",
+    "date": "2026-08-20",
+    "time": "6:00pm - 9:00pm",
+    "location": "2300 Clarendon BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/cortland-community-pop-up-at-courthaus-social-27506/",
     "category": "other"
   }
 ]
