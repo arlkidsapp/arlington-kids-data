@@ -1,123 +1,6 @@
 [
   {
-    "id": "3dca71b6b1e6",
-    "title": "National Landing Community Bike Ride",
-    "date": "2026-08-08",
-    "time": "8:00am - 10:00am",
-    "location": "475 Long Bridge DrArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/national-landing-community-bike-ride-26974/",
-    "category": "other"
-  },
-  {
-    "id": "4fde0275126a",
-    "title": "Yoga in the Galleries: Saturday Mornings",
-    "date": "2026-08-08",
-    "time": "11:00am - 12:00pm",
-    "location": "3550 Wilson BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/yoga-in-the-galleries-saturday-mornings-27051/",
-    "category": "other"
-  },
-  {
-    "id": "769b2dff8dfb",
-    "title": "First Baby? Connect in-person with other New Moms!",
-    "date": "2026-08-08",
-    "time": "11:00am - 12:00pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/first-baby-connect-in-person-with-other-new-moms-27296/",
-    "category": "other"
-  },
-  {
-    "id": "930745d920b3",
-    "title": "Saturday Sound Bath",
-    "date": "2026-08-08",
-    "time": "12:00pm - 1:00pm",
-    "location": "3401 Fairfax Dr, Fuse Room 2500Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/saturday-sound-bath-27281/",
-    "category": "other"
-  },
-  {
-    "id": "b73ff25081ce",
-    "title": "Crochet Community Social: Drop-In Stitch Session",
-    "date": "2026-08-08",
-    "time": "2:30pm - 4:00pm",
-    "location": "525 14th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/crochet-community-social-drop-in-stitch-session-25843/",
-    "category": "other"
-  },
-  {
-    "id": "91f9e4f8253d",
-    "title": "Daisy\u2019s Legacy 2nd Anniversary Celebration",
-    "date": "2026-08-08",
-    "time": "5:00pm - 8:00pm",
-    "location": "2350 Clarendon BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/daisys-legacy-2nd-anniversary-celebration-26495/",
-    "category": "other"
-  },
-  {
-    "id": "18137a75c723",
-    "title": "Bubbles & Amenities Party",
-    "date": "2026-08-08",
-    "time": "5:30pm - 6:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/bubbles-amenities-party-27282/",
-    "category": "other"
-  },
-  {
-    "id": "60e9bc94bb34",
-    "title": "Saturday Shuffle",
-    "date": "2026-08-08",
-    "time": "6:30pm - 8:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/saturday-shuffle-27283/",
-    "category": "other"
-  },
-  {
-    "id": "3b83eb84be27",
-    "title": "The Comedy Karaoke Trivia Funtime Show with Dom Grayer",
-    "date": "2026-08-08",
-    "time": "7:30pm - 9:30pm",
-    "location": "2010 Crystal DriveArlington22202,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-comedy-karaoke-trivia-funtime-show-with-dom-grayer-25622/",
-    "category": "other"
-  },
-  {
-    "id": "c9edc0a68c9d",
+    "id": "da19794250f7",
     "title": "MoCA on the Move: Summer Fun Family Series | SUMMER WATERCOLOR PAINTING",
     "date": "2026-08-09",
     "time": "10:00am - 1:00pm",
@@ -130,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "7b827aecdd7f",
+    "id": "ac69899561a5",
     "title": "Sunday Storytime (Planet Word)",
     "date": "2026-08-09",
     "time": "10:00am - 11:00am",
@@ -143,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "92cfb96945aa",
+    "id": "3fd6bc4f460f",
     "title": "Veterans Art Exhibit",
     "date": "2026-08-09",
     "time": "12:00pm - 9:00pm",
@@ -156,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "70fb1cd7e417",
+    "id": "59e6b5a1f497",
     "title": "LIVE @ the Lyceum: Aloha Players Concert",
     "date": "2026-08-09",
     "time": "3:00pm - 4:00pm",
@@ -169,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "5a378bac4eeb",
+    "id": "f9b316b71875",
     "title": "Family Night at the Track and Meet of Miles \u2013 Yorktown High School",
     "date": "2026-08-09",
     "time": "4:30pm - 6:30pm",
@@ -182,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "fc26df6e0433",
+    "id": "bea408b365fb",
     "title": "Mandoleers Summer Concert",
     "date": "2026-08-09",
     "time": "5:00pm - 6:30pm",
@@ -195,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "088172c56da2",
+    "id": "74a6aba6c06f",
     "title": "Profs & Pints Northern Virginia: Social Media to Social Reckoning",
     "date": "2026-08-09",
     "time": "6:00pm - 8:30pm",
@@ -673,6 +556,123 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/cortland-community-pop-up-at-courthaus-social-27506/",
+    "category": "other"
+  },
+  {
+    "id": "622ebb1043b4",
+    "title": "Real Estate 101 (Online)",
+    "date": "2026-08-20",
+    "time": "6:30pm - 7:30pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/real-estate-101-online-27517/",
+    "category": "other"
+  },
+  {
+    "id": "663bdd765bad",
+    "title": "Argentine tango night at 3 whistles cafe",
+    "date": "2026-08-20",
+    "time": "7:00pm - 11:00pm",
+    "location": "2719 Wilson blvdarlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/argentine-tango-night-at-3-whistles-cafe-27484/",
+    "category": "other"
+  },
+  {
+    "id": "ce9a632c1868",
+    "title": "Glow Zumba",
+    "date": "2026-08-21",
+    "time": "8:00pm - 9:00pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/glow-zumba-27498/",
+    "category": "other"
+  },
+  {
+    "id": "930bd44662f2",
+    "title": "Run DMV Run (North Meade Street Park)",
+    "date": "2026-08-22",
+    "time": "7:00am - 11:00am",
+    "location": "1550 N Meade StreetArlington,Virginia22209",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/run-dmv-run-north-meade-street-park-27478/",
+    "category": "other"
+  },
+  {
+    "id": "3f81541d6a20",
+    "title": "Yoga en Espa\u00f1ol: 4th Saturdays",
+    "date": "2026-08-22",
+    "time": "9:30am - 10:30am",
+    "location": "3550 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/yoga-en-espaol-4th-saturdays-27003/",
+    "category": "other"
+  },
+  {
+    "id": "6507dc5c2d76",
+    "title": "Chocolate Truffles: Seminar and Tasting",
+    "date": "2026-08-22",
+    "time": "1:30pm - 3:00pm",
+    "location": "735 18th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/chocolate-truffles-seminar-and-tasting-27570/",
+    "category": "other"
+  },
+  {
+    "id": "6014ca9b7e78",
+    "title": "Sound Bath in the Tiffany Gallery",
+    "date": "2026-08-22",
+    "time": "2:00pm - 3:00pm",
+    "location": "3550 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sound-bath-in-the-tiffany-gallery-26798/",
+    "category": "other"
+  },
+  {
+    "id": "231d5dab6e56",
+    "title": "Summer Restaurant Week (Washington)",
+    "date": "2026-08-23",
+    "time": "12:00am - 11:59pm",
+    "location": "2112 Pennsylvania Avenue, NW Suite 450Washington,District of Columbia20006",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/summer-restaurant-week-washington-27340/",
+    "category": "other"
+  },
+  {
+    "id": "4767c84ac5c1",
+    "title": "MoCA on the Move: Summer Fun Family Series | PAPER MOSAIC DESIGNS",
+    "date": "2026-08-23",
+    "time": "10:00am - 1:00pm",
+    "location": "1300 S Elm StArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/moca-on-the-move-summer-fun-family-series-paper-mosaic-designs-26287/",
     "category": "other"
   }
 ]
