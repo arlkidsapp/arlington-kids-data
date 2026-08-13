@@ -1,45 +1,6 @@
 [
   {
-    "id": "09d604e967c0",
-    "title": "Arlington County Fair",
-    "date": "2026-08-12",
-    "time": "5:00pm - 10:30pm",
-    "location": "3501 2nd St SArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/arlington-county-fair-26961/",
-    "category": "other"
-  },
-  {
-    "id": "4b48e7cbd858",
-    "title": "Author Talk: Sierra Barnes \u2013 \u201cHans Vogel is Dead, Vol. 2\u201d",
-    "date": "2026-08-12",
-    "time": "6:00pm - 8:00pm",
-    "location": "735 18th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/author-talk-sierra-barnes-hans-vogel-is-dead-vol-2-27525/",
-    "category": "other"
-  },
-  {
-    "id": "c02e1e076b6a",
-    "title": "Sound Bath: New Moon in Leo",
-    "date": "2026-08-12",
-    "time": "6:30pm - 8:00pm",
-    "location": "1050 N Stuart St.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sound-bath-new-moon-in-leo-26499/",
-    "category": "other"
-  },
-  {
-    "id": "a17a7d4d0614",
+    "id": "da40611e832f",
     "title": "Rosslyn LIVE",
     "date": "2026-08-13",
     "time": "5:30pm - 8:00pm",
@@ -52,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "5f09f5b91bbc",
+    "id": "bca037037dac",
     "title": "Monthly Meditation",
     "date": "2026-08-13",
     "time": "6:30pm - 7:30pm",
@@ -65,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "d10676d54da2",
+    "id": "dc6dfb7f63ef",
     "title": "Around the Hearth: An Original Play About the Oldest House in Arlington",
     "date": "2026-08-13",
     "time": "7:00pm - 9:00pm",
@@ -78,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "bce242945d45",
+    "id": "c275a4432060",
     "title": "Stargazing",
     "date": "2026-08-13",
     "time": "8:00pm - 10:00pm",
@@ -88,6 +49,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/stargazing-26904/",
+    "category": "other"
+  },
+  {
+    "id": "60e5b59e4156",
+    "title": "Friday Power Lunch \u2014 History Repeats Itself, So Let\u2019s Repeat What Works",
+    "date": "2026-08-14",
+    "time": "12:00pm - 1:00pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/friday-power-lunch-history-repeats-itself-so-lets-repeat-what-works-27647/",
     "category": "other"
   },
   {
@@ -598,6 +572,19 @@
     "category": "other"
   },
   {
+    "id": "976075d19700",
+    "title": "Movie Magic! How Cinematic Illusion Is Used to Tell Stories (free)",
+    "date": "2026-08-25",
+    "time": "6:00pm - 7:30pm",
+    "location": "2100 Clarendon BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/movie-magic-how-cinematic-illusion-is-used-to-tell-stories-free-27649/",
+    "category": "other"
+  },
+  {
     "id": "98456f973107",
     "title": "Ideas in Action: William James and Pragmatism",
     "date": "2026-08-25",
@@ -673,6 +660,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/2026-around-the-world-cultural-food-festival-oronoco-bay-park-24645/",
+    "category": "other"
+  },
+  {
+    "id": "d2173b030892",
+    "title": "Artist Talk: Material Matters",
+    "date": "2026-08-29",
+    "time": "2:00pm - 3:00pm",
+    "location": "3550 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/artist-talk-material-matters-27572/",
     "category": "other"
   }
 ]
