@@ -1,58 +1,6 @@
 [
   {
-    "id": "da40611e832f",
-    "title": "Rosslyn LIVE",
-    "date": "2026-08-13",
-    "time": "5:30pm - 8:00pm",
-    "location": "1300 Langston BoulevardArlington,Virginia22209",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rosslyn-live-25347/",
-    "category": "other"
-  },
-  {
-    "id": "bca037037dac",
-    "title": "Monthly Meditation",
-    "date": "2026-08-13",
-    "time": "6:30pm - 7:30pm",
-    "location": "816 South Walter Reed DriveArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/monthly-meditation-26987/",
-    "category": "other"
-  },
-  {
-    "id": "dc6dfb7f63ef",
-    "title": "Around the Hearth: An Original Play About the Oldest House in Arlington",
-    "date": "2026-08-13",
-    "time": "7:00pm - 9:00pm",
-    "location": "Reinsch Library, Marymount University Main Campus2807 N. Glebe Rd,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/around-the-hearth-an-original-play-about-the-oldest-house-in-arlington-27461/",
-    "category": "other"
-  },
-  {
-    "id": "c275a4432060",
-    "title": "Stargazing",
-    "date": "2026-08-13",
-    "time": "8:00pm - 10:00pm",
-    "location": "7th Street and Independence Avenue SWWashington,District of Columbia20560",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/stargazing-26904/",
-    "category": "other"
-  },
-  {
-    "id": "60e5b59e4156",
+    "id": "b1a068437ff4",
     "title": "Friday Power Lunch \u2014 History Repeats Itself, So Let\u2019s Repeat What Works",
     "date": "2026-08-14",
     "time": "12:00pm - 1:00pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "c60c6817521a",
+    "id": "8c7e467ee3d3",
     "title": "Artist-Led Analog Night: Screen Printing & Patching with Aaron Tran",
     "date": "2026-08-14",
     "time": "6:00pm - 8:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "5da9926d2980",
+    "id": "04e776d67d38",
     "title": "Make your Child Bully Proof \u2013 Free Community Workshop",
     "date": "2026-08-14",
     "time": "6:15pm - 8:15pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "acae9adc0f68",
+    "id": "3c0f0daa7b57",
     "title": "Cinema on the Plaza: My Cousin Vinny",
     "date": "2026-08-14",
     "time": "8:00pm - 10:00pm",
@@ -429,6 +377,32 @@
     "category": "other"
   },
   {
+    "id": "f47f7a4be3ca",
+    "title": "Summer Leadership Breakfast Series",
+    "date": "2026-08-21",
+    "time": "8:00am - 9:30am",
+    "location": "300 North Park DriveARLINGTON,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/summer-leadership-breakfast-series-27698/",
+    "category": "other"
+  },
+  {
+    "id": "62fd002b1dcf",
+    "title": "Styling Series: Sip & Shop at Current Boutique Clarendon",
+    "date": "2026-08-21",
+    "time": "6:00pm - 8:00pm",
+    "location": "2601 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/styling-series-sip-shop-at-current-boutique-clarendon-27689/",
+    "category": "other"
+  },
+  {
     "id": "b49971f85690",
     "title": "Sunset Cinemas",
     "date": "2026-08-21",
@@ -520,6 +494,19 @@
     "category": "other"
   },
   {
+    "id": "19bcf113a670",
+    "title": "CAN I KICK IT? featuring NEW JACK CITY (Washington, DC)",
+    "date": "2026-08-22",
+    "time": "7:30pm - 9:30pm",
+    "location": "Independence Ave SW & 15th Street NW,Washington,District of Columbia20004",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/can-i-kick-it-featuring-new-jack-city-washington-dc-27682/",
+    "category": "other"
+  },
+  {
     "id": "231d5dab6e56",
     "title": "Summer Restaurant Week (Washington)",
     "date": "2026-08-23",
@@ -598,6 +585,19 @@
     "category": "other"
   },
   {
+    "id": "bb8ad803d144",
+    "title": "Radically Reframing Climate Change with Author Will Hackman",
+    "date": "2026-08-25",
+    "time": "6:30pm - 7:30am",
+    "location": "120 N. Virginia Ave.Falls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/radically-reframing-climate-change-with-author-will-hackman-27687/",
+    "category": "other"
+  },
+  {
     "id": "736d7fbe6071",
     "title": "Free Memory Screening",
     "date": "2026-08-26",
@@ -608,6 +608,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/free-memory-screening-27527/",
+    "category": "other"
+  },
+  {
+    "id": "f3a34660d2fe",
+    "title": "Kizomba Dance Lessons at Courthouse",
+    "date": "2026-08-26",
+    "time": "6:30pm - 7:30pm",
+    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/kizomba-dance-lessons-at-courthouse-27701/",
     "category": "other"
   },
   {
@@ -660,19 +673,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/2026-around-the-world-cultural-food-festival-oronoco-bay-park-24645/",
-    "category": "other"
-  },
-  {
-    "id": "d2173b030892",
-    "title": "Artist Talk: Material Matters",
-    "date": "2026-08-29",
-    "time": "2:00pm - 3:00pm",
-    "location": "3550 Wilson BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/artist-talk-material-matters-27572/",
     "category": "other"
   }
 ]
