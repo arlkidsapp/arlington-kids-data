@@ -1,58 +1,6 @@
 [
   {
-    "id": "b1a068437ff4",
-    "title": "Friday Power Lunch \u2014 History Repeats Itself, So Let\u2019s Repeat What Works",
-    "date": "2026-08-14",
-    "time": "12:00pm - 1:00pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/friday-power-lunch-history-repeats-itself-so-lets-repeat-what-works-27647/",
-    "category": "other"
-  },
-  {
-    "id": "8c7e467ee3d3",
-    "title": "Artist-Led Analog Night: Screen Printing & Patching with Aaron Tran",
-    "date": "2026-08-14",
-    "time": "6:00pm - 8:00pm",
-    "location": "525 14th Street SouthArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/artist-led-analog-night-screen-printing-patching-with-aaron-tran-27193/",
-    "category": "other"
-  },
-  {
-    "id": "04e776d67d38",
-    "title": "Make your Child Bully Proof \u2013 Free Community Workshop",
-    "date": "2026-08-14",
-    "time": "6:15pm - 8:15pm",
-    "location": "1041 S EDGEWOOD STARLINGTON,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/make-your-child-bully-proof-free-community-workshop-27471/",
-    "category": "other"
-  },
-  {
-    "id": "3c0f0daa7b57",
-    "title": "Cinema on the Plaza: My Cousin Vinny",
-    "date": "2026-08-14",
-    "time": "8:00pm - 10:00pm",
-    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/cinema-on-the-plaza-my-cousin-vinny-27497/",
-    "category": "other"
-  },
-  {
-    "id": "e7102fd84de5",
+    "id": "6ba7d7f14f33",
     "title": "barre3 at Stratford Garden",
     "date": "2026-08-15",
     "time": "9:00am - 10:00am",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "bf94915cf5a1",
+    "id": "4fde0275126a",
     "title": "Yoga in the Galleries: Saturday Mornings",
     "date": "2026-08-15",
     "time": "9:30am - 10:30am",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "9b465d39ace1",
+    "id": "cbb7f51f2fb3",
     "title": "Panda Fest \u2013 DC 2026",
     "date": "2026-08-15",
     "time": "10:00am - 10:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "ff96d722cace",
+    "id": "89d3fea14d78",
     "title": "Back to School Block Party \u2013 Dance Academy of Virginia",
     "date": "2026-08-15",
     "time": "10:00am - 12:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "8e1eeeaa3081",
+    "id": "18bdc8823721",
     "title": "Love is all around on Bookstore Romance Day!",
     "date": "2026-08-15",
     "time": "11:00am - 4:00pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "4c98836a1d0d",
+    "id": "6add5df80f90",
     "title": "Arlington Luxury Townhome Open House: Tour a One-of-a-Kind Redevelopment",
     "date": "2026-08-15",
     "time": "12:00pm - 4:00pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "6950a5d886b7",
+    "id": "c6e461f14064",
     "title": "Sound Bath in the Tiffany Gallery",
     "date": "2026-08-15",
     "time": "2:00pm - 3:00pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "d539efd15754",
+    "id": "6eafba2f7d3f",
     "title": "Be Brave With Us!",
     "date": "2026-08-15",
     "time": "3:00pm - 5:00pm",
@@ -156,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "40ced6756a7a",
+    "id": "37e58469cfc4",
     "title": "Serenity",
     "date": "2026-08-15",
     "time": "3:30pm - 5:45pm",
@@ -611,6 +559,19 @@
     "category": "other"
   },
   {
+    "id": "ceaac92a3632",
+    "title": "Next Level Networking for Arlington Business Leaders",
+    "date": "2026-08-26",
+    "time": "3:30pm - 5:00pm",
+    "location": "5849 Washington Boulevard #BArlington,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/next-level-networking-for-arlington-business-leaders-27716/",
+    "category": "other"
+  },
+  {
     "id": "f3a34660d2fe",
     "title": "Kizomba Dance Lessons at Courthouse",
     "date": "2026-08-26",
@@ -673,6 +634,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/2026-around-the-world-cultural-food-festival-oronoco-bay-park-24645/",
+    "category": "other"
+  },
+  {
+    "id": "d2173b030892",
+    "title": "Artist Talk: Material Matters",
+    "date": "2026-08-29",
+    "time": "2:00pm - 3:00pm",
+    "location": "3550 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/artist-talk-material-matters-27572/",
+    "category": "other"
+  },
+  {
+    "id": "926502f68373",
+    "title": "Back 2 School Boro Bash",
+    "date": "2026-08-29",
+    "time": "7:00pm - 9:30pm",
+    "location": "8350 Broad StreetTysons,VirginiaWashington DC",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/back-2-school-boro-bash-27487/",
     "category": "other"
   }
 ]
