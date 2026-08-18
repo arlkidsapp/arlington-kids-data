@@ -1,32 +1,6 @@
 [
   {
-    "id": "68e54eb408e4",
-    "title": "Gentle Yoga in the Galleries: Monday Nights",
-    "date": "2026-08-17",
-    "time": "6:30pm - 7:30pm",
-    "location": "3550 Wilson BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/gentle-yoga-in-the-galleries-monday-nights-27027/",
-    "category": "other"
-  },
-  {
-    "id": "59da2e631155",
-    "title": "Spirited Away Movie @Arlington Drafthouse",
-    "date": "2026-08-17",
-    "time": "7:00pm - 9:00pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/spirited-away-movie-arlington-drafthouse-27753/",
-    "category": "other"
-  },
-  {
-    "id": "2abb6a6c5a38",
+    "id": "b554803d8363",
     "title": "Auditions & Crew Interviews: Hansel & Gretel",
     "date": "2026-08-18",
     "time": "5:30pm - 8:30pm",
@@ -39,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "3768e1418ad1",
+    "id": "39ae979763a9",
     "title": "Auditions & Crew Interviews for Encore Stage & Studio\u2019s Hansel & Gretel",
     "date": "2026-08-18",
     "time": "5:30pm - 8:30pm",
@@ -52,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "b68314d43829",
+    "id": "e57be1f89d81",
     "title": "Arlington\u2019s Civil War Defenders",
     "date": "2026-08-18",
     "time": "6:30pm - 7:30pm",
@@ -65,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "62e0d89942ef",
+    "id": "dcab9f5164c2",
     "title": "FREE Home Buying Workshop: Discover Arlington + The Davenport Group",
     "date": "2026-08-18",
     "time": "6:30pm - 7:30pm",
@@ -114,6 +88,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/start-strong-the-hidden-skills-that-predict-success-this-school-year-27463/",
+    "category": "other"
+  },
+  {
+    "id": "726a688c4861",
+    "title": "Magic Mike Movie @Arlington Drafthouse",
+    "date": "2026-08-19",
+    "time": "7:00pm - 9:00pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/magic-mike-movie-arlington-drafthouse-27760/",
     "category": "other"
   },
   {
@@ -221,6 +208,19 @@
     "category": "other"
   },
   {
+    "id": "cf2b6fa29706",
+    "title": "Blair Socci Live Comedy @Arlington Drafthouse!",
+    "date": "2026-08-21",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/blair-socci-live-comedy-arlington-drafthouse-27757/",
+    "category": "other"
+  },
+  {
     "id": "b49971f85690",
     "title": "Sunset Cinemas",
     "date": "2026-08-21",
@@ -309,6 +309,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/sound-bath-in-the-tiffany-gallery-26798/",
+    "category": "other"
+  },
+  {
+    "id": "956ac1459b6d",
+    "title": "Blair Socci Live Comedy at Arlington Drafthouse!",
+    "date": "2026-08-22",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/blair-socci-live-comedy-at-arlington-drafthouse-27758/",
     "category": "other"
   },
   {
@@ -660,19 +673,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/k-pop-with-wj-dance-studio-27652/",
-    "category": "other"
-  },
-  {
-    "id": "c1a2ed4e3986",
-    "title": "Overdose Awareness Vigil",
-    "date": "2026-08-31",
-    "time": "7:00pm - 8:00pm",
-    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/overdose-awareness-vigil-26619/",
     "category": "other"
   }
 ]
