@@ -1,58 +1,6 @@
 [
   {
-    "id": "b554803d8363",
-    "title": "Auditions & Crew Interviews: Hansel & Gretel",
-    "date": "2026-08-18",
-    "time": "5:30pm - 8:30pm",
-    "location": "3701 Lorcom LnArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/auditions-crew-interviews-hansel-gretel-26432/",
-    "category": "other"
-  },
-  {
-    "id": "39ae979763a9",
-    "title": "Auditions & Crew Interviews for Encore Stage & Studio\u2019s Hansel & Gretel",
-    "date": "2026-08-18",
-    "time": "5:30pm - 8:30pm",
-    "location": "3701 Lorcom LaneArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/auditions-crew-interviews-for-encore-stage-studios-hansel-gretel-27469/",
-    "category": "other"
-  },
-  {
-    "id": "e57be1f89d81",
-    "title": "Arlington\u2019s Civil War Defenders",
-    "date": "2026-08-18",
-    "time": "6:30pm - 7:30pm",
-    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/arlingtons-civil-war-defenders-27114/",
-    "category": "other"
-  },
-  {
-    "id": "dcab9f5164c2",
-    "title": "FREE Home Buying Workshop: Discover Arlington + The Davenport Group",
-    "date": "2026-08-18",
-    "time": "6:30pm - 7:30pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-home-buying-workshop-discover-arlington-the-davenport-group-27171/",
-    "category": "other"
-  },
-  {
-    "id": "accf7c86e6dd",
+    "id": "765c0a5482b9",
     "title": "Wellness Wednesday: Sound Bath & Music",
     "date": "2026-08-19",
     "time": "9:30am - 10:30am",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "b6e21e4140e1",
+    "id": "5c627f37569c",
     "title": "Zumba!",
     "date": "2026-08-19",
     "time": "12:00pm - 1:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "a47ac17b2a86",
+    "id": "f47bef9a58d9",
     "title": "Start Strong: The Hidden Skills That Predict Success This School Year",
     "date": "2026-08-19",
     "time": "12:00pm - 12:45pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "726a688c4861",
+    "id": "a4f740b68645",
     "title": "Magic Mike Movie @Arlington Drafthouse",
     "date": "2026-08-19",
     "time": "7:00pm - 9:00pm",
@@ -273,6 +221,19 @@
     "category": "other"
   },
   {
+    "id": "db74ddf9a057",
+    "title": "10th Annual Women\u2019s Summit (McLean)",
+    "date": "2026-08-22",
+    "time": "9:00am - 10:30pm",
+    "location": "7920 Jones Branch DriveMcLean,Virginia22102",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/10th-annual-womens-summit-mclean-27795/",
+    "category": "other"
+  },
+  {
     "id": "3f81541d6a20",
     "title": "Yoga en Espa\u00f1ol: 4th Saturdays",
     "date": "2026-08-22",
@@ -283,6 +244,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/yoga-en-espaol-4th-saturdays-27003/",
+    "category": "other"
+  },
+  {
+    "id": "566be8f8ab23",
+    "title": "Kol Ami Tot Shabbat",
+    "date": "2026-08-22",
+    "time": "11:00am - 12:00pm",
+    "location": "4444 Arlington Blvd.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/kol-ami-tot-shabbat-27842/",
+    "category": "other"
+  },
+  {
+    "id": "fb6766ee801f",
+    "title": "Free Korean Lunch",
+    "date": "2026-08-22",
+    "time": "12:00pm - 1:30pm",
+    "location": "2425 North Glebe RoadArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/free-korean-lunch-27828/",
     "category": "other"
   },
   {
@@ -673,6 +660,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/k-pop-with-wj-dance-studio-27652/",
+    "category": "other"
+  },
+  {
+    "id": "c1a2ed4e3986",
+    "title": "Overdose Awareness Vigil",
+    "date": "2026-08-31",
+    "time": "7:00pm - 8:00pm",
+    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/overdose-awareness-vigil-26619/",
     "category": "other"
   }
 ]
