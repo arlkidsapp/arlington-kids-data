@@ -1,58 +1,6 @@
 [
   {
-    "id": "765c0a5482b9",
-    "title": "Wellness Wednesday: Sound Bath & Music",
-    "date": "2026-08-19",
-    "time": "9:30am - 10:30am",
-    "location": "525 14th Street SouthArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/wellness-wednesday-sound-bath-music-27017/",
-    "category": "other"
-  },
-  {
-    "id": "5c627f37569c",
-    "title": "Zumba!",
-    "date": "2026-08-19",
-    "time": "12:00pm - 1:00pm",
-    "location": "1015 N Quincy StArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/zumba-27336/",
-    "category": "other"
-  },
-  {
-    "id": "f47bef9a58d9",
-    "title": "Start Strong: The Hidden Skills That Predict Success This School Year",
-    "date": "2026-08-19",
-    "time": "12:00pm - 12:45pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/start-strong-the-hidden-skills-that-predict-success-this-school-year-27463/",
-    "category": "other"
-  },
-  {
-    "id": "a4f740b68645",
-    "title": "Magic Mike Movie @Arlington Drafthouse",
-    "date": "2026-08-19",
-    "time": "7:00pm - 9:00pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/magic-mike-movie-arlington-drafthouse-27760/",
-    "category": "other"
-  },
-  {
-    "id": "d88349e6aebd",
+    "id": "5537f4881ca6",
     "title": "Squeals on Wheels Petting Zoo",
     "date": "2026-08-20",
     "time": "11:00am - 12:00pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "388d9a682538",
+    "id": "6257498e9a84",
     "title": "Sensory Friendly Night",
     "date": "2026-08-20",
     "time": "6:00pm - 8:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "9e2a3dc8b999",
+    "id": "1cdd7bbc2688",
     "title": "Cortland Community Pop Up at Courthaus Social",
     "date": "2026-08-20",
     "time": "6:00pm - 9:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "622ebb1043b4",
+    "id": "6f649dad3aa3",
     "title": "Real Estate 101 (Online)",
     "date": "2026-08-20",
     "time": "6:30pm - 7:30pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "663bdd765bad",
+    "id": "73d4e0e9c2b3",
     "title": "Argentine tango night at 3 whistles cafe",
     "date": "2026-08-20",
     "time": "7:00pm - 11:00pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "10bd94ee1263",
+    "id": "4b96c4486f17",
     "title": "Wine Tasting & Tapas",
     "date": "2026-08-20",
     "time": "7:00pm - 9:00pm",
@@ -494,6 +442,19 @@
     "category": "other"
   },
   {
+    "id": "71826ffb387a",
+    "title": "End-of-Summer Open House",
+    "date": "2026-08-27",
+    "time": "6:00pm - 7:00pm",
+    "location": "218 East Monroe AvenueAlexandria,Virginia22301",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/end-of-summer-open-house-27883/",
+    "category": "other"
+  },
+  {
     "id": "5dd1516be321",
     "title": "Better \u2013 Intentional Living Dinner Club",
     "date": "2026-08-27",
@@ -673,6 +634,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/overdose-awareness-vigil-26619/",
+    "category": "other"
+  },
+  {
+    "id": "087f40628250",
+    "title": "Resource Tabling",
+    "date": "2026-09-01",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/resource-tabling-27654/",
+    "category": "other"
+  },
+  {
+    "id": "f313eb60a24b",
+    "title": "Trivia & Treats",
+    "date": "2026-09-01",
+    "time": "8:00pm - 9:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/trivia-treats-27655/",
+    "category": "other"
+  },
+  {
+    "id": "6c79eb7eb90f",
+    "title": "Storytime",
+    "date": "2026-09-02",
+    "time": "10:30am - 11:15am",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/storytime-27659/",
     "category": "other"
   }
 ]
