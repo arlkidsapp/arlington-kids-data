@@ -1,84 +1,6 @@
 [
   {
-    "id": "5537f4881ca6",
-    "title": "Squeals on Wheels Petting Zoo",
-    "date": "2026-08-20",
-    "time": "11:00am - 12:00pm",
-    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/squeals-on-wheels-petting-zoo-27750/",
-    "category": "other"
-  },
-  {
-    "id": "6257498e9a84",
-    "title": "Sensory Friendly Night",
-    "date": "2026-08-20",
-    "time": "6:00pm - 8:00pm",
-    "location": "925 13th St. NW (Entrance on K Street)Washington,District of Columbia20005",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sensory-friendly-night-26976/",
-    "category": "other"
-  },
-  {
-    "id": "1cdd7bbc2688",
-    "title": "Cortland Community Pop Up at Courthaus Social",
-    "date": "2026-08-20",
-    "time": "6:00pm - 9:00pm",
-    "location": "2300 Clarendon BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/cortland-community-pop-up-at-courthaus-social-27506/",
-    "category": "other"
-  },
-  {
-    "id": "6f649dad3aa3",
-    "title": "Real Estate 101 (Online)",
-    "date": "2026-08-20",
-    "time": "6:30pm - 7:30pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/real-estate-101-online-27517/",
-    "category": "other"
-  },
-  {
-    "id": "73d4e0e9c2b3",
-    "title": "Argentine tango night at 3 whistles cafe",
-    "date": "2026-08-20",
-    "time": "7:00pm - 11:00pm",
-    "location": "2719 Wilson blvdarlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/argentine-tango-night-at-3-whistles-cafe-27484/",
-    "category": "other"
-  },
-  {
-    "id": "4b96c4486f17",
-    "title": "Wine Tasting & Tapas",
-    "date": "2026-08-20",
-    "time": "7:00pm - 9:00pm",
-    "location": "1345 N Courthouse RoadArlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/wine-tasting-tapas-27642/",
-    "category": "other"
-  },
-  {
-    "id": "f47f7a4be3ca",
+    "id": "94ccc8450afd",
     "title": "Summer Leadership Breakfast Series",
     "date": "2026-08-21",
     "time": "8:00am - 9:30am",
@@ -91,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "62fd002b1dcf",
+    "id": "480796ce68bc",
     "title": "Styling Series: Sip & Shop at Current Boutique Clarendon",
     "date": "2026-08-21",
     "time": "6:00pm - 8:00pm",
@@ -104,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "cf2b6fa29706",
+    "id": "e195432aec01",
     "title": "Blair Socci Live Comedy @Arlington Drafthouse!",
     "date": "2026-08-21",
     "time": "7:00pm - 8:30pm",
@@ -117,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "b49971f85690",
+    "id": "e6e2a5060ce4",
     "title": "Sunset Cinemas",
     "date": "2026-08-21",
     "time": "7:45pm - 9:30pm",
@@ -130,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "ce9a632c1868",
+    "id": "7a698d340f3b",
     "title": "Glow Zumba",
     "date": "2026-08-21",
     "time": "8:00pm - 9:00pm",
@@ -143,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "72e07303bb7b",
+    "id": "6dd2448aad17",
     "title": "Live Comedy Starring Matt Ruby (Comedy Central, MTV)",
     "date": "2026-08-21",
     "time": "8:00pm - 10:00pm",
@@ -192,6 +114,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/yoga-en-espaol-4th-saturdays-27003/",
+    "category": "other"
+  },
+  {
+    "id": "d6cb7893637d",
+    "title": "Basic Self-Defense Class with EvolveAll at Columbia Pike",
+    "date": "2026-08-22",
+    "time": "10:30am - 12:00pm",
+    "location": "816 South Walter Reed DriveArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/basic-self-defense-class-with-evolveall-at-columbia-pike-27895/",
     "category": "other"
   },
   {
@@ -455,6 +390,19 @@
     "category": "other"
   },
   {
+    "id": "2abd7d8ffcad",
+    "title": "Open Mic Night",
+    "date": "2026-08-27",
+    "time": "6:30pm - 7:30pm",
+    "location": "816 South Walter Reed DriveArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/open-mic-night-27897/",
+    "category": "other"
+  },
+  {
     "id": "5dd1516be321",
     "title": "Better \u2013 Intentional Living Dinner Club",
     "date": "2026-08-27",
@@ -478,6 +426,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/2026-around-the-world-cultural-food-festival-oronoco-bay-park-24645/",
+    "category": "other"
+  },
+  {
+    "id": "828f4ec07710",
+    "title": "Barre & Body Image with barre3 Arlington",
+    "date": "2026-08-29",
+    "time": "12:00pm - 1:00pm",
+    "location": "818 North Quincy Street, Ste. AArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/barre-body-image-with-barre3-arlington-27916/",
     "category": "other"
   },
   {
@@ -624,6 +585,19 @@
     "category": "other"
   },
   {
+    "id": "0ab4eee59a55",
+    "title": "Rest & Renew: A Community Sound Bath Experience",
+    "date": "2026-08-31",
+    "time": "6:30pm - 7:30pm",
+    "location": "816 South Walter Reed DriveArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rest-renew-a-community-sound-bath-experience-27898/",
+    "category": "other"
+  },
+  {
     "id": "c1a2ed4e3986",
     "title": "Overdose Awareness Vigil",
     "date": "2026-08-31",
@@ -673,6 +647,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/storytime-27659/",
+    "category": "other"
+  },
+  {
+    "id": "a214e66d0685",
+    "title": "Mason Square Makers",
+    "date": "2026-09-02",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/mason-square-makers-27661/",
+    "category": "other"
+  },
+  {
+    "id": "4d65f5538bdb",
+    "title": "Wordplay Wednesday: Back-to-School Edition",
+    "date": "2026-09-02",
+    "time": "5:00pm - 8:00pm",
+    "location": "925 13th St. NW (Entrance on K Street)Washington,District of Columbia20005",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/wordplay-wednesday-back-to-school-edition-27781/",
     "category": "other"
   }
 ]
