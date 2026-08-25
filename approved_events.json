@@ -1,6 +1,6 @@
 [
   {
-    "id": "976075d19700",
+    "id": "8740e1f30802",
     "title": "Movie Magic! How Cinematic Illusion Is Used to Tell Stories (free)",
     "date": "2026-08-25",
     "time": "6:00pm - 7:30pm",
@@ -13,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "98456f973107",
+    "id": "6c424e4061d1",
     "title": "Ideas in Action: William James and Pragmatism",
     "date": "2026-08-25",
     "time": "6:30pm - 7:30pm",
@@ -26,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "bb8ad803d144",
+    "id": "004c99d2b394",
     "title": "Radically Reframing Climate Change with Author Will Hackman",
     "date": "2026-08-25",
     "time": "6:30pm - 7:30am",
@@ -169,6 +169,19 @@
     "category": "other"
   },
   {
+    "id": "e42a62722d95",
+    "title": "Erica Rhodes Live Comedy! @Arlington Drafthouse",
+    "date": "2026-08-28",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/erica-rhodes-live-comedy-arlington-drafthouse-27976/",
+    "category": "other"
+  },
+  {
     "id": "c16cc237e379",
     "title": "2026 Around The World Cultural Food Festival (Oronoco Bay Park)",
     "date": "2026-08-29",
@@ -244,6 +257,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/comedy-show-and-book-talk-for-surviving-the-woodchipper-27533/",
+    "category": "other"
+  },
+  {
+    "id": "91c073610522",
+    "title": "Erica Rhodes Live Comedy! @Arlington Drafthouse",
+    "date": "2026-08-29",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PIkeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/erica-rhodes-live-comedy-arlington-drafthouse-27977/",
     "category": "other"
   },
   {
@@ -598,6 +624,19 @@
     "category": "other"
   },
   {
+    "id": "93764c72ae77",
+    "title": "Chimney Swift Evening Birdwatching",
+    "date": "2026-09-04",
+    "time": "7:00pm - 7:45pm",
+    "location": "2909 16th St SArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/chimney-swift-evening-birdwatching-27974/",
+    "category": "other"
+  },
+  {
     "id": "d554d582113d",
     "title": "Dragvaganza!",
     "date": "2026-09-04",
@@ -634,45 +673,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/the-sky-tonight-live-planetarium-show-27409/",
-    "category": "other"
-  },
-  {
-    "id": "350da18cc20a",
-    "title": "First Baby? Connect with other New Moms!",
-    "date": "2026-09-05",
-    "time": "11:00am - 12:00pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/first-baby-connect-with-other-new-moms-27583/",
-    "category": "other"
-  },
-  {
-    "id": "03b0364cb9a8",
-    "title": "Saturday Shuffle",
-    "date": "2026-09-05",
-    "time": "6:00pm - 10:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/saturday-shuffle-27668/",
-    "category": "other"
-  },
-  {
-    "id": "5ecc5ffacd73",
-    "title": "Gentle Yoga in the Galleries: Monday Nights",
-    "date": "2026-09-07",
-    "time": "6:30pm - 7:30pm",
-    "location": "3550 Wilson BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/gentle-yoga-in-the-galleries-monday-nights-27030/",
     "category": "other"
   }
 ]
