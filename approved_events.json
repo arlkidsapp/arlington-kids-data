@@ -1,71 +1,6 @@
 [
   {
-    "id": "d71f2a9d82ee",
-    "title": "Free Memory Screening",
-    "date": "2026-08-26",
-    "time": "8:00am - 5:00pm",
-    "location": "1635 N George Mason Drice Suite 455Arlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-memory-screening-27527/",
-    "category": "other"
-  },
-  {
-    "id": "a6e78bb70439",
-    "title": "Next Level Networking for Arlington Business Leaders",
-    "date": "2026-08-26",
-    "time": "3:30pm - 5:00pm",
-    "location": "5849 Washington Boulevard #BArlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/next-level-networking-for-arlington-business-leaders-27716/",
-    "category": "other"
-  },
-  {
-    "id": "691146b7455b",
-    "title": "Kizomba Dance Lessons at Courthouse",
-    "date": "2026-08-26",
-    "time": "6:30pm - 7:30pm",
-    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/kizomba-dance-lessons-at-courthouse-27701/",
-    "category": "other"
-  },
-  {
-    "id": "72c0c4795f98",
-    "title": "Pitch \u2013 A \u2013 Friend at Astro Beer Hall",
-    "date": "2026-08-26",
-    "time": "7:00pm - 2:00am",
-    "location": "4001 Campbell AveArlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pitch-a-friend-at-astro-beer-hall-27516/",
-    "category": "other"
-  },
-  {
-    "id": "ec2bb7af177b",
-    "title": "NAMI Family-to- Family Class-REGISTER TODAY!",
-    "date": "2026-08-26",
-    "time": "7:00pm - 9:30pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/nami-family-to-family-class-register-today-27982/",
-    "category": "other"
-  },
-  {
-    "id": "fad5c194dfe9",
+    "id": "67dc499708dd",
     "title": "Barbour Sample Sale",
     "date": "2026-08-27",
     "time": "11:00am - 7:00pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "e88a7551e095",
+    "id": "49571881b037",
     "title": "Mobility, Stretching, and Flexibility Fitness",
     "date": "2026-08-27",
     "time": "12:00pm - 1:00pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "71826ffb387a",
+    "id": "dea4d6ec5e29",
     "title": "End-of-Summer Open House",
     "date": "2026-08-27",
     "time": "6:00pm - 7:00pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "2abd7d8ffcad",
+    "id": "bf17d4df252a",
     "title": "Open Mic Night",
     "date": "2026-08-27",
     "time": "6:30pm - 7:30pm",
@@ -117,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "5dd1516be321",
+    "id": "40a54230b165",
     "title": "Better \u2013 Intentional Living Dinner Club",
     "date": "2026-08-27",
     "time": "7:00pm - 10:00pm",
@@ -673,6 +608,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/the-sky-tonight-live-planetarium-show-27409/",
+    "category": "other"
+  },
+  {
+    "id": "350da18cc20a",
+    "title": "First Baby? Connect with other New Moms!",
+    "date": "2026-09-05",
+    "time": "11:00am - 12:00pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/first-baby-connect-with-other-new-moms-27583/",
+    "category": "other"
+  },
+  {
+    "id": "03b0364cb9a8",
+    "title": "Saturday Shuffle",
+    "date": "2026-09-05",
+    "time": "6:00pm - 10:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/saturday-shuffle-27668/",
+    "category": "other"
+  },
+  {
+    "id": "3fcd5ebb6b0d",
+    "title": "The Arlington Players Presents Bonnie & Clyde",
+    "date": "2026-09-05",
+    "time": "7:30pm - 10:00pm",
+    "location": "125 S Old Glebe RdArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-arlington-players-presents-bonnie-clyde-27972/",
     "category": "other"
   }
 ]
