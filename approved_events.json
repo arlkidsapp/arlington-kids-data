@@ -1,71 +1,6 @@
 [
   {
-    "id": "67dc499708dd",
-    "title": "Barbour Sample Sale",
-    "date": "2026-08-27",
-    "time": "11:00am - 7:00pm",
-    "location": "1630 14th St NWDC,Virginia20009",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/barbour-sample-sale-27731/",
-    "category": "other"
-  },
-  {
-    "id": "49571881b037",
-    "title": "Mobility, Stretching, and Flexibility Fitness",
-    "date": "2026-08-27",
-    "time": "12:00pm - 1:00pm",
-    "location": "1015 N Quincy StArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/mobility-stretching-and-flexibility-fitness-27337/",
-    "category": "other"
-  },
-  {
-    "id": "dea4d6ec5e29",
-    "title": "End-of-Summer Open House",
-    "date": "2026-08-27",
-    "time": "6:00pm - 7:00pm",
-    "location": "218 East Monroe AvenueAlexandria,Virginia22301",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/end-of-summer-open-house-27883/",
-    "category": "other"
-  },
-  {
-    "id": "bf17d4df252a",
-    "title": "Open Mic Night",
-    "date": "2026-08-27",
-    "time": "6:30pm - 7:30pm",
-    "location": "816 South Walter Reed DriveArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/open-mic-night-27897/",
-    "category": "other"
-  },
-  {
-    "id": "40a54230b165",
-    "title": "Better \u2013 Intentional Living Dinner Club",
-    "date": "2026-08-27",
-    "time": "7:00pm - 10:00pm",
-    "location": "TBAArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/better-intentional-living-dinner-club-27439/",
-    "category": "other"
-  },
-  {
-    "id": "b3b1a0d5aa26",
+    "id": "b61458d5bec9",
     "title": "Improv Happy Hour!",
     "date": "2026-08-28",
     "time": "6:00pm - 6:00pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "e42a62722d95",
+    "id": "fa2df6622fc6",
     "title": "Erica Rhodes Live Comedy! @Arlington Drafthouse",
     "date": "2026-08-28",
     "time": "7:00pm - 8:30pm",
@@ -647,6 +582,71 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/the-arlington-players-presents-bonnie-clyde-27972/",
+    "category": "other"
+  },
+  {
+    "id": "047b3946309b",
+    "title": "CAN I KICK IT? featuring SCARFACE",
+    "date": "2026-09-05",
+    "time": "7:30pm - 9:30pm",
+    "location": "2 Lincoln Memorial Cir NWWashington,District Of Columbia20002",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/can-i-kick-it-featuring-scarface-28095/",
+    "category": "other"
+  },
+  {
+    "id": "5ecc5ffacd73",
+    "title": "Gentle Yoga in the Galleries: Monday Nights",
+    "date": "2026-09-07",
+    "time": "6:30pm - 7:30pm",
+    "location": "3550 Wilson BoulevardArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/gentle-yoga-in-the-galleries-monday-nights-27030/",
+    "category": "other"
+  },
+  {
+    "id": "f4059e450369",
+    "title": "Old Friends, Vintage Glam + Figure Drawing",
+    "date": "2026-09-09",
+    "time": "6:00pm - 8:00pm",
+    "location": "3550 Wilson Blvd.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/old-friends-vintage-glam-figure-drawing-27703/",
+    "category": "other"
+  },
+  {
+    "id": "96b209527b38",
+    "title": "Story Time: The Sun is My Favorite Star",
+    "date": "2026-09-10",
+    "time": "11:00am - 11:30am",
+    "location": "650 Jefferson Drive SWWashington,District of Columbia20560",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/story-time-the-sun-is-my-favorite-star-26953/",
+    "category": "other"
+  },
+  {
+    "id": "45db05e502d1",
+    "title": "The ARTS Place Pop-Up on Langston",
+    "date": "2026-09-10",
+    "time": "5:00pm - 7:00pm",
+    "location": "3130 Langston Blvd.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-arts-place-pop-up-on-langston-27723/",
     "category": "other"
   }
 ]
