@@ -1,32 +1,6 @@
 [
   {
-    "id": "b61458d5bec9",
-    "title": "Improv Happy Hour!",
-    "date": "2026-08-28",
-    "time": "6:00pm - 6:00pm",
-    "location": "2116 19th St NArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/improv-happy-hour-27951/",
-    "category": "other"
-  },
-  {
-    "id": "fa2df6622fc6",
-    "title": "Erica Rhodes Live Comedy! @Arlington Drafthouse",
-    "date": "2026-08-28",
-    "time": "7:00pm - 8:30pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/erica-rhodes-live-comedy-arlington-drafthouse-27976/",
-    "category": "other"
-  },
-  {
-    "id": "c16cc237e379",
+    "id": "c82a0a6923b7",
     "title": "2026 Around The World Cultural Food Festival (Oronoco Bay Park)",
     "date": "2026-08-29",
     "time": "11:00am - 7:00pm",
@@ -39,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "828f4ec07710",
+    "id": "a4ee9d080adc",
     "title": "Barre & Body Image with barre3 Arlington",
     "date": "2026-08-29",
     "time": "12:00pm - 1:00pm",
@@ -52,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "d2173b030892",
+    "id": "220466c4a1f7",
     "title": "Artist Talk: Material Matters",
     "date": "2026-08-29",
     "time": "2:00pm - 3:00pm",
@@ -65,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "bf4f3268159b",
+    "id": "44ee34bb6571",
     "title": "A History of America in 11 Pies with author Rossi Anastopoulo",
     "date": "2026-08-29",
     "time": "2:00pm - 3:30pm",
@@ -78,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "926502f68373",
+    "id": "001d82846dbb",
     "title": "Back 2 School Boro Bash",
     "date": "2026-08-29",
     "time": "7:00pm - 9:30pm",
@@ -91,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "288dcbe4e3b6",
+    "id": "99a9a51ef957",
     "title": "Comedy Show and Book Talk for Surviving the Woodchipper",
     "date": "2026-08-29",
     "time": "7:00pm - 9:00pm",
@@ -104,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "91c073610522",
+    "id": "fa2df6622fc6",
     "title": "Erica Rhodes Live Comedy! @Arlington Drafthouse",
     "date": "2026-08-29",
     "time": "7:00pm - 8:30pm",
@@ -611,6 +585,19 @@
     "category": "other"
   },
   {
+    "id": "4be87e6058f2",
+    "title": "TriFit: Free Barre with The Washington Ballet",
+    "date": "2026-09-08",
+    "time": "5:30pm - 6:30pm",
+    "location": "912 17th Street NWWashington DC,District Of Columbia20006",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/trifit-free-barre-with-the-washington-ballet-28135/",
+    "category": "other"
+  },
+  {
     "id": "f4059e450369",
     "title": "Old Friends, Vintage Glam + Figure Drawing",
     "date": "2026-09-09",
@@ -647,6 +634,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/the-arts-place-pop-up-on-langston-27723/",
+    "category": "other"
+  },
+  {
+    "id": "731dc40369d5",
+    "title": "Sound Bath: New Moon in Virgo",
+    "date": "2026-09-10",
+    "time": "6:30pm - 8:00pm",
+    "location": "1050 N Stuart St.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sound-bath-new-moon-in-virgo-26503/",
     "category": "other"
   }
 ]
