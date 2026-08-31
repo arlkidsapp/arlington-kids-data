@@ -1,84 +1,6 @@
 [
   {
-    "id": "9aadcf094c71",
-    "title": "MoCA on the Move: Summer Fun Family Series | CLAY FLORAL and INSECT ORNAMENTS",
-    "date": "2026-08-30",
-    "time": "10:00am - 1:00pm",
-    "location": "1300 S Elm StArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/moca-on-the-move-summer-fun-family-series-clay-floral-and-insect-ornaments-26288/",
-    "category": "other"
-  },
-  {
-    "id": "282894c104ae",
-    "title": "The Reading Lounge with Pretty Little Bookshelf & Natasha Bishop (Washington)",
-    "date": "2026-08-30",
-    "time": "1:00pm - 3:00pm",
-    "location": "925 13th St. NWWashington,District of Columbia20005",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-reading-lounge-with-pretty-little-bookshelf-natasha-bishop-washington-27344/",
-    "category": "other"
-  },
-  {
-    "id": "54c9aea32714",
-    "title": "Documentary Screening of The Tallest Dwarf",
-    "date": "2026-08-30",
-    "time": "1:00pm - 2:30pm",
-    "location": "918 S Lincoln St Suite 1Arlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/documentary-screening-of-the-tallest-dwarf-27466/",
-    "category": "other"
-  },
-  {
-    "id": "3986e89c4b58",
-    "title": "15 Minute History: Director\u2019s Cut with Daniel Gessel \u2013 Remembering 9/11",
-    "date": "2026-08-30",
-    "time": "2:00pm - 3:00pm",
-    "location": "1805 South Arlington Ridge RdArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/15-minute-history-directors-cut-with-daniel-gessel-remembering-911-27392/",
-    "category": "other"
-  },
-  {
-    "id": "431529e72193",
-    "title": "LIVE at the Lyceum: Piano Quintets of Brahms & Beach (Alexandria History Museum)",
-    "date": "2026-08-30",
-    "time": "3:00pm - 4:00pm",
-    "location": "201 S Washington StAlexandria,Virginia22314",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/live-at-the-lyceum-piano-quintets-of-brahms-beach-alexandria-history-museum-27234/",
-    "category": "other"
-  },
-  {
-    "id": "c30557ed60ec",
-    "title": "Profs & Pints Northern Virginia: The Long Fight Over Voting Rights",
-    "date": "2026-08-30",
-    "time": "6:00pm - 8:30pm",
-    "location": "2010 Crystal DriveArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-the-long-fight-over-voting-rights-27449/",
-    "category": "other"
-  },
-  {
-    "id": "4eb6ea7017af",
+    "id": "2f9b313b8c19",
     "title": "Book Club : The hunger games",
     "date": "2026-08-31",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "3dd656fd734e",
+    "id": "23f0dafb74f6",
     "title": "K-Pop with WJ Dance Studio",
     "date": "2026-08-31",
     "time": "6:00pm - 7:00pm",
@@ -104,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "0ab4eee59a55",
+    "id": "6ac5ae5aa7b4",
     "title": "Rest & Renew: A Community Sound Bath Experience",
     "date": "2026-08-31",
     "time": "6:30pm - 7:30pm",
@@ -117,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "c1a2ed4e3986",
+    "id": "7ee171dd11ed",
     "title": "Overdose Awareness Vigil",
     "date": "2026-08-31",
     "time": "7:00pm - 8:00pm",
@@ -218,6 +140,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-27662/",
+    "category": "other"
+  },
+  {
+    "id": "64a4ac7cacfe",
+    "title": "American Mahjong 101",
+    "date": "2026-09-02",
+    "time": "6:00pm - 9:00pm",
+    "location": "4245 Fairfax DriveArlington,Virginia22124",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/american-mahjong-101-28142/",
     "category": "other"
   },
   {
@@ -481,6 +416,19 @@
     "category": "other"
   },
   {
+    "id": "3b55dd1bbc32",
+    "title": "Bonnie and Clyde",
+    "date": "2026-09-05",
+    "time": "7:30pm - 10:00pm",
+    "location": "125 S Old Glebe RdArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/bonnie-and-clyde-28173/",
+    "category": "other"
+  },
+  {
     "id": "5ecc5ffacd73",
     "title": "Gentle Yoga in the Galleries: Monday Nights",
     "date": "2026-09-07",
@@ -516,7 +464,7 @@
     "description": "No description available",
     "ageRange": "all ages",
     "cost": "Free",
-    "url": "https://www.arlnow.com/events/old-friends-vintage-glam-figure-drawing-27703/",
+    "url": "https://www.arlnow.com/events/old-friends-vintage-glam-figure-drawing-28157/",
     "category": "other"
   },
   {
@@ -647,6 +595,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/national-day-of-service-and-remembrance-27624/",
+    "category": "other"
+  },
+  {
+    "id": "bf30c7a6161b",
+    "title": "Rosh Hashanah at Kol Ami",
+    "date": "2026-09-12",
+    "time": "10:00am - 12:30pm",
+    "location": "4444 Arlington Blvd.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rosh-hashanah-at-kol-ami-27850/",
+    "category": "other"
+  },
+  {
+    "id": "5ddbbcf21e15",
+    "title": "Basic Self-Defense Class with EvolveAll at Columbia Pike",
+    "date": "2026-09-12",
+    "time": "10:30am - 12:00pm",
+    "location": "816 South Walter Reed DriveArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/basic-self-defense-class-with-evolveall-at-columbia-pike-27896/",
+    "category": "other"
+  },
+  {
+    "id": "cdf467c273ac",
+    "title": "Yoga in the Galleries: Saturday Mornings",
+    "date": "2026-09-12",
+    "time": "11:00am - 12:00pm",
+    "location": "3550 Wilson BoulevardArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/yoga-in-the-galleries-saturday-mornings-27062/",
+    "category": "other"
+  },
+  {
+    "id": "93c841e37679",
+    "title": "Rosslyn Jazz Fest",
+    "date": "2026-09-12",
+    "time": "1:00pm - 7:00pm",
+    "location": "1300 Langston Blvd.Arlington,Virginia22209",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rosslyn-jazz-fest-27154/",
     "category": "other"
   }
 ]
