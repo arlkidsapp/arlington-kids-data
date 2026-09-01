@@ -1,58 +1,6 @@
 [
   {
-    "id": "2f9b313b8c19",
-    "title": "Book Club : The hunger games",
-    "date": "2026-08-31",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/book-club-the-hunger-games-27651/",
-    "category": "other"
-  },
-  {
-    "id": "23f0dafb74f6",
-    "title": "K-Pop with WJ Dance Studio",
-    "date": "2026-08-31",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/k-pop-with-wj-dance-studio-27652/",
-    "category": "other"
-  },
-  {
-    "id": "6ac5ae5aa7b4",
-    "title": "Rest & Renew: A Community Sound Bath Experience",
-    "date": "2026-08-31",
-    "time": "6:30pm - 7:30pm",
-    "location": "816 South Walter Reed DriveArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rest-renew-a-community-sound-bath-experience-27898/",
-    "category": "other"
-  },
-  {
-    "id": "7ee171dd11ed",
-    "title": "Overdose Awareness Vigil",
-    "date": "2026-08-31",
-    "time": "7:00pm - 8:00pm",
-    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/overdose-awareness-vigil-26619/",
-    "category": "other"
-  },
-  {
-    "id": "087f40628250",
+    "id": "573062263770",
     "title": "Resource Tabling",
     "date": "2026-09-01",
     "time": "3:00pm - 4:30pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "c97aa715f602",
+    "id": "40e67298f5dd",
     "title": "Double Launch Party for PRECIOUS CHILDREN & TESTAMENT OF LEAVES",
     "date": "2026-09-01",
     "time": "7:00pm - 8:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "f313eb60a24b",
+    "id": "78e05abf0594",
     "title": "Trivia & Treats",
     "date": "2026-09-01",
     "time": "8:00pm - 9:00pm",
@@ -647,6 +595,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/rosslyn-jazz-fest-27154/",
+    "category": "other"
+  },
+  {
+    "id": "6d65ccf710ce",
+    "title": "Magnolia Quintet: Let\u2019s Dance!",
+    "date": "2026-09-12",
+    "time": "2:00pm - 3:00pm",
+    "location": "1015 N Quincy StArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/magnolia-quintet-lets-dance-27306/",
+    "category": "other"
+  },
+  {
+    "id": "9fd2c10713b0",
+    "title": "(De)monstro: A Participatory Ritual by CRASIS",
+    "date": "2026-09-12",
+    "time": "6:00pm - 7:00pm",
+    "location": "3550 Wilson BoulevardArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/demonstro-a-participatory-ritual-by-crasis-27201/",
+    "category": "other"
+  },
+  {
+    "id": "66df865395da",
+    "title": "Ingenue You When (How About Now?)",
+    "date": "2026-09-12",
+    "time": "7:30pm - 9:00pm",
+    "location": "127 East Broad StreetFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/ingenue-you-when-how-about-now-27786/",
+    "category": "other"
+  },
+  {
+    "id": "22b9fead28db",
+    "title": "The Comedy Karaoke Trivia Funtime Show with Christine O\u2019Dea",
+    "date": "2026-09-12",
+    "time": "7:30pm - 9:30pm",
+    "location": "2010 Crystal DriveArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-comedy-karaoke-trivia-funtime-show-with-christine-odea-27906/",
     "category": "other"
   }
 ]
