@@ -1,45 +1,6 @@
 [
   {
-    "id": "573062263770",
-    "title": "Resource Tabling",
-    "date": "2026-09-01",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/resource-tabling-27654/",
-    "category": "other"
-  },
-  {
-    "id": "40e67298f5dd",
-    "title": "Double Launch Party for PRECIOUS CHILDREN & TESTAMENT OF LEAVES",
-    "date": "2026-09-01",
-    "time": "7:00pm - 8:00pm",
-    "location": "2200 N Westmoreland StArlington,Virginia22213",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/double-launch-party-for-precious-children-testament-of-leaves-28010/",
-    "category": "other"
-  },
-  {
-    "id": "78e05abf0594",
-    "title": "Trivia & Treats",
-    "date": "2026-09-01",
-    "time": "8:00pm - 9:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/trivia-treats-27655/",
-    "category": "other"
-  },
-  {
-    "id": "6c79eb7eb90f",
+    "id": "f136c6371812",
     "title": "Storytime",
     "date": "2026-09-02",
     "time": "10:30am - 11:15am",
@@ -52,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "a214e66d0685",
+    "id": "9329cac2064f",
     "title": "Mason Square Makers",
     "date": "2026-09-02",
     "time": "3:00pm - 4:30pm",
@@ -65,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "4d65f5538bdb",
+    "id": "f8fb47c3e773",
     "title": "Wordplay Wednesday: Back-to-School Edition",
     "date": "2026-09-02",
     "time": "5:00pm - 8:00pm",
@@ -78,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "5e053c0cc6ec",
+    "id": "7e32bd6b6794",
     "title": "Outdoor Yoga with Mind the Mat",
     "date": "2026-09-02",
     "time": "6:00pm - 7:00pm",
@@ -91,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "64a4ac7cacfe",
+    "id": "c38d9a602186",
     "title": "American Mahjong 101",
     "date": "2026-09-02",
     "time": "6:00pm - 9:00pm",
@@ -104,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "44f2c75e5490",
+    "id": "36be323332c0",
     "title": "Wellness Wednesday: Intuitive Art-Making",
     "date": "2026-09-02",
     "time": "6:30pm - 7:30pm",
@@ -117,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "2a1dc80ca8fc",
+    "id": "66b1c7041986",
     "title": "Urban Kiz Dance Lessons at Courthouse",
     "date": "2026-09-02",
     "time": "6:30pm - 7:30pm",
@@ -130,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "77eed5db65bb",
+    "id": "624ee257da01",
     "title": "Free Virtual Home Buyer Seminar",
     "date": "2026-09-02",
     "time": "7:00pm - 8:00pm",
@@ -143,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "0401e02247a7",
+    "id": "26dd6108b6c6",
     "title": "Arlington Democrats September Meeting and Volunteer Fair",
     "date": "2026-09-02",
     "time": "7:00pm - 9:00pm",
@@ -153,6 +114,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/arlington-democrats-september-meeting-and-volunteer-fair-27937/",
+    "category": "other"
+  },
+  {
+    "id": "f80f72ab3f4b",
+    "title": "REGISTER TODAY for NAMI Family-to- Family Class",
+    "date": "2026-09-02",
+    "time": "7:00pm - 9:30pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/register-today-for-nami-family-to-family-class-28224/",
     "category": "other"
   },
   {
@@ -390,6 +364,19 @@
     "category": "other"
   },
   {
+    "id": "0f248419b456",
+    "title": "Resource Tabling",
+    "date": "2026-09-08",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/resource-tabling-28216/",
+    "category": "other"
+  },
+  {
     "id": "4be87e6058f2",
     "title": "TriFit: Free Barre with The Washington Ballet",
     "date": "2026-09-08",
@@ -400,6 +387,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/trifit-free-barre-with-the-washington-ballet-28135/",
+    "category": "other"
+  },
+  {
+    "id": "056030cfdeb3",
+    "title": "Trivia & Treats",
+    "date": "2026-09-08",
+    "time": "8:00pm - 9:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/trivia-treats-28212/",
+    "category": "other"
+  },
+  {
+    "id": "e4ae5a9617fa",
+    "title": "Storytime",
+    "date": "2026-09-09",
+    "time": "10:30am - 11:15am",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/storytime-28214/",
+    "category": "other"
+  },
+  {
+    "id": "83047dbb279a",
+    "title": "Farragut Fun Days in the Park",
+    "date": "2026-09-09",
+    "time": "12:30pm - 2:00pm",
+    "location": "912 17th Street NWWashington DC,District Of Columbia20006",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/farragut-fun-days-in-the-park-28200/",
+    "category": "other"
+  },
+  {
+    "id": "3626b652e11a",
+    "title": "Mason Square Makers",
+    "date": "2026-09-09",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/mason-square-makers-28215/",
     "category": "other"
   },
   {
@@ -416,6 +455,19 @@
     "category": "other"
   },
   {
+    "id": "3803155f3e7f",
+    "title": "Outdoor Yoga with Mind the Mat",
+    "date": "2026-09-09",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-28217/",
+    "category": "other"
+  },
+  {
     "id": "96b209527b38",
     "title": "Story Time: The Sun is My Favorite Star",
     "date": "2026-09-10",
@@ -429,6 +481,19 @@
     "category": "other"
   },
   {
+    "id": "3b9d8e69f106",
+    "title": "Try it Thursday",
+    "date": "2026-09-10",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/try-it-thursday-28218/",
+    "category": "other"
+  },
+  {
     "id": "45db05e502d1",
     "title": "The ARTS Place Pop-Up on Langston",
     "date": "2026-09-10",
@@ -439,6 +504,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/the-arts-place-pop-up-on-langston-27723/",
+    "category": "other"
+  },
+  {
+    "id": "bfb8686b2518",
+    "title": "Pilates with Mind the Mat",
+    "date": "2026-09-10",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/pilates-with-mind-the-mat-28219/",
     "category": "other"
   },
   {
@@ -507,6 +585,32 @@
     "category": "other"
   },
   {
+    "id": "d5bde46e22d1",
+    "title": "Lawn Games Social",
+    "date": "2026-09-11",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/lawn-games-social-28220/",
+    "category": "other"
+  },
+  {
+    "id": "6355d62ed734",
+    "title": "Zumba Power Hour",
+    "date": "2026-09-11",
+    "time": "5:30pm - 6:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/zumba-power-hour-28221/",
+    "category": "other"
+  },
+  {
     "id": "8ddbf743e4f5",
     "title": "Art Night \u2013 Try the Pottery Wheel, BYOB at Art House 7",
     "date": "2026-09-11",
@@ -543,110 +647,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/national-day-of-service-and-remembrance-27624/",
-    "category": "other"
-  },
-  {
-    "id": "bf30c7a6161b",
-    "title": "Rosh Hashanah at Kol Ami",
-    "date": "2026-09-12",
-    "time": "10:00am - 12:30pm",
-    "location": "4444 Arlington Blvd.Arlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rosh-hashanah-at-kol-ami-27850/",
-    "category": "other"
-  },
-  {
-    "id": "5ddbbcf21e15",
-    "title": "Basic Self-Defense Class with EvolveAll at Columbia Pike",
-    "date": "2026-09-12",
-    "time": "10:30am - 12:00pm",
-    "location": "816 South Walter Reed DriveArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/basic-self-defense-class-with-evolveall-at-columbia-pike-27896/",
-    "category": "other"
-  },
-  {
-    "id": "cdf467c273ac",
-    "title": "Yoga in the Galleries: Saturday Mornings",
-    "date": "2026-09-12",
-    "time": "11:00am - 12:00pm",
-    "location": "3550 Wilson BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/yoga-in-the-galleries-saturday-mornings-27062/",
-    "category": "other"
-  },
-  {
-    "id": "93c841e37679",
-    "title": "Rosslyn Jazz Fest",
-    "date": "2026-09-12",
-    "time": "1:00pm - 7:00pm",
-    "location": "1300 Langston Blvd.Arlington,Virginia22209",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rosslyn-jazz-fest-27154/",
-    "category": "other"
-  },
-  {
-    "id": "6d65ccf710ce",
-    "title": "Magnolia Quintet: Let\u2019s Dance!",
-    "date": "2026-09-12",
-    "time": "2:00pm - 3:00pm",
-    "location": "1015 N Quincy StArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/magnolia-quintet-lets-dance-27306/",
-    "category": "other"
-  },
-  {
-    "id": "9fd2c10713b0",
-    "title": "(De)monstro: A Participatory Ritual by CRASIS",
-    "date": "2026-09-12",
-    "time": "6:00pm - 7:00pm",
-    "location": "3550 Wilson BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/demonstro-a-participatory-ritual-by-crasis-27201/",
-    "category": "other"
-  },
-  {
-    "id": "66df865395da",
-    "title": "Ingenue You When (How About Now?)",
-    "date": "2026-09-12",
-    "time": "7:30pm - 9:00pm",
-    "location": "127 East Broad StreetFalls Church,Virginia22046",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/ingenue-you-when-how-about-now-27786/",
-    "category": "other"
-  },
-  {
-    "id": "22b9fead28db",
-    "title": "The Comedy Karaoke Trivia Funtime Show with Christine O\u2019Dea",
-    "date": "2026-09-12",
-    "time": "7:30pm - 9:30pm",
-    "location": "2010 Crystal DriveArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-comedy-karaoke-trivia-funtime-show-with-christine-odea-27906/",
     "category": "other"
   }
 ]
