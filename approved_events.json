@@ -1,58 +1,6 @@
 [
   {
-    "id": "12973ce02e38",
-    "title": "Lawn Games Social",
-    "date": "2026-09-04",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/lawn-games-social-27665/",
-    "category": "other"
-  },
-  {
-    "id": "e07e95de5b96",
-    "title": "Zumba power hour",
-    "date": "2026-09-04",
-    "time": "5:30pm - 6:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/zumba-power-hour-27666/",
-    "category": "other"
-  },
-  {
-    "id": "9699a01a9e30",
-    "title": "Chimney Swift Evening Birdwatching",
-    "date": "2026-09-04",
-    "time": "7:00pm - 7:45pm",
-    "location": "2909 16th St SArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/chimney-swift-evening-birdwatching-27974/",
-    "category": "other"
-  },
-  {
-    "id": "e58cd0b52166",
-    "title": "Dragvaganza!",
-    "date": "2026-09-04",
-    "time": "8:00pm - 10:00pm",
-    "location": "2001 Olney-Sandy Spring RoadOlney,Maryland20832",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/dragvaganza-27467/",
-    "category": "other"
-  },
-  {
-    "id": "afdff0d42a17",
+    "id": "4fde0275126a",
     "title": "Yoga in the Galleries: Saturday Mornings",
     "date": "2026-09-05",
     "time": "9:30am - 10:30am",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "10bc647125af",
+    "id": "8ff2d5e1f4e3",
     "title": "The Sky Tonight: Live Planetarium Show",
     "date": "2026-09-05",
     "time": "10:30am - 11:00am",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "350da18cc20a",
+    "id": "f2d76cec1d9d",
     "title": "First Baby? Connect with other New Moms!",
     "date": "2026-09-05",
     "time": "11:00am - 12:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "03b0364cb9a8",
+    "id": "60e9bc94bb34",
     "title": "Saturday Shuffle",
     "date": "2026-09-05",
     "time": "6:00pm - 10:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "3fcd5ebb6b0d",
+    "id": "159977051470",
     "title": "The Arlington Players Presents Bonnie & Clyde",
     "date": "2026-09-05",
     "time": "7:30pm - 10:00pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "047b3946309b",
+    "id": "a499d986e28b",
     "title": "CAN I KICK IT? featuring SCARFACE",
     "date": "2026-09-05",
     "time": "7:30pm - 9:30pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "3b55dd1bbc32",
+    "id": "7be5f27efaee",
     "title": "Bonnie and Clyde",
     "date": "2026-09-05",
     "time": "7:30pm - 10:00pm",
@@ -208,16 +156,16 @@
     "category": "other"
   },
   {
-    "id": "83047dbb279a",
-    "title": "Farragut Fun Days in the Park",
+    "id": "53c030e5b230",
+    "title": "9/11 Day of Service and Remembrance at Mason Square",
     "date": "2026-09-09",
-    "time": "12:30pm - 2:00pm",
-    "location": "912 17th Street NWWashington DC,District Of Columbia20006",
+    "time": "10:30am - 4:30pm",
+    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
     "address": null,
     "description": "No description available",
     "ageRange": "all ages",
     "cost": "Free",
-    "url": "https://www.arlnow.com/events/farragut-fun-days-in-the-park-28200/",
+    "url": "https://www.arlnow.com/events/911-day-of-service-and-remembrance-at-mason-square-28345/",
     "category": "other"
   },
   {
@@ -481,6 +429,19 @@
     "category": "other"
   },
   {
+    "id": "c88430accbfa",
+    "title": "Museum Exhibit: First on the Scene: Arlington Responds to September 11",
+    "date": "2026-09-12",
+    "time": "10:00am - 4:00pm",
+    "location": "1805 S. Arlington Ridge RdArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/museum-exhibit-first-on-the-scene-arlington-responds-to-september-11-28348/",
+    "category": "other"
+  },
+  {
     "id": "5ddbbcf21e15",
     "title": "Basic Self-Defense Class with EvolveAll at Columbia Pike",
     "date": "2026-09-12",
@@ -647,6 +608,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/llt-5k-runwalk-fundraiser-28165/",
+    "category": "other"
+  },
+  {
+    "id": "6d431fb01b41",
+    "title": "Fall Family Days! Abstract Painting with Zhenya Parish",
+    "date": "2026-09-13",
+    "time": "10:00am - 1:00pm",
+    "location": "1300 S Fern StArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fall-family-days-abstract-painting-with-zhenya-parish-27726/",
+    "category": "other"
+  },
+  {
+    "id": "85c9ebc25047",
+    "title": "An Arlington Clothing Swap: MoCA Arlington x Rossana Coffee",
+    "date": "2026-09-13",
+    "time": "12:00pm - 4:00pm",
+    "location": "3550 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/an-arlington-clothing-swap-moca-arlington-x-rossana-coffee-27571/",
+    "category": "other"
+  },
+  {
+    "id": "ba49caff34e7",
+    "title": "Profs & Pints Northern Virginia: The Stories in Our Bones",
+    "date": "2026-09-13",
+    "time": "6:00pm - 8:30pm",
+    "location": "2010 Crystal DriveArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-the-stories-in-our-bones-27800/",
     "category": "other"
   }
 ]
