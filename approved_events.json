@@ -1,6 +1,6 @@
 [
   {
-    "id": "5ecc5ffacd73",
+    "id": "68e54eb408e4",
     "title": "Gentle Yoga in the Galleries: Monday Nights",
     "date": "2026-09-07",
     "time": "6:30pm - 7:30pm",
@@ -377,6 +377,19 @@
     "category": "other"
   },
   {
+    "id": "4788a87c5c68",
+    "title": "First Baby? Find Your New Mom Tribe!",
+    "date": "2026-09-12",
+    "time": "11:00am - 12:00pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/first-baby-find-your-new-mom-tribe-28360/",
+    "category": "other"
+  },
+  {
     "id": "93c841e37679",
     "title": "Rosslyn Jazz Fest",
     "date": "2026-09-12",
@@ -634,19 +647,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/free-classes-at-evolveall-28191/",
-    "category": "other"
-  },
-  {
-    "id": "c7c2367673ec",
-    "title": "Auditions & Crew Interviews: Madeline\u2019s Christmas",
-    "date": "2026-09-15",
-    "time": "5:30pm - 8:30pm",
-    "location": "3701 Lorcom LnArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/auditions-crew-interviews-madelines-christmas-26433/",
     "category": "other"
   }
 ]
