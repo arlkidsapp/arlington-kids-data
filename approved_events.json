@@ -1,58 +1,6 @@
 [
   {
-    "id": "12973ce02e38",
-    "title": "Lawn Games Social",
-    "date": "2026-09-11",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/lawn-games-social-28220/",
-    "category": "other"
-  },
-  {
-    "id": "cc5964cda7a7",
-    "title": "Ice cream social at TriVistaUSA Design + Build",
-    "date": "2026-09-11",
-    "time": "4:30pm - 5:30pm",
-    "location": "3113 10th Street NArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/ice-cream-social-at-trivistausa-design-build-28388/",
-    "category": "other"
-  },
-  {
-    "id": "8aaee8a44777",
-    "title": "Zumba Power Hour",
-    "date": "2026-09-11",
-    "time": "5:30pm - 6:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/zumba-power-hour-28221/",
-    "category": "other"
-  },
-  {
-    "id": "2f0e73ebced2",
-    "title": "Art Night \u2013 Try the Pottery Wheel, BYOB at Art House 7",
-    "date": "2026-09-11",
-    "time": "7:00pm - 9:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/art-night-try-the-pottery-wheel-byob-at-art-house-7-27996/",
-    "category": "other"
-  },
-  {
-    "id": "786e7891afeb",
+    "id": "826c8113726b",
     "title": "Encore Stage & Studio\u2019s Annual Fall Theatre Open House",
     "date": "2026-09-12",
     "time": "10:00am - 11:30am",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "1d5d235da3e5",
+    "id": "8369aae8ec91",
     "title": "National Day of Service and Remembrance",
     "date": "2026-09-12",
     "time": "10:00am - 1:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "bf30c7a6161b",
+    "id": "f6db8e3668c8",
     "title": "Rosh Hashanah at Kol Ami",
     "date": "2026-09-12",
     "time": "10:00am - 12:30pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "1a21669aca66",
+    "id": "41b17ec78474",
     "title": "Read & Run on the Road: 100 Things to Do in Arlington Before You Die",
     "date": "2026-09-12",
     "time": "10:00am - 12:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "c88430accbfa",
+    "id": "d518c12daab9",
     "title": "Museum Exhibit: First on the Scene: Arlington Responds to September 11",
     "date": "2026-09-12",
     "time": "10:00am - 4:00pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "5ddbbcf21e15",
+    "id": "e93d10fdc1df",
     "title": "Basic Self-Defense Class with EvolveAll at Columbia Pike",
     "date": "2026-09-12",
     "time": "10:30am - 12:00pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "cdf467c273ac",
+    "id": "4fde0275126a",
     "title": "Yoga in the Galleries: Saturday Mornings",
     "date": "2026-09-12",
     "time": "11:00am - 12:00pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "4788a87c5c68",
+    "id": "8b53d691d9c8",
     "title": "First Baby? Find Your New Mom Tribe!",
     "date": "2026-09-12",
     "time": "11:00am - 12:00pm",
@@ -156,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "93c841e37679",
+    "id": "c177dd67f98e",
     "title": "Rosslyn Jazz Fest",
     "date": "2026-09-12",
     "time": "1:00pm - 7:00pm",
@@ -169,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "d2003c170325",
+    "id": "98ec896c26f4",
     "title": "Ball-Sellers House Open for FREE Tours",
     "date": "2026-09-12",
     "time": "1:00pm - 4:00pm",
@@ -182,7 +130,7 @@
     "category": "other"
   },
   {
-    "id": "6d65ccf710ce",
+    "id": "562889f7b691",
     "title": "Magnolia Quintet: Let\u2019s Dance!",
     "date": "2026-09-12",
     "time": "2:00pm - 3:00pm",
@@ -195,7 +143,20 @@
     "category": "other"
   },
   {
-    "id": "312d92cabba2",
+    "id": "3c07f445fa16",
+    "title": "Fiber Arts Series @ the Innovation Studio \u2014 Drop-in Knitting",
+    "date": "2026-09-12",
+    "time": "2:30pm - 4:00pm",
+    "location": "525 14th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fiber-arts-series-the-innovation-studio-drop-in-knitting-28504/",
+    "category": "other"
+  },
+  {
+    "id": "c0d46d447be3",
     "title": "Holding On & Letting Go: A Book Talk and Signing with Patrick J. Yuran",
     "date": "2026-09-12",
     "time": "5:00pm - 7:00pm",
@@ -208,7 +169,7 @@
     "category": "other"
   },
   {
-    "id": "9fd2c10713b0",
+    "id": "89d09ac21b91",
     "title": "(De)monstro: A Participatory Ritual by CRASIS",
     "date": "2026-09-12",
     "time": "6:00pm - 7:00pm",
@@ -221,7 +182,7 @@
     "category": "other"
   },
   {
-    "id": "bea6f2021b9b",
+    "id": "60e9bc94bb34",
     "title": "Saturday Shuffle",
     "date": "2026-09-12",
     "time": "6:30pm - 10:00pm",
@@ -234,7 +195,7 @@
     "category": "other"
   },
   {
-    "id": "da5c34c6bf08",
+    "id": "a3da8b59fd44",
     "title": "Wicked Movie Night @Arlington Drafthouse",
     "date": "2026-09-12",
     "time": "7:00pm - 9:40pm",
@@ -247,7 +208,7 @@
     "category": "other"
   },
   {
-    "id": "66df865395da",
+    "id": "985196967e47",
     "title": "Ingenue You When (How About Now?)",
     "date": "2026-09-12",
     "time": "7:30pm - 9:00pm",
@@ -260,7 +221,7 @@
     "category": "other"
   },
   {
-    "id": "22b9fead28db",
+    "id": "1a871b3088bc",
     "title": "The Comedy Karaoke Trivia Funtime Show with Christine O\u2019Dea",
     "date": "2026-09-12",
     "time": "7:30pm - 9:30pm",
@@ -273,7 +234,7 @@
     "category": "other"
   },
   {
-    "id": "a437da51bbcf",
+    "id": "6d03a7123305",
     "title": "Presentation \u2013 The Marvels of the Cosmos \u2013 Seen Through NASA\u2019s Eyes",
     "date": "2026-09-12",
     "time": "7:30pm - 8:30pm",
@@ -286,7 +247,7 @@
     "category": "other"
   },
   {
-    "id": "4d57857acebb",
+    "id": "0571e311f4c2",
     "title": "Ship Wrek At Clarendon Ballroom",
     "date": "2026-09-12",
     "time": "9:00pm - 2:00am",
@@ -390,6 +351,19 @@
     "category": "other"
   },
   {
+    "id": "160e2e01b660",
+    "title": "Book Club: The Hunger Games",
+    "date": "2026-09-14",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/book-club-the-hunger-games-28507/",
+    "category": "other"
+  },
+  {
     "id": "aed7ad703885",
     "title": "Free Classes at EvolveAll",
     "date": "2026-09-14",
@@ -426,6 +400,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/brain-health-webinar-staying-sharp-as-you-age-28341/",
+    "category": "other"
+  },
+  {
+    "id": "ad1e633f436d",
+    "title": "K-Pop Dance with WJ Dance Studio",
+    "date": "2026-09-14",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/k-pop-dance-with-wj-dance-studio-28508/",
     "category": "other"
   },
   {
@@ -520,6 +507,19 @@
     "category": "other"
   },
   {
+    "id": "e3e219d102b2",
+    "title": "Trivia & Treats",
+    "date": "2026-09-15",
+    "time": "8:00pm - 9:00pm",
+    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/trivia-treats-28510/",
+    "category": "other"
+  },
+  {
     "id": "158a2e8fcc9b",
     "title": "Cultural Fest: Hispanic Heritage Month",
     "date": "2026-09-16",
@@ -533,6 +533,19 @@
     "category": "other"
   },
   {
+    "id": "987dde31c74d",
+    "title": "Mason Square Makers: DIY Lantern Jars",
+    "date": "2026-09-16",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/mason-square-makers-diy-lantern-jars-28512/",
+    "category": "other"
+  },
+  {
     "id": "965b2f431f2b",
     "title": "Free Classes at EvolveAll",
     "date": "2026-09-16",
@@ -543,6 +556,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/free-classes-at-evolveall-28192/",
+    "category": "other"
+  },
+  {
+    "id": "bd155dd77951",
+    "title": "Outdoor Yoga with Mind the Mat",
+    "date": "2026-09-16",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-28513/",
     "category": "other"
   },
   {
@@ -585,6 +611,19 @@
     "category": "other"
   },
   {
+    "id": "10b905c91f45",
+    "title": "Try It Thursday:  Dungeons & Dragons Character Creation",
+    "date": "2026-09-17",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/try-it-thursday-dungeons-dragons-character-creation-28514/",
+    "category": "other"
+  },
+  {
     "id": "1e667df34d69",
     "title": "Metamorphosis",
     "date": "2026-09-17",
@@ -608,45 +647,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/studio-sessions-colores-y-cultura-27878/",
-    "category": "other"
-  },
-  {
-    "id": "f0a364cabf9d",
-    "title": "Until Help Arrives Training",
-    "date": "2026-09-17",
-    "time": "6:30pm - 8:30pm",
-    "location": "909 S Dinwiddie StArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/until-help-arrives-training-28399/",
-    "category": "other"
-  },
-  {
-    "id": "e00ebd0dc11c",
-    "title": "Art Night: Cross Stitch an Ornament, BYOB at Art House 7",
-    "date": "2026-09-17",
-    "time": "7:00pm - 9:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/art-night-cross-stitch-an-ornament-byob-at-art-house-7-26442/",
-    "category": "other"
-  },
-  {
-    "id": "269158ed992c",
-    "title": "Rep. Jared Huffman in conversation with Rep. Don Beyer on NO PROPHETS",
-    "date": "2026-09-17",
-    "time": "7:00pm - 8:00pm",
-    "location": "2200 N Westmoreland StArlington,Virginia22213",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rep-jared-huffman-in-conversation-with-rep-don-beyer-on-no-prophets-28019/",
     "category": "other"
   }
 ]
