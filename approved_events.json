@@ -1,84 +1,6 @@
 [
   {
-    "id": "7910efce3b5e",
-    "title": "Reach for the Stars 5K Run/Walk",
-    "date": "2026-09-13",
-    "time": "8:00am - 12:00pm",
-    "location": "329 N Manchester StreetArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/reach-for-the-stars-5k-runwalk-27756/",
-    "category": "other"
-  },
-  {
-    "id": "de100e124525",
-    "title": "LLT 5K Run/Walk Fundraiser",
-    "date": "2026-09-13",
-    "time": "8:00am - 11:00am",
-    "location": "329 N Manchester St.arlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/llt-5k-runwalk-fundraiser-28165/",
-    "category": "other"
-  },
-  {
-    "id": "6e27bfd5e109",
-    "title": "Fall Family Days! Abstract Painting with Zhenya Parish",
-    "date": "2026-09-13",
-    "time": "10:00am - 1:00pm",
-    "location": "1300 S Fern StArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/fall-family-days-abstract-painting-with-zhenya-parish-27726/",
-    "category": "other"
-  },
-  {
-    "id": "bf7ca323d677",
-    "title": "An Arlington Clothing Swap: MoCA Arlington x Rossana Coffee",
-    "date": "2026-09-13",
-    "time": "12:00pm - 4:00pm",
-    "location": "3550 Wilson BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/an-arlington-clothing-swap-moca-arlington-x-rossana-coffee-27571/",
-    "category": "other"
-  },
-  {
-    "id": "d518c12daab9",
-    "title": "Museum Exhibit: First on the Scene: Arlington Responds to September 11",
-    "date": "2026-09-13",
-    "time": "1:00pm - 4:00pm",
-    "location": "1805 S. Arlington Ridge RdArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/museum-exhibit-first-on-the-scene-arlington-responds-to-september-11-28377/",
-    "category": "other"
-  },
-  {
-    "id": "fd275edf993c",
-    "title": "Profs & Pints Northern Virginia: The Stories in Our Bones",
-    "date": "2026-09-13",
-    "time": "6:00pm - 8:30pm",
-    "location": "2010 Crystal DriveArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-the-stories-in-our-bones-27800/",
-    "category": "other"
-  },
-  {
-    "id": "386921b21dbc",
+    "id": "04dfe2f324ae",
     "title": "19th Annual ANCC Golf Classic",
     "date": "2026-09-14",
     "time": "12:00pm - 8:00pm",
@@ -91,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "160e2e01b660",
+    "id": "e321fd14ae21",
     "title": "Book Club: The Hunger Games",
     "date": "2026-09-14",
     "time": "3:00pm - 4:30pm",
@@ -104,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "aed7ad703885",
+    "id": "3749633bdcdb",
     "title": "Free Classes at EvolveAll",
     "date": "2026-09-14",
     "time": "4:30pm - 8:00pm",
@@ -117,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "a59347c89011",
+    "id": "967c653d78fb",
     "title": "Adult Story Time and BYO Crafts at Monday Mingle",
     "date": "2026-09-14",
     "time": "6:00pm - 8:00pm",
@@ -130,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "6e3f298dc5f1",
+    "id": "b07d11f2fd9f",
     "title": "Brain Health Webinar: Staying Sharp As You Age",
     "date": "2026-09-14",
     "time": "6:00pm - 7:00pm",
@@ -143,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "ad1e633f436d",
+    "id": "c0c6c658aa89",
     "title": "K-Pop Dance with WJ Dance Studio",
     "date": "2026-09-14",
     "time": "6:00pm - 7:00pm",
@@ -156,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "0e0de91d9ee3",
+    "id": "d20bad115a7f",
     "title": "Get to Know Community Theater",
     "date": "2026-09-14",
     "time": "6:30pm - 7:30pm",
@@ -169,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "7ca310b93c95",
+    "id": "9fecc4363f46",
     "title": "NAMI Family-to-Family Class",
     "date": "2026-09-14",
     "time": "7:00pm - 9:30pm",
@@ -182,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "bda9e515c106",
+    "id": "ee69cfa27e6e",
     "title": "Hook Family Movie Night! @Arlington Drafthouse!",
     "date": "2026-09-14",
     "time": "7:00pm - 8:20pm",
@@ -647,6 +569,84 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/reason-to-rock-music-festival-27919/",
+    "category": "other"
+  },
+  {
+    "id": "8a3ee8a81232",
+    "title": "Sound Bath in the Tiffany Gallery",
+    "date": "2026-09-19",
+    "time": "2:00pm - 3:00pm",
+    "location": "3550 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sound-bath-in-the-tiffany-gallery-26799/",
+    "category": "other"
+  },
+  {
+    "id": "6699732688f3",
+    "title": "Let\u2019s Talk Books!",
+    "date": "2026-09-19",
+    "time": "2:30pm - 3:30pm",
+    "location": "300 South Kensington StArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/lets-talk-books-27899/",
+    "category": "other"
+  },
+  {
+    "id": "fd2140053f9b",
+    "title": "IPT Sunset Polo\u2122 White Lotus 250th Anniversary Invitational World Cup",
+    "date": "2026-09-19",
+    "time": "4:00pm - 9:00pm",
+    "location": "41580 Sunday Morning LaneLeesburg,Virginia20176",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/ipt-sunset-polo-white-lotus-250th-anniversary-invitational-world-cup-27148/",
+    "category": "other"
+  },
+  {
+    "id": "59ed39666b3e",
+    "title": "Memorializing the Enslaved in Arlington: Stumbling Stone Dedication in Woodmont",
+    "date": "2026-09-19",
+    "time": "4:00pm - 5:00pm",
+    "location": "2411 24th St., NorthArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/memorializing-the-enslaved-in-arlington-stumbling-stone-dedication-in-woodmont-28308/",
+    "category": "other"
+  },
+  {
+    "id": "19075208c560",
+    "title": "Drew Lynch Live Comedy! @Arlington Drafthouse!",
+    "date": "2026-09-19",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/drew-lynch-live-comedy-arlington-drafthouse-28540/",
+    "category": "other"
+  },
+  {
+    "id": "e0cb42bb63ad",
+    "title": "Cinema on the Plaza: The Hunger Games",
+    "date": "2026-09-19",
+    "time": "8:30pm - 10:30pm",
+    "location": "3351 Fairfax Drive Arlington VA 22201Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/cinema-on-the-plaza-the-hunger-games-28342/",
     "category": "other"
   }
 ]
