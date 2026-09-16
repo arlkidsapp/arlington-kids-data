@@ -1,71 +1,6 @@
 [
   {
-    "id": "3749633bdcdb",
-    "title": "Free Classes at EvolveAll",
-    "date": "2026-09-15",
-    "time": "12:00pm - 8:00pm",
-    "location": "1058 S. Walter Reed DriveArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-classes-at-evolveall-28191/",
-    "category": "other"
-  },
-  {
-    "id": "c3b0a1e427de",
-    "title": "Auditions & Crew Interviews: Madeline\u2019s Christmas",
-    "date": "2026-09-15",
-    "time": "5:30pm - 8:30pm",
-    "location": "3701 Lorcom LnArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/auditions-crew-interviews-madelines-christmas-26433/",
-    "category": "other"
-  },
-  {
-    "id": "ccd471d27543",
-    "title": "Auditions & Crew Interviews for Encore Stage & Studio\u2019s Madeline\u2019s Christmas",
-    "date": "2026-09-15",
-    "time": "5:30pm - 8:30pm",
-    "location": "3701 Lorcom LaneArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/auditions-crew-interviews-for-encore-stage-studios-madelines-christmas-28038/",
-    "category": "other"
-  },
-  {
-    "id": "dcab9f5164c2",
-    "title": "FREE Home Buying Workshop: Discover Arlington + The Davenport Group",
-    "date": "2026-09-15",
-    "time": "6:30pm - 7:30pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-home-buying-workshop-discover-arlington-the-davenport-group-27880/",
-    "category": "other"
-  },
-  {
-    "id": "78e05abf0594",
-    "title": "Trivia & Treats",
-    "date": "2026-09-15",
-    "time": "8:00pm - 9:00pm",
-    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/trivia-treats-28510/",
-    "category": "other"
-  },
-  {
-    "id": "158a2e8fcc9b",
+    "id": "bcef6d142af1",
     "title": "Cultural Fest: Hispanic Heritage Month",
     "date": "2026-09-16",
     "time": "3:00pm - 4:00pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "987dde31c74d",
+    "id": "d36f6b3cd2e0",
     "title": "Mason Square Makers: DIY Lantern Jars",
     "date": "2026-09-16",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "965b2f431f2b",
+    "id": "3749633bdcdb",
     "title": "Free Classes at EvolveAll",
     "date": "2026-09-16",
     "time": "4:30pm - 8:45pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "bd155dd77951",
+    "id": "7e32bd6b6794",
     "title": "Outdoor Yoga with Mind the Mat",
     "date": "2026-09-16",
     "time": "6:00pm - 7:00pm",
@@ -117,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "e65cf46edc2b",
+    "id": "91ed29162f25",
     "title": "[Ages 35+] Here & Now: A Phone-Free Experience",
     "date": "2026-09-16",
     "time": "6:30pm - 9:00pm",
@@ -130,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "9bf66d04e3cf",
+    "id": "a7f7ed7e5ef1",
     "title": "American Mahjong Supper Club",
     "date": "2026-09-16",
     "time": "7:00pm - 9:00pm",
@@ -244,6 +179,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/rep-jared-huffman-in-conversation-with-rep-don-beyer-on-no-prophets-28019/",
+    "category": "other"
+  },
+  {
+    "id": "f2100667bf6b",
+    "title": "Arlington Democrats First Day of Early Voting Block Party",
+    "date": "2026-09-18",
+    "time": "8:30am - 10:00am",
+    "location": "2100 Clarendon BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/arlington-democrats-first-day-of-early-voting-block-party-28662/",
+    "category": "other"
+  },
+  {
+    "id": "be0abc654fce",
+    "title": "THE VOTE STARTS NOW: Immigration, Due Process & the Ballot, Friday Power Lunch",
+    "date": "2026-09-18",
+    "time": "12:00pm - 1:00pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-vote-starts-now-immigration-due-process-the-ballot-friday-power-lunch-28657/",
     "category": "other"
   },
   {
@@ -364,6 +325,19 @@
     "category": "other"
   },
   {
+    "id": "6dc356b56c9e",
+    "title": "FREE barre3 Pop Up Class @ Overlee",
+    "date": "2026-09-19",
+    "time": "9:00am - 9:45am",
+    "location": "6030 Lee HwyArlington ,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/free-barre3-pop-up-class-overlee-28655/",
+    "category": "other"
+  },
+  {
     "id": "f109a6f768ec",
     "title": "50th Annual Falls Church Festival \u2013 City of Falls Church",
     "date": "2026-09-19",
@@ -426,6 +400,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/camp-casey-historical-marker-dedication-28307/",
+    "category": "other"
+  },
+  {
+    "id": "bc8b35af78ce",
+    "title": "Green Valley Day",
+    "date": "2026-09-19",
+    "time": "12:00pm - 5:00pm",
+    "location": "3500 23rd St. SouthArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/green-valley-day-28600/",
     "category": "other"
   },
   {
@@ -647,6 +634,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/damien-lemon-live-comedy-show-arlington-drafthouse-28541/",
+    "category": "other"
+  },
+  {
+    "id": "79a950f04d66",
+    "title": "Yom Kippur at Kol Ami",
+    "date": "2026-09-21",
+    "time": "10:00am - 12:30pm",
+    "location": "4444 Arlington Blvd.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/yom-kippur-at-kol-ami-27851/",
     "category": "other"
   }
 ]
