@@ -1,110 +1,6 @@
 [
   {
-    "id": "c82d48768bf5",
-    "title": "Arts and Coffee: Conversation and Art History \u2013 Frida Kahlo at Art House 7",
-    "date": "2026-09-17",
-    "time": "11:00am - 12:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/arts-and-coffee-conversation-and-art-history-frida-kahlo-at-art-house-7-26441/",
-    "category": "other"
-  },
-  {
-    "id": "00950ade64e2",
-    "title": "Try It Thursday:  Dungeons & Dragons Character Creation",
-    "date": "2026-09-17",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/try-it-thursday-dungeons-dragons-character-creation-28514/",
-    "category": "other"
-  },
-  {
-    "id": "46b952d32383",
-    "title": "Metamorphosis",
-    "date": "2026-09-17",
-    "time": "5:00pm - 7:00pm",
-    "location": "2700 Clarendon Blvd.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/metamorphosis-27465/",
-    "category": "other"
-  },
-  {
-    "id": "b2c942af4c8d",
-    "title": "Studio Sessions: Colores y Cultura",
-    "date": "2026-09-17",
-    "time": "5:00pm - 7:00pm",
-    "location": "1429 S Fern St.Arlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/studio-sessions-colores-y-cultura-27878/",
-    "category": "other"
-  },
-  {
-    "id": "56378e76f708",
-    "title": "Pilates with Mind the Mat",
-    "date": "2026-09-17",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pilates-with-mind-the-mat-28515/",
-    "category": "other"
-  },
-  {
-    "id": "8abc3f94b558",
-    "title": "Until Help Arrives Training",
-    "date": "2026-09-17",
-    "time": "6:30pm - 8:30pm",
-    "location": "909 S Dinwiddie StArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/until-help-arrives-training-28399/",
-    "category": "other"
-  },
-  {
-    "id": "0b9262767298",
-    "title": "Art Night: Cross Stitch an Ornament, BYOB at Art House 7",
-    "date": "2026-09-17",
-    "time": "7:00pm - 9:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/art-night-cross-stitch-an-ornament-byob-at-art-house-7-26442/",
-    "category": "other"
-  },
-  {
-    "id": "832d9ed406dd",
-    "title": "Rep. Jared Huffman in conversation with Rep. Don Beyer on NO PROPHETS",
-    "date": "2026-09-17",
-    "time": "7:00pm - 8:00pm",
-    "location": "2200 N Westmoreland StArlington,Virginia22213",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rep-jared-huffman-in-conversation-with-rep-don-beyer-on-no-prophets-28019/",
-    "category": "other"
-  },
-  {
-    "id": "f2100667bf6b",
+    "id": "570641e0ebee",
     "title": "Arlington Democrats First Day of Early Voting Block Party",
     "date": "2026-09-18",
     "time": "8:30am - 10:00am",
@@ -117,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "be0abc654fce",
+    "id": "6f49ea35e550",
     "title": "THE VOTE STARTS NOW: Immigration, Due Process & the Ballot, Friday Power Lunch",
     "date": "2026-09-18",
     "time": "12:00pm - 1:00pm",
@@ -130,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "c23ad5f88ef9",
+    "id": "12973ce02e38",
     "title": "Lawn Games Social",
     "date": "2026-09-18",
     "time": "3:00pm - 4:30pm",
@@ -143,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "217b82bd5f04",
+    "id": "8aaee8a44777",
     "title": "Zumba Power Hour",
     "date": "2026-09-18",
     "time": "5:30pm - 6:03pm",
@@ -156,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "6b990d18f5ef",
+    "id": "e310f42d733a",
     "title": "Honoring Your Passions",
     "date": "2026-09-18",
     "time": "7:00pm - 8:00pm",
@@ -169,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "35238d81970d",
+    "id": "b799123cafa3",
     "title": "Drew Lynch Live Comedy! @Arlington Drafthouse!",
     "date": "2026-09-18",
     "time": "7:00pm - 8:30pm",
@@ -182,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "96da9c3ca8d6",
+    "id": "985196967e47",
     "title": "Ingenue You When (How About Now?)",
     "date": "2026-09-18",
     "time": "7:30pm - 9:00pm",
@@ -195,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "f514b347d799",
+    "id": "bd3a976321a9",
     "title": "Live Comedy with Carmen Lagala (The Late Show with Colbert)",
     "date": "2026-09-18",
     "time": "8:00pm - 10:00pm",
@@ -208,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "83cc7d6b37cb",
+    "id": "10513b44275a",
     "title": "Sickick At Clarendon Ballroom",
     "date": "2026-09-18",
     "time": "9:00pm - 2:00am",
@@ -647,6 +543,110 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/resource-tabling-28636/",
+    "category": "other"
+  },
+  {
+    "id": "32261262be31",
+    "title": "Voter Safety Community Town Hall",
+    "date": "2026-09-22",
+    "time": "6:00pm - 7:30pm",
+    "location": "4444 Arlington BoulevardArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/voter-safety-community-town-hall-28064/",
+    "category": "other"
+  },
+  {
+    "id": "a2d901d2e48d",
+    "title": "Trivia & Treats",
+    "date": "2026-09-22",
+    "time": "8:00pm - 9:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/trivia-treats-28637/",
+    "category": "other"
+  },
+  {
+    "id": "c303d3fa9c6c",
+    "title": "Storytime",
+    "date": "2026-09-23",
+    "time": "10:30am - 11:15am",
+    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/storytime-28511/",
+    "category": "other"
+  },
+  {
+    "id": "e90f3c4111b5",
+    "title": "Mason Square Makers",
+    "date": "2026-09-23",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/mason-square-makers-28643/",
+    "category": "other"
+  },
+  {
+    "id": "2ba51d2061f9",
+    "title": "Mistakes Were Made: Arlington Business Leaders Networking Event by NIA NOVA Arl",
+    "date": "2026-09-23",
+    "time": "3:30pm - 5:00pm",
+    "location": "5849 Washington BoulevardArlington,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/mistakes-were-made-arlington-business-leaders-networking-event-by-nia-nova-arl-28248/",
+    "category": "other"
+  },
+  {
+    "id": "3ac179a2e0d7",
+    "title": "Outdoor Yoga W/Mind the mat",
+    "date": "2026-09-23",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/outdoor-yoga-wmind-the-mat-28647/",
+    "category": "other"
+  },
+  {
+    "id": "417d95f43823",
+    "title": "Try it Thursday!",
+    "date": "2026-09-24",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/try-it-thursday-28648/",
+    "category": "other"
+  },
+  {
+    "id": "1b0cbe522fa6",
+    "title": "B.Y.O.B Mutt Mixer",
+    "date": "2026-09-24",
+    "time": "6:00pm - 7:30pm",
+    "location": "2650 S Arlington Mill DriveArlington,Virginia22206",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/byob-mutt-mixer-28099/",
     "category": "other"
   }
 ]
