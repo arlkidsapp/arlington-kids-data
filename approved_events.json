@@ -1,71 +1,6 @@
 [
   {
-    "id": "f136c6371812",
-    "title": "Storytime",
-    "date": "2026-09-30",
-    "time": "10:30am - 11:15am",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/storytime-28931/",
-    "category": "other"
-  },
-  {
-    "id": "475ac05793d3",
-    "title": "The Pike Lunch Club: Celebrating Hispanic Heritage Month",
-    "date": "2026-09-30",
-    "time": "12:00pm - 1:30pm",
-    "location": "4805 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-pike-lunch-club-columbia-pike-documentary-project-27415/",
-    "category": "other"
-  },
-  {
-    "id": "9329cac2064f",
-    "title": "Mason Square Makers",
-    "date": "2026-09-30",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/mason-square-makers-28932/",
-    "category": "other"
-  },
-  {
-    "id": "7e32bd6b6794",
-    "title": "Outdoor Yoga with Mind the Mat",
-    "date": "2026-09-30",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-28933/",
-    "category": "other"
-  },
-  {
-    "id": "84ac472e02a8",
-    "title": "The Promise, Pitfalls, and Practice of AI in Education",
-    "date": "2026-09-30",
-    "time": "6:30pm - 7:30pm",
-    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-promise-pitfalls-and-practice-of-ai-in-education-28970/",
-    "category": "other"
-  },
-  {
-    "id": "9a8d48b7542c",
+    "id": "4b206f4a7346",
     "title": "Story Time: Space Spinners (Washington, DC)",
     "date": "2026-10-01",
     "time": "11:00am - 11:30am",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "e288ef3031ce",
+    "id": "e0d498051ac8",
     "title": "Try it Thursday!",
     "date": "2026-10-01",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "a3e857de8ac7",
+    "id": "f44e32e92969",
     "title": "The Pike Happy Hour: Hispanic Heritage Month Loter\u00eda Night",
     "date": "2026-10-01",
     "time": "5:00pm - 7:00pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "8f67f3b6dede",
+    "id": "56378e76f708",
     "title": "Pilates with Mind the Mat",
     "date": "2026-10-01",
     "time": "6:00pm - 7:00pm",
@@ -117,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "20fbf4035234",
+    "id": "08f4993c0874",
     "title": "Gentle Yoga",
     "date": "2026-10-01",
     "time": "6:30pm - 7:30pm",
@@ -166,6 +101,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/zumba-power-hour-29032/",
+    "category": "other"
+  },
+  {
+    "id": "5f5f78adeab8",
+    "title": "April Macie! Live Comedy @Arlington Drafthouse!",
+    "date": "2026-10-02",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/april-macie-live-comedy-arlington-drafthouse-29127/",
+    "category": "other"
+  },
+  {
+    "id": "5f569a1724c5",
+    "title": "Scripts in Play: Every Single Ophelia (Avant Bard)",
+    "date": "2026-10-02",
+    "time": "7:30pm - 9:30pm",
+    "location": "4238 Wilson BlvdArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/scripts-in-play-every-single-ophelia-avant-bard-29125/",
     "category": "other"
   },
   {
@@ -442,6 +403,32 @@
     "category": "other"
   },
   {
+    "id": "f0a752a63304",
+    "title": "The Haunt: Dark Encounters \u2013 Haunted Trail \u2013 Scariest Haunted Trail in Northern",
+    "date": "2026-10-03",
+    "time": "7:00pm - 10:00pm",
+    "location": "9518 Workhouse WayLorton,Virginia22079",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-haunt-dark-encounters-haunted-trail-scariest-haunted-trail-in-northern-29115/",
+    "category": "other"
+  },
+  {
+    "id": "8ef3d7b00ffa",
+    "title": "April Macie! Live Comedy @ Arlington Drafthouse!",
+    "date": "2026-10-03",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/april-macie-live-comedy-arlington-drafthouse-29128/",
+    "category": "other"
+  },
+  {
     "id": "450452a7788b",
     "title": "Christylez Bacon and Qi Yu: a musical cross-cultural collaboration",
     "date": "2026-10-03",
@@ -530,6 +517,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/jazzcentral-the-us-army-blues-jazz-organ-ensemble-28403/",
+    "category": "other"
+  },
+  {
+    "id": "9bbc59fad46d",
+    "title": "Dogs of Otavalo Presents: Drag Queen Bingo Fundraiser @Arlington Drafthouse",
+    "date": "2026-10-04",
+    "time": "3:00pm - 5:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/dogs-of-otavalo-presents-drag-queen-bingo-fundraiser-arlington-drafthouse-29126/",
     "category": "other"
   },
   {
