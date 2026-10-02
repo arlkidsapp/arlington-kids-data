@@ -1,71 +1,6 @@
 [
   {
-    "id": "4b206f4a7346",
-    "title": "Story Time: Space Spinners (Washington, DC)",
-    "date": "2026-10-01",
-    "time": "11:00am - 11:30am",
-    "location": "650 Jefferson Drive SWWashington,District of Columbia20560",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/story-time-space-spinners-washington-dc-27433/",
-    "category": "other"
-  },
-  {
-    "id": "e0d498051ac8",
-    "title": "Try it Thursday!",
-    "date": "2026-10-01",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/try-it-thursday-29028/",
-    "category": "other"
-  },
-  {
-    "id": "f44e32e92969",
-    "title": "The Pike Happy Hour: Hispanic Heritage Month Loter\u00eda Night",
-    "date": "2026-10-01",
-    "time": "5:00pm - 7:00pm",
-    "location": "3709 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-pike-happy-hour-hispanic-heritage-month-lotera-night-27418/",
-    "category": "other"
-  },
-  {
-    "id": "56378e76f708",
-    "title": "Pilates with Mind the Mat",
-    "date": "2026-10-01",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pilates-with-mind-the-mat-29029/",
-    "category": "other"
-  },
-  {
-    "id": "08f4993c0874",
-    "title": "Gentle Yoga",
-    "date": "2026-10-01",
-    "time": "6:30pm - 7:30pm",
-    "location": "816 South Walter Reed DriveArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/gentle-yoga-28794/",
-    "category": "other"
-  },
-  {
-    "id": "88747c14929d",
+    "id": "12973ce02e38",
     "title": "Lawn Games Social",
     "date": "2026-10-02",
     "time": "3:00pm - 4:30pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "1af90ef6778b",
+    "id": "a55b8cc010c3",
     "title": "Live Music \u2013 DC Starlight Jazz",
     "date": "2026-10-02",
     "time": "5:00pm - 6:00pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "1d06dfcdf011",
+    "id": "8aaee8a44777",
     "title": "Zumba Power Hour",
     "date": "2026-10-02",
     "time": "5:30pm - 6:30pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "5f5f78adeab8",
+    "id": "d660b9389e59",
     "title": "April Macie! Live Comedy @Arlington Drafthouse!",
     "date": "2026-10-02",
     "time": "7:00pm - 8:30pm",
@@ -117,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "5f569a1724c5",
+    "id": "6f26f9719360",
     "title": "Scripts in Play: Every Single Ophelia (Avant Bard)",
     "date": "2026-10-02",
     "time": "7:30pm - 9:30pm",
@@ -169,6 +104,19 @@
     "category": "other"
   },
   {
+    "id": "6115b7ec181b",
+    "title": "\u201cScenes in the City\u201d Plein Air Fest Set for October 3 in Falls Church",
+    "date": "2026-10-03",
+    "time": "9:00am - 12:00pm",
+    "location": "300 Park AvenueFalls,Virginia22040",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/scenes-in-the-city-plein-air-fest-set-for-october-3-in-falls-church-29154/",
+    "category": "other"
+  },
+  {
     "id": "2daff53ea1f5",
     "title": "Community Yard Sale at Barcroft | Gran Venta Comunitaria en Barcroft",
     "date": "2026-10-03",
@@ -182,8 +130,8 @@
     "category": "other"
   },
   {
-    "id": "6a250697bc7d",
-    "title": "Free Flu Vaccine Clinic at Barcroft",
+    "id": "6a0e8a64b985",
+    "title": "Free Flu & Covid Vaccine Clinic at Barcroft",
     "date": "2026-10-03",
     "time": "9:30am - 12:30pm",
     "location": "4211 12th Rd SArlington,Virginia22204",
@@ -559,6 +507,19 @@
     "category": "other"
   },
   {
+    "id": "12a523ba4eda",
+    "title": "An Evening with David Ignatius",
+    "date": "2026-10-06",
+    "time": "7:03am - 8:15pm",
+    "location": "3351 N Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/an-evening-with-david-ignatius-29166/",
+    "category": "other"
+  },
+  {
     "id": "b9ee3ca67fd0",
     "title": "Resource Tabling",
     "date": "2026-10-06",
@@ -634,6 +595,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/arts-and-coffee-cozy-fall-felting-pumpkins-at-art-house-7-27650/",
+    "category": "other"
+  },
+  {
+    "id": "c9e605d6f9a1",
+    "title": "Brunch on the Bouelvard",
+    "date": "2026-10-08",
+    "time": "11:00am - 1:00pm",
+    "location": "3130 Langston BoulevardArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/brunch-on-the-bouelvard-28814/",
+    "category": "other"
+  },
+  {
+    "id": "f5585d8a2c41",
+    "title": "Try it Thursday!",
+    "date": "2026-10-08",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/try-it-thursday-29050/",
+    "category": "other"
+  },
+  {
+    "id": "d48aa8229291",
+    "title": "Beyond the Book Bans: The Samuels Public Library Story",
+    "date": "2026-10-08",
+    "time": "6:00pm - 7:30pm",
+    "location": "1015 North Quincy StreetArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/beyond-the-book-bans-the-samuels-public-library-story-28791/",
     "category": "other"
   }
 ]
