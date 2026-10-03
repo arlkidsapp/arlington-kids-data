@@ -1,71 +1,6 @@
 [
   {
-    "id": "12973ce02e38",
-    "title": "Lawn Games Social",
-    "date": "2026-10-02",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/lawn-games-social-29031/",
-    "category": "other"
-  },
-  {
-    "id": "a55b8cc010c3",
-    "title": "Live Music \u2013 DC Starlight Jazz",
-    "date": "2026-10-02",
-    "time": "5:00pm - 6:00pm",
-    "location": "3130 Langston BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/live-music-dc-starlight-jazz-29096/",
-    "category": "other"
-  },
-  {
-    "id": "8aaee8a44777",
-    "title": "Zumba Power Hour",
-    "date": "2026-10-02",
-    "time": "5:30pm - 6:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/zumba-power-hour-29032/",
-    "category": "other"
-  },
-  {
-    "id": "d660b9389e59",
-    "title": "April Macie! Live Comedy @Arlington Drafthouse!",
-    "date": "2026-10-02",
-    "time": "7:00pm - 8:30pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/april-macie-live-comedy-arlington-drafthouse-29127/",
-    "category": "other"
-  },
-  {
-    "id": "6f26f9719360",
-    "title": "Scripts in Play: Every Single Ophelia (Avant Bard)",
-    "date": "2026-10-02",
-    "time": "7:30pm - 9:30pm",
-    "location": "4238 Wilson BlvdArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/scripts-in-play-every-single-ophelia-avant-bard-29125/",
-    "category": "other"
-  },
-  {
-    "id": "3de81f6cf126",
+    "id": "cc5d4d9c8257",
     "title": "Shop the Boulevard Manor Neighborhood Yard Sale! 30+ Homes Participating!",
     "date": "2026-10-03",
     "time": "9:00am - 1:00pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "cf49682c96da",
+    "id": "cba1c50d627e",
     "title": "LTC Book Bash",
     "date": "2026-10-03",
     "time": "9:00am - 12:00pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "3f885505943a",
+    "id": "ea47a3242b22",
     "title": "Rhythm & Brews",
     "date": "2026-10-03",
     "time": "9:00am - 11:00am",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "6115b7ec181b",
+    "id": "688f3f24fd65",
     "title": "\u201cScenes in the City\u201d Plein Air Fest Set for October 3 in Falls Church",
     "date": "2026-10-03",
     "time": "9:00am - 12:00pm",
@@ -117,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "2daff53ea1f5",
+    "id": "ea69b179611c",
     "title": "Community Yard Sale at Barcroft | Gran Venta Comunitaria en Barcroft",
     "date": "2026-10-03",
     "time": "9:30am - 12:30pm",
@@ -130,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "6a0e8a64b985",
+    "id": "8b54393dd22b",
     "title": "Free Flu & Covid Vaccine Clinic at Barcroft",
     "date": "2026-10-03",
     "time": "9:30am - 12:30pm",
@@ -143,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "a5ab632374a3",
+    "id": "788d70d27588",
     "title": "Active Bystander Training",
     "date": "2026-10-03",
     "time": "9:31am - 3:00pm",
@@ -156,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "03f5bd6a3966",
+    "id": "94e2720a3c54",
     "title": "Manassas Fall Jubilee",
     "date": "2026-10-03",
     "time": "10:00am - 5:00pm",
@@ -169,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "2931fd6ab909",
+    "id": "d3fb53a56061",
     "title": "Vienna Oktoberfest",
     "date": "2026-10-03",
     "time": "11:00am - 7:00pm",
@@ -182,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "ffbb0135c548",
+    "id": "2fbf65c8f075",
     "title": "Jessica Spotswood Pop-up Signing for THE HARROW HOME FOR WAYWARD GIRLS",
     "date": "2026-10-03",
     "time": "11:00am - 1:00pm",
@@ -195,7 +130,7 @@
     "category": "other"
   },
   {
-    "id": "e3ea81db0ea5",
+    "id": "8e3e6841f7af",
     "title": "Fairlington Free Clothing Swap",
     "date": "2026-10-03",
     "time": "12:00pm - 3:00pm",
@@ -208,7 +143,7 @@
     "category": "other"
   },
   {
-    "id": "c1134f0e7dbd",
+    "id": "2fd0891a1f27",
     "title": "Fall Celebration Online for Teens",
     "date": "2026-10-03",
     "time": "12:00pm - 1:00pm",
@@ -221,7 +156,7 @@
     "category": "other"
   },
   {
-    "id": "3a13bf793ffb",
+    "id": "248bb5c5f6e9",
     "title": "Rosslyn Fall Fest",
     "date": "2026-10-03",
     "time": "1:00pm - 6:00pm",
@@ -234,7 +169,7 @@
     "category": "other"
   },
   {
-    "id": "cd993847dd8a",
+    "id": "bf1b55c45873",
     "title": "4th Annual Westover Day!",
     "date": "2026-10-03",
     "time": "2:00pm - 6:00pm",
@@ -247,7 +182,7 @@
     "category": "other"
   },
   {
-    "id": "c83b05daf933",
+    "id": "3a05b2666ef7",
     "title": "Joyful Art Project with Rachel Wood",
     "date": "2026-10-03",
     "time": "2:00pm - 4:00pm",
@@ -260,7 +195,7 @@
     "category": "other"
   },
   {
-    "id": "f8b8db7a6cfd",
+    "id": "46d239e631ce",
     "title": "Dance The Line \u2013 A Country Swing & Line Dancing Social at Westpost",
     "date": "2026-10-03",
     "time": "4:00pm - 7:00pm",
@@ -273,7 +208,7 @@
     "category": "other"
   },
   {
-    "id": "d8c48b3198e6",
+    "id": "cb3aa069b496",
     "title": "10th Anniversary Pink Carpet Event Charity Fashion Show",
     "date": "2026-10-03",
     "time": "5:00pm - 8:30pm",
@@ -286,7 +221,7 @@
     "category": "other"
   },
   {
-    "id": "aabe09579217",
+    "id": "1a4c196ac30a",
     "title": "Night Market x Art After Hours Event",
     "date": "2026-10-03",
     "time": "5:00pm - 8:00pm",
@@ -299,7 +234,7 @@
     "category": "other"
   },
   {
-    "id": "401a33cf2a03",
+    "id": "d82378249cc8",
     "title": "Art All Night",
     "date": "2026-10-03",
     "time": "5:00pm - 8:00pm",
@@ -312,7 +247,7 @@
     "category": "other"
   },
   {
-    "id": "5a4cd9471f8f",
+    "id": "19dfa7e12e03",
     "title": "Sheriff\u2019s Soccer Match",
     "date": "2026-10-03",
     "time": "6:30pm - 8:30pm",
@@ -325,7 +260,7 @@
     "category": "other"
   },
   {
-    "id": "7cd02818d03c",
+    "id": "7b72e529aa5a",
     "title": "Concert: A\u2019Roya Reese",
     "date": "2026-10-03",
     "time": "6:30pm - 8:30pm",
@@ -338,7 +273,7 @@
     "category": "other"
   },
   {
-    "id": "9e12b99ee005",
+    "id": "a3ee2ec50272",
     "title": "Haunt: Dark Encounters",
     "date": "2026-10-03",
     "time": "7:00pm - 10:00pm",
@@ -351,7 +286,7 @@
     "category": "other"
   },
   {
-    "id": "f0a752a63304",
+    "id": "2b89913826eb",
     "title": "The Haunt: Dark Encounters \u2013 Haunted Trail \u2013 Scariest Haunted Trail in Northern",
     "date": "2026-10-03",
     "time": "7:00pm - 10:00pm",
@@ -364,7 +299,7 @@
     "category": "other"
   },
   {
-    "id": "8ef3d7b00ffa",
+    "id": "67776574249a",
     "title": "April Macie! Live Comedy @ Arlington Drafthouse!",
     "date": "2026-10-03",
     "time": "7:00pm - 8:30pm",
@@ -377,7 +312,7 @@
     "category": "other"
   },
   {
-    "id": "450452a7788b",
+    "id": "00f1447cabbf",
     "title": "Christylez Bacon and Qi Yu: a musical cross-cultural collaboration",
     "date": "2026-10-03",
     "time": "7:30pm - 9:00pm",
@@ -634,6 +569,71 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/beyond-the-book-bans-the-samuels-public-library-story-28791/",
+    "category": "other"
+  },
+  {
+    "id": "649396c192d6",
+    "title": "Celebrating \u2018RAVEN\u2019: An Evening with Lyndsay Faye",
+    "date": "2026-10-08",
+    "time": "6:30pm - 7:30pm",
+    "location": "2200 N. Westmoreland StreetArlington,Virginia22213",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/celebrating-raven-an-evening-with-lyndsay-faye-28668/",
+    "category": "other"
+  },
+  {
+    "id": "2bf77d9738b2",
+    "title": "Monthly Meditation",
+    "date": "2026-10-08",
+    "time": "6:30pm - 7:30pm",
+    "location": "816 South Walter Reed DrArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/monthly-meditation-28795/",
+    "category": "other"
+  },
+  {
+    "id": "d6b9661fd2cd",
+    "title": "Celebrating \u2018RAVEN\u2019: An Evening with Lyndsay Faye, in Conversation with Louis Ba",
+    "date": "2026-10-08",
+    "time": "6:30pm - 7:30pm",
+    "location": "2200 N Westmoreland StArlington,Virginia22213",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/celebrating-raven-an-evening-with-lyndsay-faye-in-conversation-with-louis-ba-28820/",
+    "category": "other"
+  },
+  {
+    "id": "8382ba26ffef",
+    "title": "Memorial Arboretum History and Horticulture Walking Tour",
+    "date": "2026-10-09",
+    "time": "9:00am - 11:00am",
+    "location": "1 Memorial AveFort Myer,Virginia22211",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/memorial-arboretum-history-and-horticulture-walking-tour-28937/",
+    "category": "other"
+  },
+  {
+    "id": "213328b2830f",
+    "title": "Art Night \u2013 Try the Pottery Wheel, BYOB at Art House 7",
+    "date": "2026-10-09",
+    "time": "7:00pm - 9:00pm",
+    "location": "5537 Langston Blvd.Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/art-night-try-the-pottery-wheel-byob-at-art-house-7-28009/",
     "category": "other"
   }
 ]
