@@ -1,97 +1,6 @@
 [
   {
-    "id": "b99192fd1e5e",
-    "title": "Fall Family Days! DIY Crafting \u2013 Fall Charm Bar",
-    "date": "2026-10-04",
-    "time": "10:00am - 1:00pm",
-    "location": "1300 S Fern StArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/fall-family-days-diy-crafting-fall-charm-bar-27737/",
-    "category": "other"
-  },
-  {
-    "id": "a18970e94e46",
-    "title": "Blessing of the Animals",
-    "date": "2026-10-04",
-    "time": "10:15am - 11:30am",
-    "location": "4444 Arlington BlvdArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/blessing-of-the-animals-28990/",
-    "category": "other"
-  },
-  {
-    "id": "fc35a0c8b239",
-    "title": "One World, One Sky: Big Bird\u2019s Adventure",
-    "date": "2026-10-04",
-    "time": "10:30am - 11:00am",
-    "location": "650 Jefferson Drive SWWashington,District of Columbia20560",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/one-world-one-sky-big-birds-adventure-27436/",
-    "category": "other"
-  },
-  {
-    "id": "07f84defa731",
-    "title": "LOOK Pop-Up Workshops",
-    "date": "2026-10-04",
-    "time": "12:00pm - 6:00pm",
-    "location": "3130 Langston BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/look-pop-up-workshops-28815/",
-    "category": "other"
-  },
-  {
-    "id": "4b803c639de1",
-    "title": "Workshops Hosted by Langston Boulevard Alliance (LBA)",
-    "date": "2026-10-04",
-    "time": "12:00pm - 6:00pm",
-    "location": "3130 Langston BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/workshops-hosted-by-langston-boulevard-alliance-lba-29099/",
-    "category": "other"
-  },
-  {
-    "id": "89143ebb8913",
-    "title": "Jazz@Central: The U.S. Army Blues \u2013 Jazz Organ Ensemble",
-    "date": "2026-10-04",
-    "time": "3:00pm - 4:00pm",
-    "location": "1015 N Quincy StArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/jazzcentral-the-us-army-blues-jazz-organ-ensemble-28403/",
-    "category": "other"
-  },
-  {
-    "id": "e2efd4ce278c",
-    "title": "Dogs of Otavalo Presents: Drag Queen Bingo Fundraiser @Arlington Drafthouse",
-    "date": "2026-10-04",
-    "time": "3:00pm - 5:30pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/dogs-of-otavalo-presents-drag-queen-bingo-fundraiser-arlington-drafthouse-29126/",
-    "category": "other"
-  },
-  {
-    "id": "43da351bfc45",
+    "id": "bf4d6db0b7a1",
     "title": "Book Club: Cemetery Boys",
     "date": "2026-10-05",
     "time": "3:00pm - 4:30pm",
@@ -104,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "6a1b98a7d873",
+    "id": "23f0dafb74f6",
     "title": "K-Pop with WJ Dance Studio",
     "date": "2026-10-05",
     "time": "6:00pm - 7:00pm",
@@ -221,6 +130,19 @@
     "category": "other"
   },
   {
+    "id": "d79223e8381f",
+    "title": "American Mahjong Rapid Lunch",
+    "date": "2026-10-08",
+    "time": "12:00pm - 1:00pm",
+    "location": "4245 Fairfax DriveArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/american-mahjong-rapid-lunch-29208/",
+    "category": "other"
+  },
+  {
     "id": "f5585d8a2c41",
     "title": "Try it Thursday!",
     "date": "2026-10-08",
@@ -286,6 +208,19 @@
     "category": "other"
   },
   {
+    "id": "54cd087a1b8b",
+    "title": "The Legend of Dead Man\u2019s Hollow",
+    "date": "2026-10-08",
+    "time": "7:00pm - 8:30pm",
+    "location": "2807 North Glebe RoadArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-legend-of-dead-mans-hollow-29213/",
+    "category": "other"
+  },
+  {
     "id": "8382ba26ffef",
     "title": "Memorial Arboretum History and Horticulture Walking Tour",
     "date": "2026-10-09",
@@ -309,6 +244,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/art-night-try-the-pottery-wheel-byob-at-art-house-7-28009/",
+    "category": "other"
+  },
+  {
+    "id": "c020fc13dd54",
+    "title": "Meet the Candidates Breakfast \u2013 Arlington Democrats",
+    "date": "2026-10-10",
+    "time": "9:00am - 10:30am",
+    "location": "4251 Campbell AvenueArlington,Virginia22206",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/meet-the-candidates-breakfast-arlington-democrats-29198/",
     "category": "other"
   },
   {
@@ -387,6 +335,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/first-baby-connect-with-other-new-moms-28986/",
+    "category": "other"
+  },
+  {
+    "id": "dc12a9ad4aca",
+    "title": "Code Ninjas Arlington Grand Opening",
+    "date": "2026-10-10",
+    "time": "11:00am - 2:00pm",
+    "location": "2499 North Harrison Street, LL-3Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/code-ninjas-arlington-grand-opening-29200/",
     "category": "other"
   },
   {
@@ -478,6 +439,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/equality-arlingtons-coming-out-day-celebration-28529/",
+    "category": "other"
+  },
+  {
+    "id": "e222e781bfab",
+    "title": "Book Club: Cemetery Boys",
+    "date": "2026-10-12",
+    "time": "3:00pm - 4:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/book-club-cemetery-boys-29219/",
     "category": "other"
   },
   {
@@ -647,6 +621,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/sunset-cinemas-27630/",
+    "category": "other"
+  },
+  {
+    "id": "b7c5263ef90b",
+    "title": "See Hansel & Gretel with Encore Stage & Studio",
+    "date": "2026-10-16",
+    "time": "7:00pm - 9:00pm",
+    "location": "125 S. Old Glebe Rd.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/see-hansel-gretel-with-encore-stage-studio-27699/",
+    "category": "other"
+  },
+  {
+    "id": "fb4aeb67437c",
+    "title": "Fall 2026 E-CARE",
+    "date": "2026-10-17",
+    "time": "8:30am - 3:00pm",
+    "location": "1425 North Quincy StreetArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fall-2026-e-care-28276/",
     "category": "other"
   }
 ]
