@@ -1,45 +1,6 @@
 [
   {
-    "id": "01f15491cdb6",
-    "title": "An Evening with David Ignatius",
-    "date": "2026-10-06",
-    "time": "7:03am - 8:15pm",
-    "location": "3351 N Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/an-evening-with-david-ignatius-29166/",
-    "category": "other"
-  },
-  {
-    "id": "573062263770",
-    "title": "Resource Tabling",
-    "date": "2026-10-06",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/resource-tabling-29041/",
-    "category": "other"
-  },
-  {
-    "id": "78e05abf0594",
-    "title": "Trivia & Treats",
-    "date": "2026-10-06",
-    "time": "8:00pm - 9:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/trivia-treats-29038/",
-    "category": "other"
-  },
-  {
-    "id": "3521ff60a110",
+    "id": "f136c6371812",
     "title": "Storytime",
     "date": "2026-10-07",
     "time": "10:30am - 11:15am",
@@ -52,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "c3e2b76c8b58",
+    "id": "9329cac2064f",
     "title": "Mason Square Makers",
     "date": "2026-10-07",
     "time": "3:00pm - 4:30pm",
@@ -65,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "730be147817c",
+    "id": "7e32bd6b6794",
     "title": "Outdoor Yoga with Mind the Mat",
     "date": "2026-10-07",
     "time": "6:00pm - 7:00pm",
@@ -403,6 +364,19 @@
     "category": "other"
   },
   {
+    "id": "f52526488c5a",
+    "title": "Calling All Legends: An Autumn Extravaganza",
+    "date": "2026-10-11",
+    "time": "4:00pm - 8:00pm",
+    "location": "1600 Belle View BlvdAlexandria,Virginia22307",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/calling-all-legends-an-autumn-extravaganza-29255/",
+    "category": "other"
+  },
+  {
     "id": "c9b4d9f75665",
     "title": "Equality Arlington\u2019s Coming Out Day Celebration!",
     "date": "2026-10-11",
@@ -647,6 +621,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/zumba-power-hour-29225/",
+    "category": "other"
+  },
+  {
+    "id": "bb49f61ad515",
+    "title": "D\u00eda de los Muertos Crafting Social \u2014 Catrina Costumes",
+    "date": "2026-10-16",
+    "time": "6:00pm - 8:00pm",
+    "location": "525 14th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/da-de-los-muertos-crafting-social-catrina-costumes-29180/",
+    "category": "other"
+  },
+  {
+    "id": "fd64e0a6b642",
+    "title": "Sunset Cinemas",
+    "date": "2026-10-16",
+    "time": "6:45pm - 8:30pm",
+    "location": "312 Park AvenueFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sunset-cinemas-27630/",
     "category": "other"
   }
 ]
