@@ -1,45 +1,6 @@
 [
   {
-    "id": "f136c6371812",
-    "title": "Storytime",
-    "date": "2026-10-07",
-    "time": "10:30am - 11:15am",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/storytime-29042/",
-    "category": "other"
-  },
-  {
-    "id": "9329cac2064f",
-    "title": "Mason Square Makers",
-    "date": "2026-10-07",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/mason-square-makers-29044/",
-    "category": "other"
-  },
-  {
-    "id": "7e32bd6b6794",
-    "title": "Outdoor Yoga with Mind the Mat",
-    "date": "2026-10-07",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/outdoor-yoga-with-mind-the-mat-29046/",
-    "category": "other"
-  },
-  {
-    "id": "dd02e5e6a9cb",
+    "id": "6e4e1f64847e",
     "title": "Arts and Coffee: Cozy Fall Felting \u2013 Pumpkins at Art House 7",
     "date": "2026-10-08",
     "time": "10:00am - 12:00pm",
@@ -52,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "c9e605d6f9a1",
+    "id": "f0bcb88dbc76",
     "title": "Brunch on the Bouelvard",
     "date": "2026-10-08",
     "time": "11:00am - 1:00pm",
@@ -65,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "d79223e8381f",
+    "id": "cac824e74e5e",
     "title": "American Mahjong Rapid Lunch",
     "date": "2026-10-08",
     "time": "12:00pm - 1:00pm",
@@ -78,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "f5585d8a2c41",
+    "id": "e0d498051ac8",
     "title": "Try it Thursday!",
     "date": "2026-10-08",
     "time": "3:00pm - 4:30pm",
@@ -91,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "d48aa8229291",
+    "id": "90226e9cb397",
     "title": "Beyond the Book Bans: The Samuels Public Library Story",
     "date": "2026-10-08",
     "time": "6:00pm - 7:30pm",
@@ -104,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "649396c192d6",
+    "id": "ecd08b6b747d",
     "title": "Celebrating \u2018RAVEN\u2019: An Evening with Lyndsay Faye",
     "date": "2026-10-08",
     "time": "6:30pm - 7:30pm",
@@ -117,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "2bf77d9738b2",
+    "id": "bca037037dac",
     "title": "Monthly Meditation",
     "date": "2026-10-08",
     "time": "6:30pm - 7:30pm",
@@ -130,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "d6b9661fd2cd",
+    "id": "ebd85c1ea8d0",
     "title": "Celebrating \u2018RAVEN\u2019: An Evening with Lyndsay Faye, in Conversation with Louis Ba",
     "date": "2026-10-08",
     "time": "6:30pm - 7:30pm",
@@ -143,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "54cd087a1b8b",
+    "id": "f5008ec0974c",
     "title": "The Legend of Dead Man\u2019s Hollow",
     "date": "2026-10-08",
     "time": "7:00pm - 8:30pm",
@@ -637,6 +598,19 @@
     "category": "other"
   },
   {
+    "id": "0e6cd7f34311",
+    "title": "New Date \u2013 Dance The Line \u2013 A Country Swing & Line Dancing Social at Westpost",
+    "date": "2026-10-16",
+    "time": "6:00pm - 9:00pm",
+    "location": "1201 South Joyce StreetArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/new-date-dance-the-line-a-country-swing-line-dancing-social-at-westpost-100028/",
+    "category": "other"
+  },
+  {
     "id": "fd64e0a6b642",
     "title": "Sunset Cinemas",
     "date": "2026-10-16",
@@ -647,6 +621,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/sunset-cinemas-27630/",
+    "category": "other"
+  },
+  {
+    "id": "b7c5263ef90b",
+    "title": "See Hansel & Gretel with Encore Stage & Studio",
+    "date": "2026-10-16",
+    "time": "7:00pm - 9:00pm",
+    "location": "125 S. Old Glebe Rd.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/see-hansel-gretel-with-encore-stage-studio-27699/",
+    "category": "other"
+  },
+  {
+    "id": "fb4aeb67437c",
+    "title": "Fall 2026 E-CARE",
+    "date": "2026-10-17",
+    "time": "8:30am - 3:00pm",
+    "location": "1425 North Quincy StreetArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fall-2026-e-care-28276/",
     "category": "other"
   }
 ]
