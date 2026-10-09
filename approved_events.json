@@ -1,123 +1,6 @@
 [
   {
-    "id": "6e4e1f64847e",
-    "title": "Arts and Coffee: Cozy Fall Felting \u2013 Pumpkins at Art House 7",
-    "date": "2026-10-08",
-    "time": "10:00am - 12:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/arts-and-coffee-cozy-fall-felting-pumpkins-at-art-house-7-27650/",
-    "category": "other"
-  },
-  {
-    "id": "f0bcb88dbc76",
-    "title": "Brunch on the Bouelvard",
-    "date": "2026-10-08",
-    "time": "11:00am - 1:00pm",
-    "location": "3130 Langston BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/brunch-on-the-bouelvard-28814/",
-    "category": "other"
-  },
-  {
-    "id": "cac824e74e5e",
-    "title": "American Mahjong Rapid Lunch",
-    "date": "2026-10-08",
-    "time": "12:00pm - 1:00pm",
-    "location": "4245 Fairfax DriveArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/american-mahjong-rapid-lunch-29208/",
-    "category": "other"
-  },
-  {
-    "id": "e0d498051ac8",
-    "title": "Try it Thursday!",
-    "date": "2026-10-08",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/try-it-thursday-29050/",
-    "category": "other"
-  },
-  {
-    "id": "90226e9cb397",
-    "title": "Beyond the Book Bans: The Samuels Public Library Story",
-    "date": "2026-10-08",
-    "time": "6:00pm - 7:30pm",
-    "location": "1015 North Quincy StreetArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/beyond-the-book-bans-the-samuels-public-library-story-28791/",
-    "category": "other"
-  },
-  {
-    "id": "ecd08b6b747d",
-    "title": "Celebrating \u2018RAVEN\u2019: An Evening with Lyndsay Faye",
-    "date": "2026-10-08",
-    "time": "6:30pm - 7:30pm",
-    "location": "2200 N. Westmoreland StreetArlington,Virginia22213",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/celebrating-raven-an-evening-with-lyndsay-faye-28668/",
-    "category": "other"
-  },
-  {
-    "id": "bca037037dac",
-    "title": "Monthly Meditation",
-    "date": "2026-10-08",
-    "time": "6:30pm - 7:30pm",
-    "location": "816 South Walter Reed DrArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/monthly-meditation-28795/",
-    "category": "other"
-  },
-  {
-    "id": "ebd85c1ea8d0",
-    "title": "Celebrating \u2018RAVEN\u2019: An Evening with Lyndsay Faye, in Conversation with Louis Ba",
-    "date": "2026-10-08",
-    "time": "6:30pm - 7:30pm",
-    "location": "2200 N Westmoreland StArlington,Virginia22213",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/celebrating-raven-an-evening-with-lyndsay-faye-in-conversation-with-louis-ba-28820/",
-    "category": "other"
-  },
-  {
-    "id": "f5008ec0974c",
-    "title": "The Legend of Dead Man\u2019s Hollow",
-    "date": "2026-10-08",
-    "time": "7:00pm - 8:30pm",
-    "location": "2807 North Glebe RoadArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-legend-of-dead-mans-hollow-29213/",
-    "category": "other"
-  },
-  {
-    "id": "8382ba26ffef",
+    "id": "990be8b4cded",
     "title": "Memorial Arboretum History and Horticulture Walking Tour",
     "date": "2026-10-09",
     "time": "9:00am - 11:00am",
@@ -130,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "213328b2830f",
+    "id": "2f0e73ebced2",
     "title": "Art Night \u2013 Try the Pottery Wheel, BYOB at Art House 7",
     "date": "2026-10-09",
     "time": "7:00pm - 9:00pm",
@@ -140,6 +23,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/art-night-try-the-pottery-wheel-byob-at-art-house-7-28009/",
+    "category": "other"
+  },
+  {
+    "id": "1cd52df80465",
+    "title": "Brittany Schmitt Live! @Arlington Drafthouse",
+    "date": "2026-10-09",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/brittany-schmitt-live-arlington-drafthouse-100073/",
+    "category": "other"
+  },
+  {
+    "id": "5d00440d8f4c",
+    "title": "Adult Bingo @Arlington Drafthouse",
+    "date": "2026-10-09",
+    "time": "9:30pm - 11:00pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/adult-bingo-arlington-drafthouse-100072/",
     "category": "other"
   },
   {
@@ -283,6 +192,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/flow-brings-color-movement-and-energy-to-falls-church-arts-29187/",
+    "category": "other"
+  },
+  {
+    "id": "c980c1c2270f",
+    "title": "Brittany Schmitt Live! @Arlington Drafthouse",
+    "date": "2026-10-10",
+    "time": "7:00pm - 8:30pm",
+    "location": "2903 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/brittany-schmitt-live-arlington-drafthouse-100074/",
     "category": "other"
   },
   {
@@ -481,6 +403,19 @@
     "category": "other"
   },
   {
+    "id": "0d9e6446e0d7",
+    "title": "2026 Yorktown Crew Winter Fundraiser",
+    "date": "2026-10-15",
+    "time": "12:01am - 11:59pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/2026-yorktown-crew-winter-fundraiser-100087/",
+    "category": "other"
+  },
+  {
     "id": "7ca6a3105ed9",
     "title": "Arts and Coffee: Make Ceramic Charms (All levels) at Art House 7",
     "date": "2026-10-15",
@@ -504,6 +439,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/arts-and-coffee-conversation-and-art-history-vincent-van-gogh-at-art-house-7-26576/",
+    "category": "other"
+  },
+  {
+    "id": "ee0396f5dcec",
+    "title": "Fall Job Fair at Fashion Centre at Pentagon City",
+    "date": "2026-10-15",
+    "time": "1:00pm - 6:00pm",
+    "location": "1100 S. Hayes St.Arlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fall-job-fair-at-fashion-centre-at-pentagon-city-100089/",
     "category": "other"
   },
   {
@@ -647,6 +595,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/fall-2026-e-care-28276/",
+    "category": "other"
+  },
+  {
+    "id": "2da621d9bfa0",
+    "title": "Used Bicycle Drive",
+    "date": "2026-10-17",
+    "time": "8:30am - 3:00pm",
+    "location": "1425 N Quincy StArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/used-bicycle-drive-29005/",
+    "category": "other"
+  },
+  {
+    "id": "7832006c0d7a",
+    "title": "Falls Church Arts Plein Air Festival Postponed to October 17 Due to Storms",
+    "date": "2026-10-17",
+    "time": "9:00am - 12:00pm",
+    "location": "300 Park AvenueFalls Church,Virginia22040",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/falls-church-arts-plein-air-festival-postponed-to-october-17-due-to-storms-29186/",
+    "category": "other"
+  },
+  {
+    "id": "d71e1e0fdc65",
+    "title": "Rhythm & Brews",
+    "date": "2026-10-17",
+    "time": "9:00am - 11:00am",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rhythm-brews-29226/",
+    "category": "other"
+  },
+  {
+    "id": "33b49f57eb0a",
+    "title": "Exercise Your Right to VOTE Walk",
+    "date": "2026-10-17",
+    "time": "9:00am - 10:30am",
+    "location": "2049 N Woodstock StArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/exercise-your-right-to-vote-walk-100077/",
     "category": "other"
   }
 ]
