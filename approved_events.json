@@ -1,58 +1,6 @@
 [
   {
-    "id": "990be8b4cded",
-    "title": "Memorial Arboretum History and Horticulture Walking Tour",
-    "date": "2026-10-09",
-    "time": "9:00am - 11:00am",
-    "location": "1 Memorial AveFort Myer,Virginia22211",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/memorial-arboretum-history-and-horticulture-walking-tour-28937/",
-    "category": "other"
-  },
-  {
-    "id": "2f0e73ebced2",
-    "title": "Art Night \u2013 Try the Pottery Wheel, BYOB at Art House 7",
-    "date": "2026-10-09",
-    "time": "7:00pm - 9:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/art-night-try-the-pottery-wheel-byob-at-art-house-7-28009/",
-    "category": "other"
-  },
-  {
-    "id": "1cd52df80465",
-    "title": "Brittany Schmitt Live! @Arlington Drafthouse",
-    "date": "2026-10-09",
-    "time": "7:00pm - 8:30pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/brittany-schmitt-live-arlington-drafthouse-100073/",
-    "category": "other"
-  },
-  {
-    "id": "5d00440d8f4c",
-    "title": "Adult Bingo @Arlington Drafthouse",
-    "date": "2026-10-09",
-    "time": "9:30pm - 11:00pm",
-    "location": "2903 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/adult-bingo-arlington-drafthouse-100072/",
-    "category": "other"
-  },
-  {
-    "id": "c020fc13dd54",
+    "id": "61d07334b776",
     "title": "Meet the Candidates Breakfast \u2013 Arlington Democrats",
     "date": "2026-10-10",
     "time": "9:00am - 10:30am",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "4c61d9af252a",
+    "id": "2b3d5193b4f0",
     "title": "5dollar5k",
     "date": "2026-10-10",
     "time": "9:30am - 12:30pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "9d9eeaf85ca4",
+    "id": "c0936c5f4e83",
     "title": "Kiwi Kuisine Pie Shop Grand Re-Opening",
     "date": "2026-10-10",
     "time": "10:00am - 12:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "f88d57d8422c",
+    "id": "e538a8e3397b",
     "title": "Fire Prevention Week Open House",
     "date": "2026-10-10",
     "time": "10:00am - 2:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "da4bc87553c2",
+    "id": "7e2c29626e6f",
     "title": "Farm Day",
     "date": "2026-10-10",
     "time": "10:00am - 3:00pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "fa0886030313",
+    "id": "db262a2f6f9c",
     "title": "Kwek Society Fundraiser \u2013 Shop for a Cause",
     "date": "2026-10-10",
     "time": "11:00am - 4:00pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "bb4d77bed708",
+    "id": "f2d76cec1d9d",
     "title": "First Baby? Connect with other New Moms!",
     "date": "2026-10-10",
     "time": "11:00am - 12:00pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "dc12a9ad4aca",
+    "id": "dcdc972456a0",
     "title": "Code Ninjas Arlington Grand Opening",
     "date": "2026-10-10",
     "time": "11:00am - 2:00pm",
@@ -156,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "a9ab660013b1",
+    "id": "71b4a6ce9333",
     "title": "Arlingtones Barbershop Chorus Fall Show",
     "date": "2026-10-10",
     "time": "2:30pm - 5:00pm",
@@ -169,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "04a9d80e6ca1",
+    "id": "354da550350e",
     "title": "Arlington Young Democrats Gold Card Event \u2013 Drag Bingo",
     "date": "2026-10-10",
     "time": "6:30pm - 8:30pm",
@@ -182,7 +130,7 @@
     "category": "other"
   },
   {
-    "id": "00f2f7a64550",
+    "id": "e82ed9142ec1",
     "title": "\u201cFlow\u201d Brings Color, Movement, and Energy to Falls Church Arts",
     "date": "2026-10-10",
     "time": "7:00pm - 9:00pm",
@@ -195,7 +143,7 @@
     "category": "other"
   },
   {
-    "id": "c980c1c2270f",
+    "id": "1cd52df80465",
     "title": "Brittany Schmitt Live! @Arlington Drafthouse",
     "date": "2026-10-10",
     "time": "7:00pm - 8:30pm",
@@ -208,7 +156,7 @@
     "category": "other"
   },
   {
-    "id": "a2cf21316bc5",
+    "id": "27d836f27984",
     "title": "The Comedy Karaoke Trivia Funtime Show with Jenny Questell",
     "date": "2026-10-10",
     "time": "7:30pm - 9:30pm",
@@ -647,6 +595,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/exercise-your-right-to-vote-walk-100077/",
+    "category": "other"
+  },
+  {
+    "id": "894ba87652b0",
+    "title": "Exercise Your Right to VOTE Arlington",
+    "date": "2026-10-17",
+    "time": "9:00am - 10:30am",
+    "location": "2101 S Pollard StArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/exercise-your-right-to-vote-arlington-100078/",
+    "category": "other"
+  },
+  {
+    "id": "df37204d246b",
+    "title": "Exercise Your Right to VOTE Arlington Walk",
+    "date": "2026-10-17",
+    "time": "9:00am - 10:30am",
+    "location": "1230 N Hartford StArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/exercise-your-right-to-vote-arlington-walk-100079/",
+    "category": "other"
+  },
+  {
+    "id": "4ccedfc9adc3",
+    "title": "Home Maintenance Workshops",
+    "date": "2026-10-17",
+    "time": "10:00am - 1:00pm",
+    "location": "909 S Dinwiddie Street, 4th FloorArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/home-maintenance-workshops-29215/",
+    "category": "other"
+  },
+  {
+    "id": "e01c6f00fbc5",
+    "title": "Theresa\u2019s Table slow shopping holiday event",
+    "date": "2026-10-17",
+    "time": "11:00am - 4:00pm",
+    "location": "2424 26th Rd SArlington,Virginia22206",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/theresas-table-slow-shopping-holiday-event-28522/",
     "category": "other"
   }
 ]
