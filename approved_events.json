@@ -1,58 +1,6 @@
 [
   {
-    "id": "72abc0540e7b",
-    "title": "Celebrate National Coming Out Day with UUCA!",
-    "date": "2026-10-11",
-    "time": "10:15am - 1:30pm",
-    "location": "4444 Arlington BlvdArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/celebrate-national-coming-out-day-with-uuca-28988/",
-    "category": "other"
-  },
-  {
-    "id": "c38eeb961fcc",
-    "title": "Rock Spring Recital Series: Choral Gems",
-    "date": "2026-10-11",
-    "time": "3:00pm - 4:00pm",
-    "location": "5010 Little Falls RdArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rock-spring-recital-series-choral-gems-28438/",
-    "category": "other"
-  },
-  {
-    "id": "cc93ddb4325c",
-    "title": "Calling All Legends: An Autumn Extravaganza",
-    "date": "2026-10-11",
-    "time": "4:00pm - 8:00pm",
-    "location": "1600 Belle View BlvdAlexandria,Virginia22307",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/calling-all-legends-an-autumn-extravaganza-29255/",
-    "category": "other"
-  },
-  {
-    "id": "7f5d28eb5654",
-    "title": "Equality Arlington\u2019s Coming Out Day Celebration!",
-    "date": "2026-10-11",
-    "time": "5:30pm - 7:30pm",
-    "location": "1920 N Highland StreetArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/equality-arlingtons-coming-out-day-celebration-28529/",
-    "category": "other"
-  },
-  {
-    "id": "e222e781bfab",
+    "id": "bf4d6db0b7a1",
     "title": "Book Club: Cemetery Boys",
     "date": "2026-10-12",
     "time": "3:00pm - 4:30pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "159d9f6257ca",
+    "id": "3e95d951a646",
     "title": "Monday Mingle with Earring Making or BYO Crafts",
     "date": "2026-10-12",
     "time": "6:00pm - 8:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "c026c50c0fd3",
+    "id": "72fbbe1e3d1f",
     "title": "K-Pop w/ WJ Dance Studio",
     "date": "2026-10-12",
     "time": "6:00pm - 7:00pm",
@@ -647,6 +595,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/aspires-student-showcase-celebrating-lights-on-afterschool-28189/",
+    "category": "other"
+  },
+  {
+    "id": "5b87627b38b2",
+    "title": "Auditions & Crew Interviews: The Lightning Thief: The Percy Jackson Musical",
+    "date": "2026-10-20",
+    "time": "5:30pm - 8:00pm",
+    "location": "3701 Lorcom LnArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/auditions-crew-interviews-the-lightning-thief-the-percy-jackson-musical-26435/",
+    "category": "other"
+  },
+  {
+    "id": "8ecdb057af90",
+    "title": "Auditions: The Lightning Thief | Encore Stage & Studio",
+    "date": "2026-10-20",
+    "time": "5:30pm - 8:30pm",
+    "location": "3701 Lorcom LaneArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/auditions-the-lightning-thief-encore-stage-studio-29025/",
+    "category": "other"
+  },
+  {
+    "id": "26f93ca3e76d",
+    "title": "Terborgh Terrace Gardens Workday",
+    "date": "2026-10-21",
+    "time": "9:30am - 11:30am",
+    "location": "4578 26th St NArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/terborgh-terrace-gardens-workday-100011/",
+    "category": "other"
+  },
+  {
+    "id": "371adb6c4990",
+    "title": "Halloween Origami Workshop for All Ages",
+    "date": "2026-10-21",
+    "time": "3:00pm - 5:00pm",
+    "location": "735 18th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/halloween-origami-workshop-for-all-ages-28927/",
     "category": "other"
   }
 ]
