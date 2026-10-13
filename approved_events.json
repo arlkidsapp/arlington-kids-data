@@ -1,45 +1,6 @@
 [
   {
-    "id": "bf4d6db0b7a1",
-    "title": "Book Club: Cemetery Boys",
-    "date": "2026-10-12",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/book-club-cemetery-boys-29219/",
-    "category": "other"
-  },
-  {
-    "id": "3e95d951a646",
-    "title": "Monday Mingle with Earring Making or BYO Crafts",
-    "date": "2026-10-12",
-    "time": "6:00pm - 8:00pm",
-    "location": "2200 N Westmoreland StArlington,Virginia22213",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/monday-mingle-with-earring-making-or-byo-crafts-28875/",
-    "category": "other"
-  },
-  {
-    "id": "72fbbe1e3d1f",
-    "title": "K-Pop w/ WJ Dance Studio",
-    "date": "2026-10-12",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/k-pop-w-wj-dance-studio-29221/",
-    "category": "other"
-  },
-  {
-    "id": "0da0c7415cd8",
+    "id": "29f7919792f0",
     "title": "Chefpreneur Chat: Unidos Somos M\u00e1s (Together We Are More)",
     "date": "2026-10-13",
     "time": "5:00pm - 7:00pm",
@@ -52,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "6d0b1637b103",
+    "id": "dcab9f5164c2",
     "title": "FREE Home Buying Workshop: Discover Arlington + The Davenport Group",
     "date": "2026-10-13",
     "time": "6:30pm - 7:30pm",
@@ -65,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "eb229c331f57",
+    "id": "55d227790c68",
     "title": "Heated Rivalry Party to Celebrate the Release of Jacob Tierney\u2019s \u2018I\u2019LL BELIEVE I",
     "date": "2026-10-13",
     "time": "6:30pm - 8:00pm",
@@ -166,6 +127,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/arts-and-coffee-conversation-and-art-history-vincent-van-gogh-at-art-house-7-26576/",
+    "category": "other"
+  },
+  {
+    "id": "3129008edc35",
+    "title": "Powering the AI Decade: Data Center Policy Forum",
+    "date": "2026-10-15",
+    "time": "11:00am - 4:00pm",
+    "location": "1850 Towers Cres Plaza, Tysons, VA 22102Tysons,Virginia22102",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/powering-the-ai-decade-data-center-policy-forum-100123/",
     "category": "other"
   },
   {
@@ -494,6 +468,19 @@
     "category": "other"
   },
   {
+    "id": "af3c7e0bdd32",
+    "title": "Planetarium Shows",
+    "date": "2026-10-17",
+    "time": "6:00pm - 8:30pm",
+    "location": "1426 N Quincy StreetArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/planetarium-shows-100128/",
+    "category": "other"
+  },
+  {
     "id": "d1094f285408",
     "title": "Concert: Valeria Stewart & Trio",
     "date": "2026-10-17",
@@ -543,6 +530,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/big-bold-rich-red-wine-super-tasting-at-arrowine-100094/",
+    "category": "other"
+  },
+  {
+    "id": "575b5418ef75",
+    "title": "Planetarium Shows",
+    "date": "2026-10-18",
+    "time": "1:30pm - 4:00pm",
+    "location": "1426 N Quincy StArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/planetarium-shows-100130/",
     "category": "other"
   },
   {
