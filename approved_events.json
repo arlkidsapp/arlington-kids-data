@@ -1,45 +1,6 @@
 [
   {
-    "id": "29f7919792f0",
-    "title": "Chefpreneur Chat: Unidos Somos M\u00e1s (Together We Are More)",
-    "date": "2026-10-13",
-    "time": "5:00pm - 7:00pm",
-    "location": "1015 N Quincy StArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/chefpreneur-chat-unidos-somos-ms-together-we-are-more-29114/",
-    "category": "other"
-  },
-  {
-    "id": "dcab9f5164c2",
-    "title": "FREE Home Buying Workshop: Discover Arlington + The Davenport Group",
-    "date": "2026-10-13",
-    "time": "6:30pm - 7:30pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-home-buying-workshop-discover-arlington-the-davenport-group-28673/",
-    "category": "other"
-  },
-  {
-    "id": "55d227790c68",
-    "title": "Heated Rivalry Party to Celebrate the Release of Jacob Tierney\u2019s \u2018I\u2019LL BELIEVE I",
-    "date": "2026-10-13",
-    "time": "6:30pm - 8:00pm",
-    "location": "2200 N Westmoreland StArlington,Virginia22213",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/heated-rivalry-party-to-celebrate-the-release-of-jacob-tierneys-ill-believe-i-28877/",
-    "category": "other"
-  },
-  {
-    "id": "1964c222716a",
+    "id": "f136c6371812",
     "title": "Storytime",
     "date": "2026-10-14",
     "time": "10:30am - 11:15am",
@@ -52,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "2d293d86b941",
+    "id": "6eef8b891132",
     "title": "Community Volunteer Reading Night",
     "date": "2026-10-14",
     "time": "5:00pm - 6:00pm",
@@ -65,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "674f4c165b5a",
+    "id": "85481120ea79",
     "title": "Preparing to Sell Your Home",
     "date": "2026-10-14",
     "time": "6:30pm - 7:30pm",
@@ -78,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "2f9475929982",
+    "id": "cf8b2d101566",
     "title": "Is Arlington Prepared for a Silver Tsunami Across a Range of Services and Needs?",
     "date": "2026-10-14",
     "time": "6:45pm - 8:00pm",
@@ -192,6 +153,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/pilates-w-mind-the-mat-29222/",
+    "category": "other"
+  },
+  {
+    "id": "257c909e97fe",
+    "title": "Election Bingo & Trivia sponsored by the League of Women Voters",
+    "date": "2026-10-15",
+    "time": "7:00pm - 9:00pm",
+    "location": "2300 Clarendon BlvdArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/election-bingo-trivia-sponsored-by-the-league-of-women-voters-100148/",
     "category": "other"
   },
   {
@@ -390,6 +364,19 @@
     "category": "other"
   },
   {
+    "id": "dd3a66e6c2ef",
+    "title": "No Kings 4 \u2013 Make a Plan to Vote!",
+    "date": "2026-10-17",
+    "time": "9:30am - 11:30am",
+    "location": "300 Park AvenueFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/no-kings-4-make-a-plan-to-vote-100168/",
+    "category": "other"
+  },
+  {
     "id": "4ccedfc9adc3",
     "title": "Home Maintenance Workshops",
     "date": "2026-10-17",
@@ -416,8 +403,8 @@
     "category": "other"
   },
   {
-    "id": "38164305afe6",
-    "title": "No Kings Early Vote Bridge Brigade",
+    "id": "92a9ec59c5d6",
+    "title": "No Kings-Vote Early Bridge Brigade",
     "date": "2026-10-17",
     "time": "12:00pm - 1:30pm",
     "location": "1500 N Potomac StArlington,Virginia22205",
@@ -425,7 +412,7 @@
     "description": "No description available",
     "ageRange": "all ages",
     "cost": "Free",
-    "url": "https://www.arlnow.com/events/no-kings-early-vote-bridge-brigade-100075/",
+    "url": "https://www.arlnow.com/events/no-kings-vote-early-bridge-brigade-100166/",
     "category": "other"
   },
   {
@@ -452,6 +439,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/rally-for-marriage-equality-100029/",
+    "category": "other"
+  },
+  {
+    "id": "802a2652b764",
+    "title": "No Kings 4 VOTE EARLY!",
+    "date": "2026-10-17",
+    "time": "1:30pm - 3:00pm",
+    "location": "6800 Langston Blvd.Arlington,Virginia22213",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/no-kings-4-vote-early-100167/",
     "category": "other"
   },
   {
@@ -634,19 +634,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/terborgh-terrace-gardens-workday-100011/",
-    "category": "other"
-  },
-  {
-    "id": "371adb6c4990",
-    "title": "Halloween Origami Workshop for All Ages",
-    "date": "2026-10-21",
-    "time": "3:00pm - 5:00pm",
-    "location": "735 18th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/halloween-origami-workshop-for-all-ages-28927/",
     "category": "other"
   }
 ]
