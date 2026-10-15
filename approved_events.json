@@ -1,58 +1,6 @@
 [
   {
-    "id": "f136c6371812",
-    "title": "Storytime",
-    "date": "2026-10-14",
-    "time": "10:30am - 11:15am",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/storytime-29220/",
-    "category": "other"
-  },
-  {
-    "id": "6eef8b891132",
-    "title": "Community Volunteer Reading Night",
-    "date": "2026-10-14",
-    "time": "5:00pm - 6:00pm",
-    "location": "909 S Dinwiddie St 3rd FloorArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/community-volunteer-reading-night-28049/",
-    "category": "other"
-  },
-  {
-    "id": "85481120ea79",
-    "title": "Preparing to Sell Your Home",
-    "date": "2026-10-14",
-    "time": "6:30pm - 7:30pm",
-    "location": "735 18th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/preparing-to-sell-your-home-28899/",
-    "category": "other"
-  },
-  {
-    "id": "cf8b2d101566",
-    "title": "Is Arlington Prepared for a Silver Tsunami Across a Range of Services and Needs?",
-    "date": "2026-10-14",
-    "time": "6:45pm - 8:00pm",
-    "location": "300 N Park DriveArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/is-arlington-prepared-for-a-silver-tsunami-across-a-range-of-services-and-needs-29249/",
-    "category": "other"
-  },
-  {
-    "id": "0d9e6446e0d7",
+    "id": "68fee3a825d1",
     "title": "2026 Yorktown Crew Winter Fundraiser",
     "date": "2026-10-15",
     "time": "12:01am - 11:59pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "7ca6a3105ed9",
+    "id": "d8f4895e9fb1",
     "title": "Arts and Coffee: Make Ceramic Charms (All levels) at Art House 7",
     "date": "2026-10-15",
     "time": "10:00am - 12:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "a34463c1dbe3",
+    "id": "3a967b32be82",
     "title": "Arts and Coffee: Conversation and Art History \u2013 Vincent Van Gogh at Art House 7",
     "date": "2026-10-15",
     "time": "11:00am - 12:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "3129008edc35",
+    "id": "42f0442d443b",
     "title": "Powering the AI Decade: Data Center Policy Forum",
     "date": "2026-10-15",
     "time": "11:00am - 4:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "ee0396f5dcec",
+    "id": "e838e382f50c",
     "title": "Fall Job Fair at Fashion Centre at Pentagon City",
     "date": "2026-10-15",
     "time": "1:00pm - 6:00pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "5c3164cc98fe",
+    "id": "06e8ffc3113d",
     "title": "Embassies & Entrepreneurs: A Global Community Celebration",
     "date": "2026-10-15",
     "time": "3:30pm - 6:00pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "350f2771633d",
+    "id": "4007f0df3712",
     "title": "Fund Her Game Charity Launch",
     "date": "2026-10-15",
     "time": "6:00pm - 8:00pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "6ce4ca65ad8d",
+    "id": "276e94d3de92",
     "title": "Pilates w/ Mind the Mat",
     "date": "2026-10-15",
     "time": "6:00pm - 7:00pm",
@@ -156,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "257c909e97fe",
+    "id": "80cd6a54e607",
     "title": "Election Bingo & Trivia sponsored by the League of Women Voters",
     "date": "2026-10-15",
     "time": "7:00pm - 9:00pm",
@@ -468,6 +416,19 @@
     "category": "other"
   },
   {
+    "id": "d66438b863c7",
+    "title": "Let\u2019s Talk Books!",
+    "date": "2026-10-17",
+    "time": "2:30pm - 3:30pm",
+    "location": "300 South Kensington StArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/lets-talk-books-100183/",
+    "category": "other"
+  },
+  {
     "id": "af3c7e0bdd32",
     "title": "Planetarium Shows",
     "date": "2026-10-17",
@@ -634,6 +595,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/terborgh-terrace-gardens-workday-100011/",
+    "category": "other"
+  },
+  {
+    "id": "371adb6c4990",
+    "title": "Halloween Origami Workshop for All Ages",
+    "date": "2026-10-21",
+    "time": "3:00pm - 5:00pm",
+    "location": "735 18th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/halloween-origami-workshop-for-all-ages-28927/",
+    "category": "other"
+  },
+  {
+    "id": "61fbabc2f62d",
+    "title": "Auditions: The Lightning Thief: The Percy Jackson Musical",
+    "date": "2026-10-21",
+    "time": "5:30pm - 8:00pm",
+    "location": "3701 Lorcom LnArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/auditions-the-lightning-thief-the-percy-jackson-musical-26437/",
+    "category": "other"
+  },
+  {
+    "id": "cc427e2b7132",
+    "title": "Auditions: The Lightning Thief | Encore Stage & Studio",
+    "date": "2026-10-21",
+    "time": "5:30pm - 8:30pm",
+    "location": "3701 Lorcom LaneArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/auditions-the-lightning-thief-encore-stage-studio-29026/",
     "category": "other"
   }
 ]
