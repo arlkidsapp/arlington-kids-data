@@ -1,123 +1,6 @@
 [
   {
-    "id": "68fee3a825d1",
-    "title": "2026 Yorktown Crew Winter Fundraiser",
-    "date": "2026-10-15",
-    "time": "12:01am - 11:59pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/2026-yorktown-crew-winter-fundraiser-100087/",
-    "category": "other"
-  },
-  {
-    "id": "d8f4895e9fb1",
-    "title": "Arts and Coffee: Make Ceramic Charms (All levels) at Art House 7",
-    "date": "2026-10-15",
-    "time": "10:00am - 12:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/arts-and-coffee-make-ceramic-charms-all-levels-at-art-house-7-29170/",
-    "category": "other"
-  },
-  {
-    "id": "3a967b32be82",
-    "title": "Arts and Coffee: Conversation and Art History \u2013 Vincent Van Gogh at Art House 7",
-    "date": "2026-10-15",
-    "time": "11:00am - 12:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/arts-and-coffee-conversation-and-art-history-vincent-van-gogh-at-art-house-7-26576/",
-    "category": "other"
-  },
-  {
-    "id": "42f0442d443b",
-    "title": "Powering the AI Decade: Data Center Policy Forum",
-    "date": "2026-10-15",
-    "time": "11:00am - 4:00pm",
-    "location": "1850 Towers Cres Plaza, Tysons, VA 22102Tysons,Virginia22102",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/powering-the-ai-decade-data-center-policy-forum-100123/",
-    "category": "other"
-  },
-  {
-    "id": "e838e382f50c",
-    "title": "Fall Job Fair at Fashion Centre at Pentagon City",
-    "date": "2026-10-15",
-    "time": "1:00pm - 6:00pm",
-    "location": "1100 S. Hayes St.Arlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/fall-job-fair-at-fashion-centre-at-pentagon-city-100089/",
-    "category": "other"
-  },
-  {
-    "id": "06e8ffc3113d",
-    "title": "Embassies & Entrepreneurs: A Global Community Celebration",
-    "date": "2026-10-15",
-    "time": "3:30pm - 6:00pm",
-    "location": "3383 Fairfax Dr.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/embassies-entrepreneurs-a-global-community-celebration-28604/",
-    "category": "other"
-  },
-  {
-    "id": "4007f0df3712",
-    "title": "Fund Her Game Charity Launch",
-    "date": "2026-10-15",
-    "time": "6:00pm - 8:00pm",
-    "location": "5849 Washington BoulevardArlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/fund-her-game-charity-launch-28241/",
-    "category": "other"
-  },
-  {
-    "id": "276e94d3de92",
-    "title": "Pilates w/ Mind the Mat",
-    "date": "2026-10-15",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pilates-w-mind-the-mat-29222/",
-    "category": "other"
-  },
-  {
-    "id": "80cd6a54e607",
-    "title": "Election Bingo & Trivia sponsored by the League of Women Voters",
-    "date": "2026-10-15",
-    "time": "7:00pm - 9:00pm",
-    "location": "2300 Clarendon BlvdArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/election-bingo-trivia-sponsored-by-the-league-of-women-voters-100148/",
-    "category": "other"
-  },
-  {
-    "id": "2cb56c810279",
+    "id": "528708268424",
     "title": "Memorial Arboretum Walking Tour",
     "date": "2026-10-16",
     "time": "9:00am - 11:00am",
@@ -130,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "cb1e4623504e",
+    "id": "12973ce02e38",
     "title": "Lawn Games Social",
     "date": "2026-10-16",
     "time": "3:00pm - 4:30pm",
@@ -143,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "65c96c046144",
+    "id": "8aaee8a44777",
     "title": "Zumba Power Hour",
     "date": "2026-10-16",
     "time": "5:30pm - 6:30pm",
@@ -156,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "bb49f61ad515",
+    "id": "fbe572360815",
     "title": "D\u00eda de los Muertos Crafting Social \u2014 Catrina Costumes",
     "date": "2026-10-16",
     "time": "6:00pm - 8:00pm",
@@ -169,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "0e6cd7f34311",
+    "id": "5e27ea527613",
     "title": "New Date \u2013 Dance The Line \u2013 A Country Swing & Line Dancing Social at Westpost",
     "date": "2026-10-16",
     "time": "6:00pm - 9:00pm",
@@ -182,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "db0bead74caa",
+    "id": "33795f430fff",
     "title": "An Evening of History Under the Stars",
     "date": "2026-10-16",
     "time": "6:00pm - 9:00pm",
@@ -195,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "fd64e0a6b642",
+    "id": "e6e2a5060ce4",
     "title": "Sunset Cinemas",
     "date": "2026-10-16",
     "time": "6:45pm - 8:30pm",
@@ -208,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "b7c5263ef90b",
+    "id": "d4a4276f72cc",
     "title": "See Hansel & Gretel with Encore Stage & Studio",
     "date": "2026-10-16",
     "time": "7:00pm - 9:00pm",
@@ -218,6 +101,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/see-hansel-gretel-with-encore-stage-studio-27699/",
+    "category": "other"
+  },
+  {
+    "id": "768acbaa793b",
+    "title": "Avant Bard Theatre\u2019s Scripts in Play Festival \u2013 Gracie vs. The People",
+    "date": "2026-10-16",
+    "time": "7:30pm - 9:30pm",
+    "location": "3550 Wilson Blvd.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/avant-bard-theatres-scripts-in-play-festival-gracie-vs-the-people-100232/",
     "category": "other"
   },
   {
@@ -507,6 +403,19 @@
     "category": "other"
   },
   {
+    "id": "5a60f96b0782",
+    "title": "Avant Bard Theatre\u2019s Scripts in Play Festival \u2013 Gracie vs. The People",
+    "date": "2026-10-18",
+    "time": "2:00pm - 4:00pm",
+    "location": "3601 Fairfax Dr.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/avant-bard-theatres-scripts-in-play-festival-gracie-vs-the-people-100233/",
+    "category": "other"
+  },
+  {
     "id": "252a82debb79",
     "title": "Kol Ami Open House",
     "date": "2026-10-18",
@@ -634,6 +543,97 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/auditions-the-lightning-thief-encore-stage-studio-29026/",
+    "category": "other"
+  },
+  {
+    "id": "7868ec0574cf",
+    "title": "Little City Dinner Club",
+    "date": "2026-10-21",
+    "time": "6:30pm - 9:00pm",
+    "location": "300 Park AvenueFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/little-city-dinner-club-29130/",
+    "category": "other"
+  },
+  {
+    "id": "f14b55e6ac87",
+    "title": "Howl-ween! Dog Costume Contest",
+    "date": "2026-10-22",
+    "time": "5:00pm - 7:00pm",
+    "location": "1330 S Fair StreetArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/howl-ween-dog-costume-contest-28719/",
+    "category": "other"
+  },
+  {
+    "id": "593bd965526a",
+    "title": "Columbia Pike Death Cafe",
+    "date": "2026-10-22",
+    "time": "6:00pm - 7:30pm",
+    "location": "816 South Walter Reed DriveArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/816-south-walter-reed-drive-29040/",
+    "category": "other"
+  },
+  {
+    "id": "4df3dae1bb54",
+    "title": "Steamy v Spooky: A Genre Battle Author Panel",
+    "date": "2026-10-22",
+    "time": "7:00pm - 8:00pm",
+    "location": "2200 N Westmoreland StArlington,Virginia22213",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/steamy-v-spooky-a-genre-battle-author-panel-100065/",
+    "category": "other"
+  },
+  {
+    "id": "4ad14ce3da29",
+    "title": "Plant Health Care Walking Tour",
+    "date": "2026-10-23",
+    "time": "9:00am - 11:00am",
+    "location": "1 Memorial AveFort Myer,Virginia22211",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/plant-health-care-walking-tour-29140/",
+    "category": "other"
+  },
+  {
+    "id": "bb2c5d592a11",
+    "title": "Art Night \u2013 Try the Pottery Wheel, BYOB at Art House 7",
+    "date": "2026-10-23",
+    "time": "7:00pm - 9:00pm",
+    "location": "5537 Langston Blvd.Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/art-night-try-the-pottery-wheel-byob-at-art-house-7-28014/",
+    "category": "other"
+  },
+  {
+    "id": "f1c55fbbbb7a",
+    "title": "Run, Recline + Recreate with Liberty",
+    "date": "2026-10-24",
+    "time": "8:00am - 11:30am",
+    "location": "3550 Wilson Blvd.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/run-recline-recreate-with-liberty-28759/",
     "category": "other"
   }
 ]
