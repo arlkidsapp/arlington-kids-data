@@ -1,123 +1,6 @@
 [
   {
-    "id": "528708268424",
-    "title": "Memorial Arboretum Walking Tour",
-    "date": "2026-10-16",
-    "time": "9:00am - 11:00am",
-    "location": "1 Memorial AveFort Myer,Virginia22211",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/memorial-arboretum-walking-tour-29139/",
-    "category": "other"
-  },
-  {
-    "id": "12973ce02e38",
-    "title": "Lawn Games Social",
-    "date": "2026-10-16",
-    "time": "3:00pm - 4:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/lawn-games-social-29224/",
-    "category": "other"
-  },
-  {
-    "id": "8aaee8a44777",
-    "title": "Zumba Power Hour",
-    "date": "2026-10-16",
-    "time": "5:30pm - 6:30pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/zumba-power-hour-29225/",
-    "category": "other"
-  },
-  {
-    "id": "fbe572360815",
-    "title": "D\u00eda de los Muertos Crafting Social \u2014 Catrina Costumes",
-    "date": "2026-10-16",
-    "time": "6:00pm - 8:00pm",
-    "location": "525 14th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/da-de-los-muertos-crafting-social-catrina-costumes-29180/",
-    "category": "other"
-  },
-  {
-    "id": "5e27ea527613",
-    "title": "New Date \u2013 Dance The Line \u2013 A Country Swing & Line Dancing Social at Westpost",
-    "date": "2026-10-16",
-    "time": "6:00pm - 9:00pm",
-    "location": "1201 South Joyce StreetArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/new-date-dance-the-line-a-country-swing-line-dancing-social-at-westpost-100028/",
-    "category": "other"
-  },
-  {
-    "id": "33795f430fff",
-    "title": "An Evening of History Under the Stars",
-    "date": "2026-10-16",
-    "time": "6:00pm - 9:00pm",
-    "location": "1426 N. Quincy StreetArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/an-evening-of-history-under-the-stars-100105/",
-    "category": "other"
-  },
-  {
-    "id": "e6e2a5060ce4",
-    "title": "Sunset Cinemas",
-    "date": "2026-10-16",
-    "time": "6:45pm - 8:30pm",
-    "location": "312 Park AvenueFalls Church,Virginia22046",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sunset-cinemas-27630/",
-    "category": "other"
-  },
-  {
-    "id": "d4a4276f72cc",
-    "title": "See Hansel & Gretel with Encore Stage & Studio",
-    "date": "2026-10-16",
-    "time": "7:00pm - 9:00pm",
-    "location": "125 S. Old Glebe Rd.Arlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/see-hansel-gretel-with-encore-stage-studio-27699/",
-    "category": "other"
-  },
-  {
-    "id": "768acbaa793b",
-    "title": "Avant Bard Theatre\u2019s Scripts in Play Festival \u2013 Gracie vs. The People",
-    "date": "2026-10-16",
-    "time": "7:30pm - 9:30pm",
-    "location": "3550 Wilson Blvd.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/avant-bard-theatres-scripts-in-play-festival-gracie-vs-the-people-100232/",
-    "category": "other"
-  },
-  {
-    "id": "fb4aeb67437c",
+    "id": "c82da5ad80c7",
     "title": "Fall 2026 E-CARE",
     "date": "2026-10-17",
     "time": "8:30am - 3:00pm",
@@ -130,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "2da621d9bfa0",
+    "id": "c9c832a325c9",
     "title": "Used Bicycle Drive",
     "date": "2026-10-17",
     "time": "8:30am - 3:00pm",
@@ -143,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "7832006c0d7a",
+    "id": "afba1b84aad7",
     "title": "Falls Church Arts Plein Air Festival Postponed to October 17 Due to Storms",
     "date": "2026-10-17",
     "time": "9:00am - 12:00pm",
@@ -156,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "d71e1e0fdc65",
+    "id": "ea47a3242b22",
     "title": "Rhythm & Brews",
     "date": "2026-10-17",
     "time": "9:00am - 11:00am",
@@ -169,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "33b49f57eb0a",
+    "id": "11ccdbcb4458",
     "title": "Exercise Your Right to VOTE Walk",
     "date": "2026-10-17",
     "time": "9:00am - 10:30am",
@@ -182,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "894ba87652b0",
+    "id": "5085676da8e0",
     "title": "Exercise Your Right to VOTE Arlington",
     "date": "2026-10-17",
     "time": "9:00am - 10:30am",
@@ -195,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "df37204d246b",
+    "id": "070c275840bf",
     "title": "Exercise Your Right to VOTE Arlington Walk",
     "date": "2026-10-17",
     "time": "9:00am - 10:30am",
@@ -208,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "dd3a66e6c2ef",
+    "id": "d64f861e1968",
     "title": "No Kings 4 \u2013 Make a Plan to Vote!",
     "date": "2026-10-17",
     "time": "9:30am - 11:30am",
@@ -221,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "4ccedfc9adc3",
+    "id": "bc791658f558",
     "title": "Home Maintenance Workshops",
     "date": "2026-10-17",
     "time": "10:00am - 1:00pm",
@@ -234,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "e01c6f00fbc5",
+    "id": "bb6ea5f3570d",
     "title": "Theresa\u2019s Table slow shopping holiday event",
     "date": "2026-10-17",
     "time": "11:00am - 4:00pm",
@@ -247,7 +130,7 @@
     "category": "other"
   },
   {
-    "id": "92a9ec59c5d6",
+    "id": "dad2bad09610",
     "title": "No Kings-Vote Early Bridge Brigade",
     "date": "2026-10-17",
     "time": "12:00pm - 1:30pm",
@@ -260,7 +143,7 @@
     "category": "other"
   },
   {
-    "id": "d19a64e42a88",
+    "id": "4a23ce22ed0b",
     "title": "Fairlington Fall Pet Festival",
     "date": "2026-10-17",
     "time": "1:00pm - 5:00pm",
@@ -273,7 +156,7 @@
     "category": "other"
   },
   {
-    "id": "4d2c5c98df9a",
+    "id": "532a3110e07c",
     "title": "Rally for Marriage Equality",
     "date": "2026-10-17",
     "time": "1:00pm - 2:00pm",
@@ -286,7 +169,7 @@
     "category": "other"
   },
   {
-    "id": "802a2652b764",
+    "id": "6822b96aeafb",
     "title": "No Kings 4 VOTE EARLY!",
     "date": "2026-10-17",
     "time": "1:30pm - 3:00pm",
@@ -299,7 +182,7 @@
     "category": "other"
   },
   {
-    "id": "1cd8ef952601",
+    "id": "c10ab28494eb",
     "title": "Enchanted Forest Scavenger Hunt Adventure: A Hansel & Gretel Pre-Show Experience",
     "date": "2026-10-17",
     "time": "2:00pm - 2:30pm",
@@ -312,7 +195,7 @@
     "category": "other"
   },
   {
-    "id": "d66438b863c7",
+    "id": "86a8c68584b1",
     "title": "Let\u2019s Talk Books!",
     "date": "2026-10-17",
     "time": "2:30pm - 3:30pm",
@@ -325,7 +208,7 @@
     "category": "other"
   },
   {
-    "id": "af3c7e0bdd32",
+    "id": "074fc07dd99b",
     "title": "Planetarium Shows",
     "date": "2026-10-17",
     "time": "6:00pm - 8:30pm",
@@ -338,7 +221,7 @@
     "category": "other"
   },
   {
-    "id": "d1094f285408",
+    "id": "fe3ccd8987fb",
     "title": "Concert: Valeria Stewart & Trio",
     "date": "2026-10-17",
     "time": "6:30pm - 8:30pm",
@@ -611,6 +494,19 @@
     "category": "other"
   },
   {
+    "id": "4e7ed45fffe5",
+    "title": "Sunset Cinemas \u2013 Jumanji",
+    "date": "2026-10-23",
+    "time": "6:45pm - 8:30pm",
+    "location": "312 Park Ave.Falls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sunset-cinemas-jumanji-100245/",
+    "category": "other"
+  },
+  {
     "id": "bb2c5d592a11",
     "title": "Art Night \u2013 Try the Pottery Wheel, BYOB at Art House 7",
     "date": "2026-10-23",
@@ -634,6 +530,110 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/run-recline-recreate-with-liberty-28759/",
+    "category": "other"
+  },
+  {
+    "id": "d76cca10e347",
+    "title": "Kol Ami Tot Shabbat",
+    "date": "2026-10-24",
+    "time": "11:00am - 12:00pm",
+    "location": "4444 Arlington Blvd.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/kol-ami-tot-shabbat-27843/",
+    "category": "other"
+  },
+  {
+    "id": "38274df10db5",
+    "title": "Fall Family Celebration",
+    "date": "2026-10-24",
+    "time": "12:00pm - 3:00pm",
+    "location": "3411 Arlington Blvd.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fall-family-celebration-29248/",
+    "category": "other"
+  },
+  {
+    "id": "5a787629bdc7",
+    "title": "Annual Community Trunk-or-Treat at Pentagon MMA",
+    "date": "2026-10-24",
+    "time": "12:00pm - 2:30pm",
+    "location": "1041 S. Edgewood St.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/annual-community-trunk-or-treat-at-pentagon-mma-29250/",
+    "category": "other"
+  },
+  {
+    "id": "f7d3e8a9088e",
+    "title": "Halloween Carnival",
+    "date": "2026-10-24",
+    "time": "1:00pm - 5:30pm",
+    "location": "312 Park Ave.Falls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/halloween-carnival-100018/",
+    "category": "other"
+  },
+  {
+    "id": "af5014e57a90",
+    "title": "15th Annual Mosaic International Showcase at Fashion Centre at Pentagon City",
+    "date": "2026-10-24",
+    "time": "1:00pm - 3:00pm",
+    "location": "1100 S. Hayes St.Arlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/15th-annual-mosaic-international-showcase-at-fashion-centre-at-pentagon-city-100137/",
+    "category": "other"
+  },
+  {
+    "id": "21deba15a6a6",
+    "title": "Halloween Trick or Treat Trail at Village at Shirlington",
+    "date": "2026-10-24",
+    "time": "2:00pm - 4:00pm",
+    "location": "2700 South Quincy StreetArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/halloween-trick-or-treat-trail-at-village-at-shirlington-28011/",
+    "category": "other"
+  },
+  {
+    "id": "53bd57a38dde",
+    "title": "Pre-Show Experience:  Halloween Costume Party",
+    "date": "2026-10-24",
+    "time": "2:00pm - 2:30pm",
+    "location": "125 S. Old Glebe Rd.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/pre-show-experience-halloween-costume-party-28786/",
+    "category": "other"
+  },
+  {
+    "id": "6c10bc238d11",
+    "title": "Fiber Arts Series @ the Innovation Studio \u2014 Drop-in Crochet",
+    "date": "2026-10-24",
+    "time": "2:30pm - 4:00pm",
+    "location": "525 14th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fiber-arts-series-the-innovation-studio-drop-in-crochet-28505/",
     "category": "other"
   }
 ]
