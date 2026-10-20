@@ -1,19 +1,19 @@
 [
   {
-    "id": "e6c01f9959fe",
-    "title": "Art Night: Conversation and Art History \u2013 Vincent Van Gogh at Art House 7",
-    "date": "2026-10-19",
-    "time": "7:00pm - 8:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
+    "id": "6df261dcff16",
+    "title": "Potty Training Without the Power Struggles: A Calm, Child-Ready Approach",
+    "date": "2026-10-20",
+    "time": "1:30pm - 2:30pm",
+    "location": "Arlington, VA",
     "address": null,
     "description": "No description available",
     "ageRange": "all ages",
     "cost": "Free",
-    "url": "https://www.arlnow.com/events/art-night-conversation-and-art-history-vincent-van-gogh-at-art-house-7-26582/",
+    "url": "https://www.arlnow.com/events/potty-training-without-the-power-struggles-a-calm-child-ready-approach-100292/",
     "category": "other"
   },
   {
-    "id": "4492b3265012",
+    "id": "7e939d7a4ca4",
     "title": "Arlington County Board issuance of Filipino American History Month proclamation",
     "date": "2026-10-20",
     "time": "3:00pm - 4:30pm",
@@ -26,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "f565f3b39ddb",
+    "id": "e81ec9ba6873",
     "title": "Aspire\u2019s Student Showcase: Celebrating Lights On Afterschool",
     "date": "2026-10-20",
     "time": "4:30pm - 6:30pm",
@@ -39,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "5b87627b38b2",
+    "id": "5719c415f60c",
     "title": "Auditions & Crew Interviews: The Lightning Thief: The Percy Jackson Musical",
     "date": "2026-10-20",
     "time": "5:30pm - 8:00pm",
@@ -52,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "8ecdb057af90",
+    "id": "0220f05e620d",
     "title": "Auditions: The Lightning Thief | Encore Stage & Studio",
     "date": "2026-10-20",
     "time": "5:30pm - 8:30pm",
@@ -257,6 +257,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/annual-community-trunk-or-treat-at-pentagon-mma-29250/",
+    "category": "other"
+  },
+  {
+    "id": "d3aecbbf1851",
+    "title": "Finals, Fans, & Freebies: WNBA Playoff Finals Watch Party",
+    "date": "2026-10-24",
+    "time": "12:00pm - 3:00pm",
+    "location": "5849 Washington BoulevardArlington,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/finals-fans-freebies-wnba-playoff-finals-watch-party-100286/",
     "category": "other"
   },
   {
@@ -494,6 +507,32 @@
     "category": "other"
   },
   {
+    "id": "50c2ed5a3e37",
+    "title": "Bingo for Cancer Care",
+    "date": "2026-10-27",
+    "time": "6:00pm - 8:00pm",
+    "location": "1701 N. George Mason DriveArlington,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/bingo-for-cancer-care-100284/",
+    "category": "other"
+  },
+  {
+    "id": "696885ba002a",
+    "title": "Courthouse Library Death Cafe",
+    "date": "2026-10-27",
+    "time": "6:00pm - 7:30pm",
+    "location": "2100 Clarendon BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/courthouse-library-death-cafe-100302/",
+    "category": "other"
+  },
+  {
     "id": "e06bfb2e02b6",
     "title": "Author Talk: Alma Katsu on \u201cIncarnate\u201d",
     "date": "2026-10-27",
@@ -530,6 +569,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/embassies-and-entrepreneurs-postponed-from-101526-100181/",
+    "category": "other"
+  },
+  {
+    "id": "d8d7849c206c",
+    "title": "Potty Training Without the Power Struggles",
+    "date": "2026-10-28",
+    "time": "3:45pm - 4:30pm",
+    "location": "1015 N Quincy stArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/potty-training-without-the-power-struggles-100289/",
     "category": "other"
   },
   {
@@ -595,58 +647,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/color-stories-28809/",
-    "category": "other"
-  },
-  {
-    "id": "01d5022ae86d",
-    "title": "Harvest Festival: A taste of Fall",
-    "date": "2026-10-29",
-    "time": "5:30pm - 8:00pm",
-    "location": "2100 Washington BlvdArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/harvest-festival-a-taste-of-fall-28830/",
-    "category": "other"
-  },
-  {
-    "id": "63f7f49e8bd4",
-    "title": "Building Your New Mom Village Mixer",
-    "date": "2026-10-29",
-    "time": "5:30pm - 7:30pm",
-    "location": "2832 Dorr Ave. Ste DFairfax,Virginia22031",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/building-your-new-mom-village-mixer-100229/",
-    "category": "other"
-  },
-  {
-    "id": "40be48597a4e",
-    "title": "The Vaccine Trifecta: The Intersection of Science, Policy, and Politics",
-    "date": "2026-10-29",
-    "time": "6:00pm - 7:30pm",
-    "location": "1701 N. George Mason Drive (Green Garage)Arlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-vaccine-trifecta-the-intersection-of-science-policy-and-politics-29024/",
-    "category": "other"
-  },
-  {
-    "id": "370df1f2d540",
-    "title": "Tiles, Tricks, & Treats: Halloween Mahjong @ Montahj Social",
-    "date": "2026-10-29",
-    "time": "6:30pm - 10:00pm",
-    "location": "4245 Fairfax DriveArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/tiles-tricks-treats-halloween-mahjong-montahj-social-29201/",
     "category": "other"
   }
 ]
