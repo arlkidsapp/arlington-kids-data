@@ -1,71 +1,6 @@
 [
   {
-    "id": "6df261dcff16",
-    "title": "Potty Training Without the Power Struggles: A Calm, Child-Ready Approach",
-    "date": "2026-10-20",
-    "time": "1:30pm - 2:30pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/potty-training-without-the-power-struggles-a-calm-child-ready-approach-100292/",
-    "category": "other"
-  },
-  {
-    "id": "7e939d7a4ca4",
-    "title": "Arlington County Board issuance of Filipino American History Month proclamation",
-    "date": "2026-10-20",
-    "time": "3:00pm - 4:30pm",
-    "location": "2100 Clarendon BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/arlington-county-board-issuance-of-filipino-american-history-month-proclamation-100278/",
-    "category": "other"
-  },
-  {
-    "id": "e81ec9ba6873",
-    "title": "Aspire\u2019s Student Showcase: Celebrating Lights On Afterschool",
-    "date": "2026-10-20",
-    "time": "4:30pm - 6:30pm",
-    "location": "909 S Dinwiddie St 3rd FloorArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/aspires-student-showcase-celebrating-lights-on-afterschool-28189/",
-    "category": "other"
-  },
-  {
-    "id": "5719c415f60c",
-    "title": "Auditions & Crew Interviews: The Lightning Thief: The Percy Jackson Musical",
-    "date": "2026-10-20",
-    "time": "5:30pm - 8:00pm",
-    "location": "3701 Lorcom LnArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/auditions-crew-interviews-the-lightning-thief-the-percy-jackson-musical-26435/",
-    "category": "other"
-  },
-  {
-    "id": "0220f05e620d",
-    "title": "Auditions: The Lightning Thief | Encore Stage & Studio",
-    "date": "2026-10-20",
-    "time": "5:30pm - 8:30pm",
-    "location": "3701 Lorcom LaneArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/auditions-the-lightning-thief-encore-stage-studio-29025/",
-    "category": "other"
-  },
-  {
-    "id": "26f93ca3e76d",
+    "id": "3a955b666f26",
     "title": "Terborgh Terrace Gardens Workday",
     "date": "2026-10-21",
     "time": "9:30am - 11:30am",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "371adb6c4990",
+    "id": "52c8ec5f0b3d",
     "title": "Halloween Origami Workshop for All Ages",
     "date": "2026-10-21",
     "time": "3:00pm - 5:00pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "61fbabc2f62d",
+    "id": "53fef8d08939",
     "title": "Auditions: The Lightning Thief: The Percy Jackson Musical",
     "date": "2026-10-21",
     "time": "5:30pm - 8:00pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "cc427e2b7132",
+    "id": "0220f05e620d",
     "title": "Auditions: The Lightning Thief | Encore Stage & Studio",
     "date": "2026-10-21",
     "time": "5:30pm - 8:30pm",
@@ -117,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "7868ec0574cf",
+    "id": "68586bc49b4a",
     "title": "Little City Dinner Club",
     "date": "2026-10-21",
     "time": "6:30pm - 9:00pm",
@@ -127,6 +62,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/little-city-dinner-club-29130/",
+    "category": "other"
+  },
+  {
+    "id": "2635ac76e62e",
+    "title": "Project PEACE Sexual Assault 101 Training",
+    "date": "2026-10-22",
+    "time": "9:00am - 3:00pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/project-peace-sexual-assault-101-training-100316/",
     "category": "other"
   },
   {
@@ -507,6 +455,19 @@
     "category": "other"
   },
   {
+    "id": "e2f086963622",
+    "title": "Cybastion Fusion Center Job Fair for IT, Defense and Intelligence Professionals",
+    "date": "2026-10-27",
+    "time": "9:30am - 6:00pm",
+    "location": "3401 Fairfax DriveArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/cybastion-fusion-center-job-fair-for-it-defense-and-intelligence-professionals-100333/",
+    "category": "other"
+  },
+  {
     "id": "50c2ed5a3e37",
     "title": "Bingo for Cancer Care",
     "date": "2026-10-27",
@@ -647,6 +608,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/color-stories-28809/",
+    "category": "other"
+  },
+  {
+    "id": "01d5022ae86d",
+    "title": "Harvest Festival: A taste of Fall",
+    "date": "2026-10-29",
+    "time": "5:30pm - 8:00pm",
+    "location": "2100 Washington BlvdArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/harvest-festival-a-taste-of-fall-28830/",
+    "category": "other"
+  },
+  {
+    "id": "63f7f49e8bd4",
+    "title": "Building Your New Mom Village Mixer",
+    "date": "2026-10-29",
+    "time": "5:30pm - 7:30pm",
+    "location": "2832 Dorr Ave. Ste DFairfax,Virginia22031",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/building-your-new-mom-village-mixer-100229/",
+    "category": "other"
+  },
+  {
+    "id": "2f7873e3843e",
+    "title": "Spooky Boozy Book Fair",
+    "date": "2026-10-29",
+    "time": "5:30pm - 8:00pm",
+    "location": "110 E Fairfax StreetFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/spooky-boozy-book-fair-100287/",
     "category": "other"
   }
 ]
