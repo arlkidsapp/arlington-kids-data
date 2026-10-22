@@ -1,71 +1,6 @@
 [
   {
-    "id": "3a955b666f26",
-    "title": "Terborgh Terrace Gardens Workday",
-    "date": "2026-10-21",
-    "time": "9:30am - 11:30am",
-    "location": "4578 26th St NArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/terborgh-terrace-gardens-workday-100011/",
-    "category": "other"
-  },
-  {
-    "id": "52c8ec5f0b3d",
-    "title": "Halloween Origami Workshop for All Ages",
-    "date": "2026-10-21",
-    "time": "3:00pm - 5:00pm",
-    "location": "735 18th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/halloween-origami-workshop-for-all-ages-28927/",
-    "category": "other"
-  },
-  {
-    "id": "53fef8d08939",
-    "title": "Auditions: The Lightning Thief: The Percy Jackson Musical",
-    "date": "2026-10-21",
-    "time": "5:30pm - 8:00pm",
-    "location": "3701 Lorcom LnArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/auditions-the-lightning-thief-the-percy-jackson-musical-26437/",
-    "category": "other"
-  },
-  {
-    "id": "0220f05e620d",
-    "title": "Auditions: The Lightning Thief | Encore Stage & Studio",
-    "date": "2026-10-21",
-    "time": "5:30pm - 8:30pm",
-    "location": "3701 Lorcom LaneArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/auditions-the-lightning-thief-encore-stage-studio-29026/",
-    "category": "other"
-  },
-  {
-    "id": "68586bc49b4a",
-    "title": "Little City Dinner Club",
-    "date": "2026-10-21",
-    "time": "6:30pm - 9:00pm",
-    "location": "300 Park AvenueFalls Church,Virginia22046",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/little-city-dinner-club-29130/",
-    "category": "other"
-  },
-  {
-    "id": "2635ac76e62e",
+    "id": "f0f4b36aef1b",
     "title": "Project PEACE Sexual Assault 101 Training",
     "date": "2026-10-22",
     "time": "9:00am - 3:00pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "f14b55e6ac87",
+    "id": "0805286318f2",
     "title": "Howl-ween! Dog Costume Contest",
     "date": "2026-10-22",
     "time": "5:00pm - 7:00pm",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "593bd965526a",
+    "id": "1409ba1e91a9",
     "title": "Columbia Pike Death Cafe",
     "date": "2026-10-22",
     "time": "6:00pm - 7:30pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "4df3dae1bb54",
+    "id": "752c3efa8d84",
     "title": "Steamy v Spooky: A Genre Battle Author Panel",
     "date": "2026-10-22",
     "time": "7:00pm - 8:00pm",
@@ -127,6 +62,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/plant-health-care-walking-tour-29140/",
+    "category": "other"
+  },
+  {
+    "id": "7345e7bbe1fb",
+    "title": "Spooky Happy Hour",
+    "date": "2026-10-23",
+    "time": "4:30pm - 6:00pm",
+    "location": "3130 Langston BoulevardArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/spooky-happy-hour-100339/",
     "category": "other"
   },
   {
@@ -166,6 +114,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/run-recline-recreate-with-liberty-28759/",
+    "category": "other"
+  },
+  {
+    "id": "be20b485134e",
+    "title": "Yorktown Crew 2026 Winter Fundraising Campaign",
+    "date": "2026-10-24",
+    "time": "8:00am - 12:00pm",
+    "location": ".Arlington,Virginia",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/yorktown-crew-2026-winter-fundraising-campaign-100367/",
     "category": "other"
   },
   {
@@ -273,6 +234,19 @@
     "category": "other"
   },
   {
+    "id": "e4b83e098926",
+    "title": "Mask Making & Halloween Parade with Encore Stage & Studio",
+    "date": "2026-10-24",
+    "time": "2:00pm - 4:00pm",
+    "location": "3130 Langston BoulevardArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/mask-making-halloween-parade-with-encore-stage-studio-100340/",
+    "category": "other"
+  },
+  {
     "id": "6c10bc238d11",
     "title": "Fiber Arts Series @ the Innovation Studio \u2014 Drop-in Crochet",
     "date": "2026-10-24",
@@ -377,6 +351,32 @@
     "category": "other"
   },
   {
+    "id": "663574cb763f",
+    "title": "Harvest & Bloom Coffee Truck with Red Bean Harvest Coffee",
+    "date": "2026-10-25",
+    "time": "12:00pm - 3:00pm",
+    "location": "3130 Langston BoulevardArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/harvest-bloom-coffee-truck-with-red-bean-harvest-coffee-100341/",
+    "category": "other"
+  },
+  {
+    "id": "fa3eb0149378",
+    "title": "Interchangeable String Quartet & Friends",
+    "date": "2026-10-25",
+    "time": "1:30pm - 3:30pm",
+    "location": "1700 Wainwright DrReston,Virginia20190",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/interchangeable-string-quartet-friends-100381/",
+    "category": "other"
+  },
+  {
     "id": "09f2f37e7ffb",
     "title": "Stories of Strength: An Up Ending Parkinson\u2019s Film Day",
     "date": "2026-10-25",
@@ -400,6 +400,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/blessing-of-the-animals-st-andrews-episcopal-church-100252/",
+    "category": "other"
+  },
+  {
+    "id": "4af974ccfde0",
+    "title": "Closing Reception Halloween Party",
+    "date": "2026-10-25",
+    "time": "4:00pm - 6:00pm",
+    "location": "3130 Langston BoulevardArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/closing-reception-halloween-party-100342/",
     "category": "other"
   },
   {
@@ -634,19 +647,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/building-your-new-mom-village-mixer-100229/",
-    "category": "other"
-  },
-  {
-    "id": "2f7873e3843e",
-    "title": "Spooky Boozy Book Fair",
-    "date": "2026-10-29",
-    "time": "5:30pm - 8:00pm",
-    "location": "110 E Fairfax StreetFalls Church,Virginia22046",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/spooky-boozy-book-fair-100287/",
     "category": "other"
   }
 ]
