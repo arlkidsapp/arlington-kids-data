@@ -1,58 +1,6 @@
 [
   {
-    "id": "f0f4b36aef1b",
-    "title": "Project PEACE Sexual Assault 101 Training",
-    "date": "2026-10-22",
-    "time": "9:00am - 3:00pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/project-peace-sexual-assault-101-training-100316/",
-    "category": "other"
-  },
-  {
-    "id": "0805286318f2",
-    "title": "Howl-ween! Dog Costume Contest",
-    "date": "2026-10-22",
-    "time": "5:00pm - 7:00pm",
-    "location": "1330 S Fair StreetArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/howl-ween-dog-costume-contest-28719/",
-    "category": "other"
-  },
-  {
-    "id": "1409ba1e91a9",
-    "title": "Columbia Pike Death Cafe",
-    "date": "2026-10-22",
-    "time": "6:00pm - 7:30pm",
-    "location": "816 South Walter Reed DriveArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/816-south-walter-reed-drive-29040/",
-    "category": "other"
-  },
-  {
-    "id": "752c3efa8d84",
-    "title": "Steamy v Spooky: A Genre Battle Author Panel",
-    "date": "2026-10-22",
-    "time": "7:00pm - 8:00pm",
-    "location": "2200 N Westmoreland StArlington,Virginia22213",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/steamy-v-spooky-a-genre-battle-author-panel-100065/",
-    "category": "other"
-  },
-  {
-    "id": "4ad14ce3da29",
+    "id": "ec4b0dab8920",
     "title": "Plant Health Care Walking Tour",
     "date": "2026-10-23",
     "time": "9:00am - 11:00am",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "7345e7bbe1fb",
+    "id": "bb700a52fe6d",
     "title": "Spooky Happy Hour",
     "date": "2026-10-23",
     "time": "4:30pm - 6:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "4e7ed45fffe5",
+    "id": "4e25079883c8",
     "title": "Sunset Cinemas \u2013 Jumanji",
     "date": "2026-10-23",
     "time": "6:45pm - 8:30pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "bb2c5d592a11",
+    "id": "2f0e73ebced2",
     "title": "Art Night \u2013 Try the Pottery Wheel, BYOB at Art House 7",
     "date": "2026-10-23",
     "time": "7:00pm - 9:00pm",
@@ -270,6 +218,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/lee-center-centennial-celebration-and-stumbling-stones-dedication-100026/",
+    "category": "other"
+  },
+  {
+    "id": "edcf74514b13",
+    "title": "Lloyd Wolf: 50 Years Behind the Camera",
+    "date": "2026-10-24",
+    "time": "2:30pm - 4:00pm",
+    "location": "300 South Kensington StArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/lloyd-wolf-50-years-behind-the-camera-100397/",
     "category": "other"
   },
   {
@@ -647,6 +608,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/building-your-new-mom-village-mixer-100229/",
+    "category": "other"
+  },
+  {
+    "id": "2f7873e3843e",
+    "title": "Spooky Boozy Book Fair",
+    "date": "2026-10-29",
+    "time": "5:30pm - 8:00pm",
+    "location": "110 E Fairfax StreetFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/spooky-boozy-book-fair-100287/",
+    "category": "other"
+  },
+  {
+    "id": "40be48597a4e",
+    "title": "The Vaccine Trifecta: The Intersection of Science, Policy, and Politics",
+    "date": "2026-10-29",
+    "time": "6:00pm - 7:30pm",
+    "location": "1701 N. George Mason Drive (Green Garage)Arlington,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-vaccine-trifecta-the-intersection-of-science-policy-and-politics-29024/",
+    "category": "other"
+  },
+  {
+    "id": "826b4937e0e3",
+    "title": "BYO Supper Club \u2013 Spooky Edition!",
+    "date": "2026-10-29",
+    "time": "6:00pm - 7:45pm",
+    "location": "1015 N Quincy StreetArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/byo-supper-club-spooky-edition-100352/",
     "category": "other"
   }
 ]
