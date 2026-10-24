@@ -1,58 +1,6 @@
 [
   {
-    "id": "ec4b0dab8920",
-    "title": "Plant Health Care Walking Tour",
-    "date": "2026-10-23",
-    "time": "9:00am - 11:00am",
-    "location": "1 Memorial AveFort Myer,Virginia22211",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/plant-health-care-walking-tour-29140/",
-    "category": "other"
-  },
-  {
-    "id": "bb700a52fe6d",
-    "title": "Spooky Happy Hour",
-    "date": "2026-10-23",
-    "time": "4:30pm - 6:00pm",
-    "location": "3130 Langston BoulevardArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/spooky-happy-hour-100339/",
-    "category": "other"
-  },
-  {
-    "id": "4e25079883c8",
-    "title": "Sunset Cinemas \u2013 Jumanji",
-    "date": "2026-10-23",
-    "time": "6:45pm - 8:30pm",
-    "location": "312 Park Ave.Falls Church,Virginia22046",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sunset-cinemas-jumanji-100245/",
-    "category": "other"
-  },
-  {
-    "id": "2f0e73ebced2",
-    "title": "Art Night \u2013 Try the Pottery Wheel, BYOB at Art House 7",
-    "date": "2026-10-23",
-    "time": "7:00pm - 9:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/art-night-try-the-pottery-wheel-byob-at-art-house-7-28014/",
-    "category": "other"
-  },
-  {
-    "id": "f1c55fbbbb7a",
+    "id": "09bc9f6347a9",
     "title": "Run, Recline + Recreate with Liberty",
     "date": "2026-10-24",
     "time": "8:00am - 11:30am",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "be20b485134e",
+    "id": "3a810835fe80",
     "title": "Yorktown Crew 2026 Winter Fundraising Campaign",
     "date": "2026-10-24",
     "time": "8:00am - 12:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "d76cca10e347",
+    "id": "a5322eeef429",
     "title": "Kol Ami Tot Shabbat",
     "date": "2026-10-24",
     "time": "11:00am - 12:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "38274df10db5",
+    "id": "7ad7c3b467ea",
     "title": "Fall Family Celebration",
     "date": "2026-10-24",
     "time": "12:00pm - 3:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "5a787629bdc7",
+    "id": "537c9649ef0f",
     "title": "Annual Community Trunk-or-Treat at Pentagon MMA",
     "date": "2026-10-24",
     "time": "12:00pm - 2:30pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "d3aecbbf1851",
+    "id": "1a64738c6138",
     "title": "Finals, Fans, & Freebies: WNBA Playoff Finals Watch Party",
     "date": "2026-10-24",
     "time": "12:00pm - 3:00pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "f7d3e8a9088e",
+    "id": "a792866c090b",
     "title": "Halloween Carnival",
     "date": "2026-10-24",
     "time": "1:00pm - 5:30pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "af5014e57a90",
+    "id": "a42ea73cc207",
     "title": "15th Annual Mosaic International Showcase at Fashion Centre at Pentagon City",
     "date": "2026-10-24",
     "time": "1:00pm - 3:00pm",
@@ -156,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "21deba15a6a6",
+    "id": "74ebfa7fcb21",
     "title": "Halloween Trick or Treat Trail at Village at Shirlington",
     "date": "2026-10-24",
     "time": "2:00pm - 4:00pm",
@@ -169,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "53bd57a38dde",
+    "id": "0f7f1dd77eda",
     "title": "Pre-Show Experience:  Halloween Costume Party",
     "date": "2026-10-24",
     "time": "2:00pm - 2:30pm",
@@ -182,7 +130,7 @@
     "category": "other"
   },
   {
-    "id": "e4b83e098926",
+    "id": "06b41b2184c4",
     "title": "Mask Making & Halloween Parade with Encore Stage & Studio",
     "date": "2026-10-24",
     "time": "2:00pm - 4:00pm",
@@ -195,7 +143,7 @@
     "category": "other"
   },
   {
-    "id": "6c10bc238d11",
+    "id": "97fff9f2e8d8",
     "title": "Fiber Arts Series @ the Innovation Studio \u2014 Drop-in Crochet",
     "date": "2026-10-24",
     "time": "2:30pm - 4:00pm",
@@ -208,7 +156,7 @@
     "category": "other"
   },
   {
-    "id": "5f9360cca0fa",
+    "id": "3101252edd95",
     "title": "Lee Center Centennial Celebration and Stumbling Stones Dedication",
     "date": "2026-10-24",
     "time": "2:30pm - 5:00pm",
@@ -221,7 +169,7 @@
     "category": "other"
   },
   {
-    "id": "edcf74514b13",
+    "id": "85d7818238c6",
     "title": "Lloyd Wolf: 50 Years Behind the Camera",
     "date": "2026-10-24",
     "time": "2:30pm - 4:00pm",
@@ -234,7 +182,7 @@
     "category": "other"
   },
   {
-    "id": "a92138ca0d08",
+    "id": "fd5afe5c42ee",
     "title": "The Arlington Chorale presents For The Earth: Faur\u00e9\u2019s Requiem",
     "date": "2026-10-24",
     "time": "5:00pm - 6:50pm",
@@ -247,7 +195,7 @@
     "category": "other"
   },
   {
-    "id": "1b87548b693e",
+    "id": "8ec1321249f3",
     "title": "Get Your Team Together for Rotary Trivia Night!",
     "date": "2026-10-24",
     "time": "6:00pm - 8:00pm",
@@ -260,7 +208,7 @@
     "category": "other"
   },
   {
-    "id": "c9b389206fe1",
+    "id": "ce2ea0a2520d",
     "title": "DC\u2019s Dancing Stars Gala",
     "date": "2026-10-24",
     "time": "6:00pm - 12:00am",
@@ -273,7 +221,7 @@
     "category": "other"
   },
   {
-    "id": "ec9e2fd582db",
+    "id": "58626d7cd94e",
     "title": "Cinema on the Plaza: Coco",
     "date": "2026-10-24",
     "time": "8:00pm - 10:00pm",
@@ -647,6 +595,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/byo-supper-club-spooky-edition-100352/",
+    "category": "other"
+  },
+  {
+    "id": "370df1f2d540",
+    "title": "Tiles, Tricks, & Treats: Halloween Mahjong @ Montahj Social",
+    "date": "2026-10-29",
+    "time": "6:30pm - 10:00pm",
+    "location": "4245 Fairfax DriveArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/tiles-tricks-treats-halloween-mahjong-montahj-social-29201/",
+    "category": "other"
+  },
+  {
+    "id": "3a8d812cb477",
+    "title": "Symphony Spooktacular Family Concert",
+    "date": "2026-10-30",
+    "time": "5:00pm - 7:00pm",
+    "location": "5200 Yorktown Blvd.Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/symphony-spooktacular-family-concert-100061/",
+    "category": "other"
+  },
+  {
+    "id": "263a03226965",
+    "title": "HALLOWEEN LOCK & KEY SINGLES PARTY at Astro Beer Hall \u2013 Costumes Encouraged! (Ag",
+    "date": "2026-10-30",
+    "time": "6:30pm - 8:30pm",
+    "location": "4001 Campbell AvenueArlington,Virginia22206",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/halloween-lock-key-singles-party-at-astro-beer-hall-costumes-encouraged-ag-29123/",
+    "category": "other"
+  },
+  {
+    "id": "35ff0ef8b996",
+    "title": "A Victorian Spirit & Ghost Walk in Historic Falls Church",
+    "date": "2026-10-30",
+    "time": "7:00pm - 7:45pm",
+    "location": "222 N. Washington StFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/a-victorian-spirit-ghost-walk-in-historic-falls-church-100234/",
     "category": "other"
   }
 ]
