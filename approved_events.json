@@ -1,45 +1,6 @@
 [
   {
-    "id": "c27ac44421a3",
-    "title": "Making the Most of Medicare Open Enrollment",
-    "date": "2026-10-26",
-    "time": "10:00am - 12:00pm",
-    "location": "2909 16th St. S.Arlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/making-the-most-of-medicare-open-enrollment-100009/",
-    "category": "other"
-  },
-  {
-    "id": "b058fee7a9d7",
-    "title": "Arlington County\u2019s Medicare Annual Checkup Event!",
-    "date": "2026-10-26",
-    "time": "10:00am - 12:00pm",
-    "location": "2909 16th St SouthArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/arlington-countys-medicare-annual-checkup-event-100221/",
-    "category": "other"
-  },
-  {
-    "id": "2caef6989713",
-    "title": "The Borgen Project, Info Session",
-    "date": "2026-10-26",
-    "time": "5:00pm - 6:00pm",
-    "location": "1015 N Quincy StArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-borgen-project-info-session-29214/",
-    "category": "other"
-  },
-  {
-    "id": "e2f086963622",
+    "id": "7208fa2650e9",
     "title": "Cybastion Fusion Center Job Fair for IT, Defense and Intelligence Professionals",
     "date": "2026-10-27",
     "time": "9:30am - 6:00pm",
@@ -52,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "50c2ed5a3e37",
+    "id": "0b6a0bdcd02b",
     "title": "Bingo for Cancer Care",
     "date": "2026-10-27",
     "time": "6:00pm - 8:00pm",
@@ -65,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "696885ba002a",
+    "id": "738dd266c4f3",
     "title": "Courthouse Library Death Cafe",
     "date": "2026-10-27",
     "time": "6:00pm - 7:30pm",
@@ -78,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "e06bfb2e02b6",
+    "id": "2b64f9874482",
     "title": "Author Talk: Alma Katsu on \u201cIncarnate\u201d",
     "date": "2026-10-27",
     "time": "6:30pm - 7:30pm",
@@ -390,6 +351,19 @@
     "category": "other"
   },
   {
+    "id": "9baedbc0e9a2",
+    "title": "HookedIRL Halloween Party",
+    "date": "2026-10-31",
+    "time": "10:00pm - 2:00am",
+    "location": "4001 Fairfax DrArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/hookedirl-halloween-party-100501/",
+    "category": "other"
+  },
+  {
     "id": "110acc937d67",
     "title": "The Last Supper: Planning for the End of Life",
     "date": "2026-11-01",
@@ -559,6 +533,19 @@
     "category": "other"
   },
   {
+    "id": "c7b82262cee1",
+    "title": "Free Flu Vaccine Clinic at Barcroft / Cl\u00ednica Gratuita de Vacunaci\u00f3n contra la G",
+    "date": "2026-11-05",
+    "time": "4:30pm - 7:00pm",
+    "location": "1120 S George Mason DrArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/free-flu-vaccine-clinic-at-barcroft-clinica-gratuita-de-vacunacion-contra-la-g-100483/",
+    "category": "other"
+  },
+  {
     "id": "c6c6e3f84421",
     "title": "Pike Friendsgiving Happy Hour at Abi Azteca",
     "date": "2026-11-05",
@@ -608,6 +595,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/video-game-social-100351/",
+    "category": "other"
+  },
+  {
+    "id": "9e81cce4a214",
+    "title": "Does Estate Planning Feel Daunting? Join Our Free Wills & Trusts Class",
+    "date": "2026-11-05",
+    "time": "6:00pm - 7:30pm",
+    "location": "576 S 23rd StreetArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/does-estate-planning-feel-daunting-join-our-free-wills-trusts-class-100486/",
     "category": "other"
   },
   {
