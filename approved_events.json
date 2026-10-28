@@ -1,58 +1,6 @@
 [
   {
-    "id": "7208fa2650e9",
-    "title": "Cybastion Fusion Center Job Fair for IT, Defense and Intelligence Professionals",
-    "date": "2026-10-27",
-    "time": "9:30am - 6:00pm",
-    "location": "3401 Fairfax DriveArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/cybastion-fusion-center-job-fair-for-it-defense-and-intelligence-professionals-100333/",
-    "category": "other"
-  },
-  {
-    "id": "0b6a0bdcd02b",
-    "title": "Bingo for Cancer Care",
-    "date": "2026-10-27",
-    "time": "6:00pm - 8:00pm",
-    "location": "1701 N. George Mason DriveArlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/bingo-for-cancer-care-100284/",
-    "category": "other"
-  },
-  {
-    "id": "738dd266c4f3",
-    "title": "Courthouse Library Death Cafe",
-    "date": "2026-10-27",
-    "time": "6:00pm - 7:30pm",
-    "location": "2100 Clarendon BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/courthouse-library-death-cafe-100302/",
-    "category": "other"
-  },
-  {
-    "id": "2b64f9874482",
-    "title": "Author Talk: Alma Katsu on \u201cIncarnate\u201d",
-    "date": "2026-10-27",
-    "time": "6:30pm - 7:30pm",
-    "location": "120 N. Virginia Ave.Falls Church,Virginia22046",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/author-talk-alma-katsu-on-incarnate-100209/",
-    "category": "other"
-  },
-  {
-    "id": "af025cdfeedc",
+    "id": "5735711d5277",
     "title": "The Pike Lunch Club: Columbia Pike Documentary Project",
     "date": "2026-10-28",
     "time": "12:00pm - 12:30pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "2f1f4304f0b3",
+    "id": "a15139cb9aff",
     "title": "Embassies and Entrepreneurs \u2013 POSTPONED FROM 10/15/26",
     "date": "2026-10-28",
     "time": "3:30pm - 6:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "d8d7849c206c",
+    "id": "bc8e0615b405",
     "title": "Potty Training Without the Power Struggles",
     "date": "2026-10-28",
     "time": "3:45pm - 4:30pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "58e454abf554",
+    "id": "0e71da8f14c0",
     "title": "Annual Breast Cancer Awareness Conference",
     "date": "2026-10-28",
     "time": "5:30pm - 7:30pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "f3ef8375958f",
+    "id": "8abc3f94b558",
     "title": "Until Help Arrives Training",
     "date": "2026-10-28",
     "time": "5:30pm - 8:30pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "a76173ae077f",
+    "id": "d7ec3ea3a1f7",
     "title": "Americana (Celebrating America 250)",
     "date": "2026-10-28",
     "time": "7:30pm - 8:30pm",
@@ -348,6 +296,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/howloween-doggie-trick-or-treating-100470/",
+    "category": "other"
+  },
+  {
+    "id": "57454a0fb5ae",
+    "title": "Hocus Pocus Trivia",
+    "date": "2026-10-31",
+    "time": "6:00pm - 7:30pm",
+    "location": "4001 Campbell AvenueArlington,Virginia22206",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/hocus-pocus-trivia-100529/",
     "category": "other"
   },
   {
@@ -647,6 +608,45 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/yorktown-theatre-arts-presents-william-shakespeares-a-midsummer-nights-dream-100314/",
+    "category": "other"
+  },
+  {
+    "id": "63a843781760",
+    "title": "Chalice Theatre Presents Copenhagen | November 6\u201315, 2026",
+    "date": "2026-11-06",
+    "time": "7:00pm - 9:30pm",
+    "location": "4444 Arlington BoulevardARLINGTON,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/chalice-theatre-presents-copenhagen-november-615-2026-100364/",
+    "category": "other"
+  },
+  {
+    "id": "e9cb116c7f71",
+    "title": "Workshop \u2013 Intaglio Printmaking: Drypoint on Plexiglass at Art House 7",
+    "date": "2026-11-07",
+    "time": "10:00am - 12:00pm",
+    "location": "5537 Langston Blvd.Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/workshop-intaglio-printmaking-drypoint-on-plexiglass-at-art-house-7-26969/",
+    "category": "other"
+  },
+  {
+    "id": "9b7aa53de9b0",
+    "title": "Dominion Hills Fall Craft Show",
+    "date": "2026-11-07",
+    "time": "10:00am - 5:00pm",
+    "location": "6000 Wilson BoulevardArlington,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/dominion-hills-fall-craft-show-29258/",
     "category": "other"
   }
 ]
