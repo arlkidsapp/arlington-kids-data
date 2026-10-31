@@ -1,71 +1,6 @@
 [
   {
-    "id": "e7d1c29865be",
-    "title": "Symphony Spooktacular Family Concert",
-    "date": "2026-10-30",
-    "time": "5:00pm - 7:00pm",
-    "location": "5200 Yorktown Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/symphony-spooktacular-family-concert-100061/",
-    "category": "other"
-  },
-  {
-    "id": "cf82db9f31f7",
-    "title": "October 30-31: Westpost Ice Rink Opens with a Halloween-Themed Skate Weekend",
-    "date": "2026-10-30",
-    "time": "5:00pm - 8:00pm",
-    "location": "1201 S Joyce StreetArlington ,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/october-30-31-westpost-ice-rink-opens-with-a-halloween-themed-skate-weekend-100574/",
-    "category": "other"
-  },
-  {
-    "id": "81a6287550a9",
-    "title": "HALLOWEEN LOCK & KEY SINGLES PARTY at Astro Beer Hall \u2013 Costumes Encouraged! (Ag",
-    "date": "2026-10-30",
-    "time": "6:30pm - 8:30pm",
-    "location": "4001 Campbell AvenueArlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/halloween-lock-key-singles-party-at-astro-beer-hall-costumes-encouraged-ag-29123/",
-    "category": "other"
-  },
-  {
-    "id": "b4425221b77d",
-    "title": "A Victorian Spirit & Ghost Walk in Historic Falls Church",
-    "date": "2026-10-30",
-    "time": "7:00pm - 7:45pm",
-    "location": "222 N. Washington StFalls Church,Virginia22046",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/a-victorian-spirit-ghost-walk-in-historic-falls-church-100234/",
-    "category": "other"
-  },
-  {
-    "id": "dc68f0795ec1",
-    "title": "Standup Comedy Show Starring Jim Bryan (Prime)",
-    "date": "2026-10-30",
-    "time": "8:00pm - 10:00pm",
-    "location": "529 23rd Street SouthArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/standup-comedy-show-starring-jim-bryan-prime-100379/",
-    "category": "other"
-  },
-  {
-    "id": "fa58941d9be1",
+    "id": "b33b0ca8badb",
     "title": "Yorktown Crew Winter Fundraiser \u2013 come see us at your local farmers market",
     "date": "2026-10-31",
     "time": "8:00am - 12:00pm",
@@ -78,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "859ff1fdb56d",
+    "id": "2846c1a2a91b",
     "title": "Workshop: Gel Plate Printmaking at Art House 7",
     "date": "2026-10-31",
     "time": "9:00am - 11:00am",
@@ -91,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "000550e00e36",
+    "id": "918b24ddbf4e",
     "title": "Alexandria Fall-O-Ween @ John Carlyle Square",
     "date": "2026-10-31",
     "time": "10:00am - 4:00pm",
@@ -104,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "4d5425569c3f",
+    "id": "fe3f60c0abb9",
     "title": "Trick-or-Treat at Dogma at The Village at Shirlington",
     "date": "2026-10-31",
     "time": "3:00pm - 5:00pm",
@@ -117,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "ef888e7b5808",
+    "id": "8054365847ed",
     "title": "Howloween Doggie Trick or Treating",
     "date": "2026-10-31",
     "time": "3:00pm - 5:00pm",
@@ -130,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "57454a0fb5ae",
+    "id": "bdf6ef2b311b",
     "title": "Hocus Pocus Trivia",
     "date": "2026-10-31",
     "time": "6:00pm - 7:30pm",
@@ -143,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "9baedbc0e9a2",
+    "id": "23682b4f5b3d",
     "title": "HookedIRL Halloween Party",
     "date": "2026-10-31",
     "time": "10:00pm - 2:00am",
@@ -634,6 +569,71 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/profs-pints-northern-virginia-dune-and-messiahs-100273/",
+    "category": "other"
+  },
+  {
+    "id": "acc02ec3bc44",
+    "title": "2100 Clarendon Blvd.",
+    "date": "2026-11-10",
+    "time": "6:00pm - 7:30pm",
+    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/2100-clarendon-blvd-100489/",
+    "category": "other"
+  },
+  {
+    "id": "ac11f6b1ec76",
+    "title": "Veterans Day Workshop: Stars and Stripes (k-2nd & 3-5th) at Art House 7",
+    "date": "2026-11-11",
+    "time": "1:00pm - 3:30pm",
+    "location": "5537 Langston Blvd.Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/veterans-day-workshop-stars-and-stripes-k-2nd-3-5th-at-art-house-7-28016/",
+    "category": "other"
+  },
+  {
+    "id": "6e6fad4d3801",
+    "title": "Veterans Day Workshop: Making Poppies (k-2nd & 3-5th) at Art House 7",
+    "date": "2026-11-11",
+    "time": "9:30pm - 12:00pm",
+    "location": "5537 Langston Blvd.Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/veterans-day-workshop-making-poppies-k-2nd-3-5th-at-art-house-7-28013/",
+    "category": "other"
+  },
+  {
+    "id": "a7df5137c076",
+    "title": "MoCA on the Move: Painted Taper Candles",
+    "date": "2026-11-12",
+    "time": "5:00pm - 7:00pm",
+    "location": "525 14th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/moca-on-the-move-painted-taper-candles-100354/",
+    "category": "other"
+  },
+  {
+    "id": "1bd1b1bd61e2",
+    "title": "Monthly Meditation",
+    "date": "2026-11-12",
+    "time": "6:30pm - 7:30pm",
+    "location": "816 South Walter Reed DrArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/monthly-meditation-100561/",
     "category": "other"
   }
 ]
