@@ -1,97 +1,6 @@
 [
   {
-    "id": "b33b0ca8badb",
-    "title": "Yorktown Crew Winter Fundraiser \u2013 come see us at your local farmers market",
-    "date": "2026-10-31",
-    "time": "8:00am - 12:00pm",
-    "location": ".Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/yorktown-crew-winter-fundraiser-come-see-us-at-your-local-farmers-market-100589/",
-    "category": "other"
-  },
-  {
-    "id": "2846c1a2a91b",
-    "title": "Workshop: Gel Plate Printmaking at Art House 7",
-    "date": "2026-10-31",
-    "time": "9:00am - 11:00am",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/workshop-gel-plate-printmaking-at-art-house-7-26968/",
-    "category": "other"
-  },
-  {
-    "id": "918b24ddbf4e",
-    "title": "Alexandria Fall-O-Ween @ John Carlyle Square",
-    "date": "2026-10-31",
-    "time": "10:00am - 4:00pm",
-    "location": "300 John Carlyle StAlexandria,Virginia22314",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/alexandria-fall-o-ween-john-carlyle-square-22491/",
-    "category": "other"
-  },
-  {
-    "id": "fe3f60c0abb9",
-    "title": "Trick-or-Treat at Dogma at The Village at Shirlington",
-    "date": "2026-10-31",
-    "time": "3:00pm - 5:00pm",
-    "location": "2772 S. Arlington Mill DriveArlington ,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/trick-or-treat-at-dogma-at-the-village-at-shirlington-29251/",
-    "category": "other"
-  },
-  {
-    "id": "8054365847ed",
-    "title": "Howloween Doggie Trick or Treating",
-    "date": "2026-10-31",
-    "time": "3:00pm - 5:00pm",
-    "location": "2772 S Arlington Mill DrArlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/howloween-doggie-trick-or-treating-100470/",
-    "category": "other"
-  },
-  {
-    "id": "bdf6ef2b311b",
-    "title": "Hocus Pocus Trivia",
-    "date": "2026-10-31",
-    "time": "6:00pm - 7:30pm",
-    "location": "4001 Campbell AvenueArlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/hocus-pocus-trivia-100529/",
-    "category": "other"
-  },
-  {
-    "id": "23682b4f5b3d",
-    "title": "HookedIRL Halloween Party",
-    "date": "2026-10-31",
-    "time": "10:00pm - 2:00am",
-    "location": "4001 Fairfax DrArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/hookedirl-halloween-party-100501/",
-    "category": "other"
-  },
-  {
-    "id": "110acc937d67",
+    "id": "d48b61b175b1",
     "title": "The Last Supper: Planning for the End of Life",
     "date": "2026-11-01",
     "time": "12:15pm - 2:00pm",
@@ -104,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "e8c9df60e2ee",
+    "id": "ecf08e47ad2c",
     "title": "D\u00eda De Los Muertos Celebration \u2013 An Evening Picnic!",
     "date": "2026-11-01",
     "time": "5:00pm - 8:00pm",
@@ -494,6 +403,19 @@
     "category": "other"
   },
   {
+    "id": "0e192904fbbc",
+    "title": "Why is Arlington\u2019s Oldest Building a Microcosm of American History?",
+    "date": "2026-11-07",
+    "time": "2:30pm - 4:00pm",
+    "location": "300 S. Kensington St.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/why-is-arlingtons-oldest-building-a-microcosm-of-american-history-100635/",
+    "category": "other"
+  },
+  {
     "id": "344d2c0bfc71",
     "title": "Explore Indigenous Arlington",
     "date": "2026-11-07",
@@ -530,6 +452,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/national-chamber-ensemble-romantic-masterworks-schubert-mendelssohn-and-brah-100388/",
+    "category": "other"
+  },
+  {
+    "id": "d66375c590dd",
+    "title": "15 Minute Hands-On History: In Their Own Words \u2013 Veterans\u2019 Stories",
+    "date": "2026-11-08",
+    "time": "2:00pm - 3:00pm",
+    "location": "1805 South Arlington Ridge RoadArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/15-minute-hands-on-history-in-their-own-words-veterans-stories-100636/",
     "category": "other"
   },
   {
@@ -634,6 +569,71 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/monthly-meditation-100561/",
+    "category": "other"
+  },
+  {
+    "id": "2294823f0e1d",
+    "title": "Signature Theatre Education & Washington-Liberty Theatre Present Come From Away",
+    "date": "2026-11-12",
+    "time": "7:00pm - 9:00pm",
+    "location": "1301 N Stafford StreetArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/signature-theatre-education-washington-liberty-theatre-present-come-from-away-100609/",
+    "category": "other"
+  },
+  {
+    "id": "f9d5a1830756",
+    "title": "20th Annual Alexandria Film Festival",
+    "date": "2026-11-13",
+    "time": "12:00pm - 11:00pm",
+    "location": "201 S. Washington StreetAlexandria,Virginia22314",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/20th-annual-alexandria-film-festival-100275/",
+    "category": "other"
+  },
+  {
+    "id": "5427385ee270",
+    "title": "Signature Theatre Education & Washington-Liberty Theatre Present Come From Away",
+    "date": "2026-11-13",
+    "time": "7:00pm - 9:00pm",
+    "location": "1301 N Stafford StreetArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/signature-theatre-education-washington-liberty-theatre-present-come-from-away-100610/",
+    "category": "other"
+  },
+  {
+    "id": "3791fd752b7f",
+    "title": "Holiday Market",
+    "date": "2026-11-14",
+    "time": "9:30am - 2:30pm",
+    "location": "4211 12th Rd SArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/holiday-market-100299/",
+    "category": "other"
+  },
+  {
+    "id": "db09fecc5704",
+    "title": "Workshop: Intaglio Printmaking with Tetra-Pak plates at Art House 7",
+    "date": "2026-11-14",
+    "time": "10:00am - 12:00pm",
+    "location": "5537 Langston Blvd.Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/workshop-intaglio-printmaking-with-tetra-pak-plates-at-art-house-7-26973/",
     "category": "other"
   }
 ]
