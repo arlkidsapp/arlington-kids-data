@@ -1,31 +1,5 @@
 [
   {
-    "id": "d48b61b175b1",
-    "title": "The Last Supper: Planning for the End of Life",
-    "date": "2026-11-01",
-    "time": "12:15pm - 2:00pm",
-    "location": "2666 Military RoadARLINGTON,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-last-supper-planning-for-the-end-of-life-100330/",
-    "category": "other"
-  },
-  {
-    "id": "ecf08e47ad2c",
-    "title": "D\u00eda De Los Muertos Celebration \u2013 An Evening Picnic!",
-    "date": "2026-11-01",
-    "time": "5:00pm - 8:00pm",
-    "location": "3550 Wilson BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/da-de-los-muertos-celebration-an-evening-picnic-29174/",
-    "category": "other"
-  },
-  {
     "id": "81bca19670a7",
     "title": "Abingdon Election Day Bake Sale",
     "date": "2026-11-03",
@@ -325,6 +299,19 @@
     "category": "other"
   },
   {
+    "id": "baa72c833d23",
+    "title": "Wild Birds Unlimited\u2019s 35th Anniversary",
+    "date": "2026-11-07",
+    "time": "9:00am - 5:00pm",
+    "location": "2437 N Harrison StArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/wild-birds-unlimiteds-35th-anniversary-100664/",
+    "category": "other"
+  },
+  {
     "id": "e9cb116c7f71",
     "title": "Workshop \u2013 Intaglio Printmaking: Drypoint on Plexiglass at Art House 7",
     "date": "2026-11-07",
@@ -348,6 +335,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/dominion-hills-fall-craft-show-29258/",
+    "category": "other"
+  },
+  {
+    "id": "bcfad7f8eb31",
+    "title": "Fall Festival",
+    "date": "2026-11-07",
+    "time": "10:00am - 2:00pm",
+    "location": "300 N Montague StArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fall-festival-100656/",
     "category": "other"
   },
   {
@@ -507,16 +507,16 @@
     "category": "other"
   },
   {
-    "id": "acc02ec3bc44",
-    "title": "2100 Clarendon Blvd.",
+    "id": "df9717412ff4",
+    "title": "Get It Done Social Hour (+ snacks!) Courthouse",
     "date": "2026-11-10",
     "time": "6:00pm - 7:30pm",
-    "location": "2100 Clarendon Blvd.Arlington,Virginia22201",
+    "location": "2100 Clarendon BlvdArlington,Virginia22201",
     "address": null,
     "description": "No description available",
     "ageRange": "all ages",
     "cost": "Free",
-    "url": "https://www.arlnow.com/events/2100-clarendon-blvd-100489/",
+    "url": "https://www.arlnow.com/events/get-it-done-social-hour-snacks-courthouse-100677/",
     "category": "other"
   },
   {
@@ -585,6 +585,19 @@
     "category": "other"
   },
   {
+    "id": "cf3d69c09b6f",
+    "title": "The Washington-Rochambeau Route Through Arlington",
+    "date": "2026-11-12",
+    "time": "7:00pm - 8:30pm",
+    "location": "2807 North Glebe RoadArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-washington-rochambeau-route-through-arlington-100642/",
+    "category": "other"
+  },
+  {
     "id": "f9d5a1830756",
     "title": "20th Annual Alexandria Film Festival",
     "date": "2026-11-13",
@@ -621,19 +634,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/holiday-market-100299/",
-    "category": "other"
-  },
-  {
-    "id": "db09fecc5704",
-    "title": "Workshop: Intaglio Printmaking with Tetra-Pak plates at Art House 7",
-    "date": "2026-11-14",
-    "time": "10:00am - 12:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/workshop-intaglio-printmaking-with-tetra-pak-plates-at-art-house-7-26973/",
     "category": "other"
   }
 ]
