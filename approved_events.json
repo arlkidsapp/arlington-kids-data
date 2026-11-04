@@ -1,97 +1,6 @@
 [
   {
-    "id": "cc990474d109",
-    "title": "Abingdon Election Day Bake Sale",
-    "date": "2026-11-03",
-    "time": "7:00am - 3:00pm",
-    "location": "3035 S Abingdon StArlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/abingdon-election-day-bake-sale-100464/",
-    "category": "other"
-  },
-  {
-    "id": "5b4ad527478d",
-    "title": "2026 Voting Day Workshop \u2013 Owl about Drawing (k-2nd and 3-5th) at Art House 7",
-    "date": "2026-11-03",
-    "time": "9:30am - 12:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/2026-voting-day-workshop-owl-about-drawing-k-2nd-and-3-5th-at-art-house-7-27998/",
-    "category": "other"
-  },
-  {
-    "id": "5b6ec36f1c0b",
-    "title": "Barre3 Arlington at GMU",
-    "date": "2026-11-03",
-    "time": "12:00pm - 1:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/barre3-arlington-at-gmu-100348/",
-    "category": "other"
-  },
-  {
-    "id": "5af198a63935",
-    "title": "Voting Day Workshop \u2013 Mixed Media \u2013 Fungus Among Us (k-2 & 3-5th) at Art House 7",
-    "date": "2026-11-03",
-    "time": "1:00pm - 3:30pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/voting-day-workshop-mixed-media-fungus-among-us-k-2-3-5th-at-art-house-7-28006/",
-    "category": "other"
-  },
-  {
-    "id": "74282d41bc40",
-    "title": "Dialogue for Democracy",
-    "date": "2026-11-03",
-    "time": "1:00pm - 5:30pm",
-    "location": "4379 Mason Pond DriveFairfax,Virginia22030",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/dialogue-for-democracy-100116/",
-    "category": "other"
-  },
-  {
-    "id": "5ed816474b94",
-    "title": "Knit Kindness",
-    "date": "2026-11-03",
-    "time": "5:30pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/knit-kindness-100349/",
-    "category": "other"
-  },
-  {
-    "id": "401d88c759ae",
-    "title": "Election Night Watch Party",
-    "date": "2026-11-03",
-    "time": "7:00pm - 11:00pm",
-    "location": "4001 Campbell AveArlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/election-night-watch-party-100246/",
-    "category": "other"
-  },
-  {
-    "id": "7ffbef2f9da9",
+    "id": "1bc6c2f9ad0f",
     "title": "Arts & Coffee: Japanese Paper Marbling \u201cSuminagashi\u201d at Art House 7",
     "date": "2026-11-04",
     "time": "10:00am - 12:00pm",
@@ -104,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "f02d37dd2ef0",
+    "id": "5f9f6a097e3f",
     "title": "Solo Aging: Strategies for Building a Supportive Future",
     "date": "2026-11-04",
     "time": "4:00pm - 5:00pm",
@@ -117,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "e60f423528a2",
+    "id": "09d111efc38f",
     "title": "How Do Retirement Communities Work? \u2013 Free Workshop",
     "date": "2026-11-04",
     "time": "5:00pm - 7:00pm",
@@ -130,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "e60ef8a0d8d0",
+    "id": "2cb1284e04cf",
     "title": "Sound Bath",
     "date": "2026-11-04",
     "time": "6:00pm - 7:00pm",
@@ -257,6 +166,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/yorktown-theatre-arts-presents-william-shakespeares-a-midsummer-nights-dream-100313/",
+    "category": "other"
+  },
+  {
+    "id": "1a431c237279",
+    "title": "POST ELECTION: The Next Chapter Starts NOW! on the Friday Power Lunch",
+    "date": "2026-11-06",
+    "time": "12:00pm - 1:00pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/post-election-the-next-chapter-starts-now-on-the-friday-power-lunch-100697/",
     "category": "other"
   },
   {
@@ -624,6 +546,19 @@
     "category": "other"
   },
   {
+    "id": "59072f18cdbd",
+    "title": "Fall Craft Fair, Woman\u2019s Club of Arlington",
+    "date": "2026-11-14",
+    "time": "9:00am - 3:00pm",
+    "location": "700 South Buchanon StreetArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fall-craft-fair-womans-club-of-arlington-100695/",
+    "category": "other"
+  },
+  {
     "id": "3791fd752b7f",
     "title": "Holiday Market",
     "date": "2026-11-14",
@@ -634,6 +569,71 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/holiday-market-100299/",
+    "category": "other"
+  },
+  {
+    "id": "db09fecc5704",
+    "title": "Workshop: Intaglio Printmaking with Tetra-Pak plates at Art House 7",
+    "date": "2026-11-14",
+    "time": "10:00am - 12:00pm",
+    "location": "5537 Langston Blvd.Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/workshop-intaglio-printmaking-with-tetra-pak-plates-at-art-house-7-26973/",
+    "category": "other"
+  },
+  {
+    "id": "415b5e2e0dee",
+    "title": "Open House",
+    "date": "2026-11-14",
+    "time": "10:00am - 12:00pm",
+    "location": "1101 Wilson Blvd. Ste 100Arligton,Virginia22209",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/open-house-100553/",
+    "category": "other"
+  },
+  {
+    "id": "bcdcbd00bda5",
+    "title": "Intro to Mindfulness \u2013 Free Workshop",
+    "date": "2026-11-14",
+    "time": "10:00am - 11:30am",
+    "location": "4001 9th Street North, Suite 230Arlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/intro-to-mindfulness-free-workshop-100686/",
+    "category": "other"
+  },
+  {
+    "id": "f0f95f906492",
+    "title": "Coffee Education with Red Bean Harvest Coffee",
+    "date": "2026-11-14",
+    "time": "11:00am - 12:00pm",
+    "location": "816 South Walter Reed DriveArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/coffee-education-with-red-bean-harvest-coffee-100707/",
+    "category": "other"
+  },
+  {
+    "id": "95c81181d50f",
+    "title": "Signature Theatre Education & Washington-Liberty Theatre Present Come From Away",
+    "date": "2026-11-14",
+    "time": "1:00pm - 3:00pm",
+    "location": "1301 N Stafford StreetArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/signature-theatre-education-washington-liberty-theatre-present-come-from-away-100611/",
     "category": "other"
   }
 ]
