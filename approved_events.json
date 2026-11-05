@@ -1,58 +1,6 @@
 [
   {
-    "id": "1bc6c2f9ad0f",
-    "title": "Arts & Coffee: Japanese Paper Marbling \u201cSuminagashi\u201d at Art House 7",
-    "date": "2026-11-04",
-    "time": "10:00am - 12:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/arts-coffee-japanese-paper-marbling-suminagashi-at-art-house-7-27653/",
-    "category": "other"
-  },
-  {
-    "id": "5f9f6a097e3f",
-    "title": "Solo Aging: Strategies for Building a Supportive Future",
-    "date": "2026-11-04",
-    "time": "4:00pm - 5:00pm",
-    "location": "300 South Kensington StArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/solo-aging-strategies-for-building-a-supportive-future-100556/",
-    "category": "other"
-  },
-  {
-    "id": "09d111efc38f",
-    "title": "How Do Retirement Communities Work? \u2013 Free Workshop",
-    "date": "2026-11-04",
-    "time": "5:00pm - 7:00pm",
-    "location": "4600 Cherry Hill Rd.Arlington ,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/how-do-retirement-communities-work-free-workshop-100321/",
-    "category": "other"
-  },
-  {
-    "id": "2cb1284e04cf",
-    "title": "Sound Bath",
-    "date": "2026-11-04",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sound-bath-100350/",
-    "category": "other"
-  },
-  {
-    "id": "4c7ec0f0694f",
+    "id": "869191ac5f4c",
     "title": "Safe Zone LGBTQ 101 Workshop",
     "date": "2026-11-05",
     "time": "10:00am - 1:00pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "c7b82262cee1",
+    "id": "de3035d0fd27",
     "title": "Free Flu Vaccine Clinic at Barcroft / Cl\u00ednica Gratuita de Vacunaci\u00f3n contra la G",
     "date": "2026-11-05",
     "time": "4:30pm - 7:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "c6c6e3f84421",
+    "id": "d31e393e37db",
     "title": "Pike Friendsgiving Happy Hour at Abi Azteca",
     "date": "2026-11-05",
     "time": "5:00pm - 7:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "e299befa8d69",
+    "id": "4d7d9ba54f4f",
     "title": "MoCA on the Move: Create Your Own Upcycled Leaf Garland",
     "date": "2026-11-05",
     "time": "5:00pm - 7:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "9929ff22e319",
+    "id": "b481c4d75e2f",
     "title": "Rosslyn x Pitch-A-Friend",
     "date": "2026-11-05",
     "time": "6:00pm - 8:00pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "abdca44e669f",
+    "id": "a18268586238",
     "title": "Video Game Social",
     "date": "2026-11-05",
     "time": "6:00pm - 7:00pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "9e81cce4a214",
+    "id": "032caf705c4b",
     "title": "Does Estate Planning Feel Daunting? Join Our Free Wills & Trusts Class",
     "date": "2026-11-05",
     "time": "6:00pm - 7:30pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "5a3656eb384e",
+    "id": "08f4993c0874",
     "title": "Gentle Yoga",
     "date": "2026-11-05",
     "time": "6:30pm - 7:30pm",
@@ -156,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "ff51f7103a61",
+    "id": "0fa2d635217a",
     "title": "Yorktown Theatre Arts presents William Shakespeare\u2019s \u201cA Midsummer Night\u2019s Dream\u201d",
     "date": "2026-11-05",
     "time": "7:00pm - 10:00pm",
@@ -351,6 +299,19 @@
     "category": "other"
   },
   {
+    "id": "80ea2910a5a6",
+    "title": "An Intimate Evening with George Washington",
+    "date": "2026-11-07",
+    "time": "5:30pm - 7:30pm",
+    "location": "305 Cameron StreetAlexandria,Virginia22314",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/an-intimate-evening-with-george-washington-100728/",
+    "category": "other"
+  },
+  {
     "id": "bb90f42a660b",
     "title": "Reflex Improv Comedy Show",
     "date": "2026-11-07",
@@ -520,6 +481,32 @@
     "category": "other"
   },
   {
+    "id": "ed5ccf5b7d07",
+    "title": "Can Artisans Save the World? A Screening of Handmade Future",
+    "date": "2026-11-12",
+    "time": "7:00pm - 8:30pm",
+    "location": "5852 Washington BlvdArlington,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/can-artisans-save-the-world-a-screening-of-handmade-future-100731/",
+    "category": "other"
+  },
+  {
+    "id": "d2b8b482a88d",
+    "title": "Holiday Market | Vendors Wanted",
+    "date": "2026-11-13",
+    "time": "9:30am - 2:30pm",
+    "location": "4211 12th Rd SArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/holiday-market-100299/",
+    "category": "other"
+  },
+  {
     "id": "f9d5a1830756",
     "title": "20th Annual Alexandria Film Festival",
     "date": "2026-11-13",
@@ -559,8 +546,8 @@
     "category": "other"
   },
   {
-    "id": "3791fd752b7f",
-    "title": "Holiday Market",
+    "id": "10cc55b3f102",
+    "title": "Holiday Market | Mercado Navide\u00f1o",
     "date": "2026-11-14",
     "time": "9:30am - 2:30pm",
     "location": "4211 12th Rd SArlington,Virginia22204",
@@ -568,7 +555,7 @@
     "description": "No description available",
     "ageRange": "all ages",
     "cost": "Free",
-    "url": "https://www.arlnow.com/events/holiday-market-100299/",
+    "url": "https://www.arlnow.com/events/holiday-market-mercado-navideno-100722/",
     "category": "other"
   },
   {
@@ -608,6 +595,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/intro-to-mindfulness-free-workshop-100686/",
+    "category": "other"
+  },
+  {
+    "id": "768a61325cf5",
+    "title": "Arlington Branch American Association of University Women BizLaunch Presentation",
+    "date": "2026-11-14",
+    "time": "10:30am - 12:00pm",
+    "location": "300 N Park DrArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/arlington-branch-american-association-of-university-women-bizlaunch-presentation-100737/",
     "category": "other"
   },
   {
