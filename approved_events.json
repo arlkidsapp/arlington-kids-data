@@ -1,123 +1,6 @@
 [
   {
-    "id": "869191ac5f4c",
-    "title": "Safe Zone LGBTQ 101 Workshop",
-    "date": "2026-11-05",
-    "time": "10:00am - 1:00pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/safe-zone-lgbtq-101-workshop-100318/",
-    "category": "other"
-  },
-  {
-    "id": "de3035d0fd27",
-    "title": "Free Flu Vaccine Clinic at Barcroft / Cl\u00ednica Gratuita de Vacunaci\u00f3n contra la G",
-    "date": "2026-11-05",
-    "time": "4:30pm - 7:00pm",
-    "location": "1120 S George Mason DrArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-flu-vaccine-clinic-at-barcroft-clinica-gratuita-de-vacunacion-contra-la-g-100483/",
-    "category": "other"
-  },
-  {
-    "id": "d31e393e37db",
-    "title": "Pike Friendsgiving Happy Hour at Abi Azteca",
-    "date": "2026-11-05",
-    "time": "5:00pm - 7:00pm",
-    "location": "3005 Columbia PikeArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/pike-friendsgiving-happy-hour-at-abi-azteca-100288/",
-    "category": "other"
-  },
-  {
-    "id": "4d7d9ba54f4f",
-    "title": "MoCA on the Move: Create Your Own Upcycled Leaf Garland",
-    "date": "2026-11-05",
-    "time": "5:00pm - 7:00pm",
-    "location": "525 14th St S.Arlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/moca-on-the-move-create-your-own-upcycled-leaf-garland-100353/",
-    "category": "other"
-  },
-  {
-    "id": "b481c4d75e2f",
-    "title": "Rosslyn x Pitch-A-Friend",
-    "date": "2026-11-05",
-    "time": "6:00pm - 8:00pm",
-    "location": "1121 19th St NArlington,Virginia22209",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rosslyn-x-pitch-a-friend-100136/",
-    "category": "other"
-  },
-  {
-    "id": "a18268586238",
-    "title": "Video Game Social",
-    "date": "2026-11-05",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/video-game-social-100351/",
-    "category": "other"
-  },
-  {
-    "id": "032caf705c4b",
-    "title": "Does Estate Planning Feel Daunting? Join Our Free Wills & Trusts Class",
-    "date": "2026-11-05",
-    "time": "6:00pm - 7:30pm",
-    "location": "576 S 23rd StreetArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/does-estate-planning-feel-daunting-join-our-free-wills-trusts-class-100486/",
-    "category": "other"
-  },
-  {
-    "id": "08f4993c0874",
-    "title": "Gentle Yoga",
-    "date": "2026-11-05",
-    "time": "6:30pm - 7:30pm",
-    "location": "816 South Walter Reed DrArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/gentle-yoga-100560/",
-    "category": "other"
-  },
-  {
-    "id": "0fa2d635217a",
-    "title": "Yorktown Theatre Arts presents William Shakespeare\u2019s \u201cA Midsummer Night\u2019s Dream\u201d",
-    "date": "2026-11-05",
-    "time": "7:00pm - 10:00pm",
-    "location": "5200 Yorktown BlvdArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/yorktown-theatre-arts-presents-william-shakespeares-a-midsummer-nights-dream-100313/",
-    "category": "other"
-  },
-  {
-    "id": "1a431c237279",
+    "id": "6f0f3d27f03a",
     "title": "POST ELECTION: The Next Chapter Starts NOW! on the Friday Power Lunch",
     "date": "2026-11-06",
     "time": "12:00pm - 1:00pm",
@@ -130,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "5b8de37a40fa",
+    "id": "188adf8b7075",
     "title": "Meow Town Gala Fundraiser",
     "date": "2026-11-06",
     "time": "7:00pm - 10:00pm",
@@ -143,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "2677ee802646",
+    "id": "0fa2d635217a",
     "title": "Yorktown Theatre Arts presents William Shakespeare\u2019s \u201cA Midsummer Night\u2019s Dream\u201d",
     "date": "2026-11-06",
     "time": "7:00pm - 10:00pm",
@@ -156,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "63a843781760",
+    "id": "bbebb6ad68de",
     "title": "Chalice Theatre Presents Copenhagen | November 6\u201315, 2026",
     "date": "2026-11-06",
     "time": "7:00pm - 9:30pm",
@@ -416,6 +299,19 @@
     "category": "other"
   },
   {
+    "id": "aecb1686b33c",
+    "title": "America on the World Stage: How Do We Come Back From This?",
+    "date": "2026-11-11",
+    "time": "7:00pm - 10:00pm",
+    "location": "2300 Clarendon BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/america-on-the-world-stage-how-do-we-come-back-from-this-100744/",
+    "category": "other"
+  },
+  {
     "id": "6e6fad4d3801",
     "title": "Veterans Day Workshop: Making Poppies (k-2nd & 3-5th) at Art House 7",
     "date": "2026-11-11",
@@ -452,6 +348,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/monthly-meditation-100561/",
+    "category": "other"
+  },
+  {
+    "id": "826ef25356d8",
+    "title": "Low Income Housing Assistance in Arlington: Panel discussion at Central Library",
+    "date": "2026-11-12",
+    "time": "6:33pm - 7:33pm",
+    "location": "1015 N. Quincy StreetArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/low-income-housing-assistance-in-arlington-panel-discussion-at-central-library-100755/",
     "category": "other"
   },
   {
@@ -634,6 +543,97 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/signature-theatre-education-washington-liberty-theatre-present-come-from-away-100611/",
+    "category": "other"
+  },
+  {
+    "id": "23990e716b8a",
+    "title": "Career Spotlight: Finishing Trades",
+    "date": "2026-11-14",
+    "time": "1:30pm - 2:30pm",
+    "location": "2190 North Military RdArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/career-spotlight-finishing-trades-100662/",
+    "category": "other"
+  },
+  {
+    "id": "2102368f61e3",
+    "title": "Memorializing the Enslaved in Arlington Dedication of Pike Park Stumbling Stones",
+    "date": "2026-11-14",
+    "time": "2:00pm - 3:00pm",
+    "location": "2820 Columbia PikeArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/memorializing-the-enslaved-in-arlington-dedication-of-pike-park-stumbling-stones-100643/",
+    "category": "other"
+  },
+  {
+    "id": "3b92607c7318",
+    "title": "Fiber Arts Series @ the Innovation Studio \u2014 Drop-in Knitting",
+    "date": "2026-11-14",
+    "time": "2:30pm - 4:00pm",
+    "location": "525 14th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/fiber-arts-series-the-innovation-studio-drop-in-knitting-28506/",
+    "category": "other"
+  },
+  {
+    "id": "61db3a4f3e26",
+    "title": "The Comedy Karaoke Trivia Funtime Show with Will Purpura",
+    "date": "2026-11-14",
+    "time": "7:30pm - 9:30pm",
+    "location": "2010 Crystal DriveArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-comedy-karaoke-trivia-funtime-show-with-will-purpura-100143/",
+    "category": "other"
+  },
+  {
+    "id": "be43484c8930",
+    "title": "Tea Ceremony Demonstration & Kimono Experience (with Mini Bazaar)",
+    "date": "2026-11-15",
+    "time": "10:00am - 4:00pm",
+    "location": "N/AArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/tea-ceremony-demonstration-kimono-experience-with-mini-bazaar-100499/",
+    "category": "other"
+  },
+  {
+    "id": "c024fcc18bb9",
+    "title": "World Day of Remembrance for Road Traffic Victims",
+    "date": "2026-11-15",
+    "time": "10:30am - 11:30am",
+    "location": "9525 Main StreetFairfax,Virginia22031",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/world-day-of-remembrance-for-road-traffic-victims-100277/",
+    "category": "other"
+  },
+  {
+    "id": "ab73e330901a",
+    "title": "Alternative Christmas Market at First Presbyterian Church Arlington",
+    "date": "2026-11-15",
+    "time": "12:30pm - 3:00pm",
+    "location": "601 N. Vermont StreetArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/alternative-christmas-market-at-first-presbyterian-church-arlington-100732/",
     "category": "other"
   }
 ]
