@@ -1,58 +1,6 @@
 [
   {
-    "id": "6f0f3d27f03a",
-    "title": "POST ELECTION: The Next Chapter Starts NOW! on the Friday Power Lunch",
-    "date": "2026-11-06",
-    "time": "12:00pm - 1:00pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/post-election-the-next-chapter-starts-now-on-the-friday-power-lunch-100697/",
-    "category": "other"
-  },
-  {
-    "id": "188adf8b7075",
-    "title": "Meow Town Gala Fundraiser",
-    "date": "2026-11-06",
-    "time": "7:00pm - 10:00pm",
-    "location": "1900 Fort Meyer DriveArlington,Virginia22209",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/meow-town-gala-fundraiser-100189/",
-    "category": "other"
-  },
-  {
-    "id": "0fa2d635217a",
-    "title": "Yorktown Theatre Arts presents William Shakespeare\u2019s \u201cA Midsummer Night\u2019s Dream\u201d",
-    "date": "2026-11-06",
-    "time": "7:00pm - 10:00pm",
-    "location": "5200 Yorktown BlvdArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/yorktown-theatre-arts-presents-william-shakespeares-a-midsummer-nights-dream-100314/",
-    "category": "other"
-  },
-  {
-    "id": "bbebb6ad68de",
-    "title": "Chalice Theatre Presents Copenhagen | November 6\u201315, 2026",
-    "date": "2026-11-06",
-    "time": "7:00pm - 9:30pm",
-    "location": "4444 Arlington BoulevardARLINGTON,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/chalice-theatre-presents-copenhagen-november-615-2026-100364/",
-    "category": "other"
-  },
-  {
-    "id": "baa72c833d23",
+    "id": "d06600c7a1f1",
     "title": "Wild Birds Unlimited\u2019s 35th Anniversary",
     "date": "2026-11-07",
     "time": "9:00am - 5:00pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "e9cb116c7f71",
+    "id": "c8f87aa5ca26",
     "title": "Workshop \u2013 Intaglio Printmaking: Drypoint on Plexiglass at Art House 7",
     "date": "2026-11-07",
     "time": "10:00am - 12:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "9b7aa53de9b0",
+    "id": "e021cb1d7825",
     "title": "Dominion Hills Fall Craft Show",
     "date": "2026-11-07",
     "time": "10:00am - 5:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "bcfad7f8eb31",
+    "id": "2f6a4de3ba85",
     "title": "Fall Festival",
     "date": "2026-11-07",
     "time": "10:00am - 2:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "89ea33f2b060",
+    "id": "a5322eeef429",
     "title": "Kol Ami Tot Shabbat",
     "date": "2026-11-07",
     "time": "11:00am - 12:00pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "8b43c7b10c75",
+    "id": "ab066b1faf87",
     "title": "Potomac Valley Watercolorists Annual Fall Show & Sale",
     "date": "2026-11-07",
     "time": "1:00pm - 6:00pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "e46fa80d6ad8",
+    "id": "59d401760729",
     "title": "Who\u2019s Howling? Getting to Know Our Neighborhood Coyotes",
     "date": "2026-11-07",
     "time": "2:00pm - 3:00pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "784a06c0b4ab",
+    "id": "0fa2d635217a",
     "title": "Yorktown Theatre Arts presents William Shakespeare\u2019s \u201cA Midsummer Night\u2019s Dream\u201d",
     "date": "2026-11-07",
     "time": "2:00pm - 5:00pm",
@@ -156,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "0e192904fbbc",
+    "id": "5d540b96f207",
     "title": "Why is Arlington\u2019s Oldest Building a Microcosm of American History?",
     "date": "2026-11-07",
     "time": "2:30pm - 4:00pm",
@@ -169,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "344d2c0bfc71",
+    "id": "069c28fcd637",
     "title": "Explore Indigenous Arlington",
     "date": "2026-11-07",
     "time": "3:00pm - 4:00pm",
@@ -182,7 +130,7 @@
     "category": "other"
   },
   {
-    "id": "80ea2910a5a6",
+    "id": "7dc78e38a1c4",
     "title": "An Intimate Evening with George Washington",
     "date": "2026-11-07",
     "time": "5:30pm - 7:30pm",
@@ -195,7 +143,7 @@
     "category": "other"
   },
   {
-    "id": "bb90f42a660b",
+    "id": "4e8f598c0a80",
     "title": "Reflex Improv Comedy Show",
     "date": "2026-11-07",
     "time": "7:00pm - 9:00pm",
@@ -208,7 +156,7 @@
     "category": "other"
   },
   {
-    "id": "95f6360ef1c7",
+    "id": "09d84186bf2d",
     "title": "National Chamber Ensemble-Romantic Masterworks: Schubert, Mendelssohn, Brahms",
     "date": "2026-11-07",
     "time": "7:30pm - 9:30pm",
@@ -273,6 +221,19 @@
     "category": "other"
   },
   {
+    "id": "34a7d00c08c9",
+    "title": "Sundays@6:00 PM | Evening Worship with candle lighting, contemplation, incense",
+    "date": "2026-11-08",
+    "time": "6:00pm - 7:00pm",
+    "location": "4000 Lorcom LaneArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sundays600-pm-evening-worship-with-candle-lighting-contemplation-incense-100769/",
+    "category": "other"
+  },
+  {
     "id": "df9717412ff4",
     "title": "Get It Done Social Hour (+ snacks!) Courthouse",
     "date": "2026-11-10",
@@ -283,6 +244,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/get-it-done-social-hour-snacks-courthouse-100677/",
+    "category": "other"
+  },
+  {
+    "id": "93ce4f20a178",
+    "title": "Great Clips provides free haircuts for military service members on Veterans Day",
+    "date": "2026-11-11",
+    "time": "9:00am - 8:00pm",
+    "location": "1101 S Joyce St b19Arlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/great-clips-provides-free-haircuts-for-military-service-members-on-veterans-day-100776/",
     "category": "other"
   },
   {
@@ -530,6 +504,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/coffee-education-with-red-bean-harvest-coffee-100707/",
+    "category": "other"
+  },
+  {
+    "id": "a4a401355c37",
+    "title": "StoryWorx Book Festival/ Meet the Authors at the Workhouse Arts Center",
+    "date": "2026-11-14",
+    "time": "11:00am - 5:00pm",
+    "location": "9518 Workhouse WayLorton ,Virginia22079",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/storyworx-book-festival-meet-the-authors-at-the-workhouse-arts-center-100788/",
+    "category": "other"
+  },
+  {
+    "id": "6b80663487d1",
+    "title": "How Does Recycling Work?",
+    "date": "2026-11-14",
+    "time": "11:00am - 12:00pm",
+    "location": "735 18th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/how-does-recycling-work-100790/",
     "category": "other"
   },
   {
