@@ -1,6 +1,6 @@
 [
   {
-    "id": "df9717412ff4",
+    "id": "d1b6df4da0de",
     "title": "Get It Done Social Hour (+ snacks!) Courthouse",
     "date": "2026-11-10",
     "time": "6:00pm - 7:30pm",
@@ -75,6 +75,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/moca-on-the-move-painted-taper-candles-100354/",
+    "category": "other"
+  },
+  {
+    "id": "8b11cafa442c",
+    "title": "Climate Commons",
+    "date": "2026-11-12",
+    "time": "6:00pm - 8:00pm",
+    "location": "300 N Park DriveArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/climate-commons-100857/",
     "category": "other"
   },
   {
@@ -611,6 +624,19 @@
     "category": "other"
   },
   {
+    "id": "7c03ed90682d",
+    "title": "Alison\u2019s Community + Comedy Night!",
+    "date": "2026-11-20",
+    "time": "6:30pm - 8:45pm",
+    "location": "4444 Arlington BoulevardArlington,Virginia22203",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/alisons-community-comedy-night-100847/",
+    "category": "other"
+  },
+  {
     "id": "688b8657f967",
     "title": "Madeline\u2019s Christmas | Encore Stage & Studio",
     "date": "2026-11-20",
@@ -621,32 +647,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/madelines-christmas-encore-stage-studio-28827/",
-    "category": "other"
-  },
-  {
-    "id": "b64c210acef9",
-    "title": "Workshop: Parent & Child Needle Felting Ornaments/Objects at Art House 7",
-    "date": "2026-11-21",
-    "time": "10:00am - 12:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/workshop-parent-child-needle-felting-ornamentsobjects-at-art-house-7-27670/",
-    "category": "other"
-  },
-  {
-    "id": "98693d2fc9c3",
-    "title": "Rosslyn Holiday Market",
-    "date": "2026-11-21",
-    "time": "10:00am - 4:00pm",
-    "location": "1800 N Lynn StArlington,Virginia22209",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rosslyn-holiday-market-100329/",
     "category": "other"
   }
 ]
