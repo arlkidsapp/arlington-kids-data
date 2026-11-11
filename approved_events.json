@@ -1,19 +1,6 @@
 [
   {
-    "id": "d1b6df4da0de",
-    "title": "Get It Done Social Hour (+ snacks!) Courthouse",
-    "date": "2026-11-10",
-    "time": "6:00pm - 7:30pm",
-    "location": "2100 Clarendon BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/get-it-done-social-hour-snacks-courthouse-100677/",
-    "category": "other"
-  },
-  {
-    "id": "93ce4f20a178",
+    "id": "60e8a7efd44d",
     "title": "Great Clips provides free haircuts for military service members on Veterans Day",
     "date": "2026-11-11",
     "time": "9:00am - 8:00pm",
@@ -26,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "ac11f6b1ec76",
+    "id": "c0385ce43a39",
     "title": "Veterans Day Workshop: Stars and Stripes (k-2nd & 3-5th) at Art House 7",
     "date": "2026-11-11",
     "time": "1:00pm - 3:30pm",
@@ -39,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "aecb1686b33c",
+    "id": "4360c9442104",
     "title": "America on the World Stage: How Do We Come Back From This?",
     "date": "2026-11-11",
     "time": "7:00pm - 10:00pm",
@@ -52,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "6e6fad4d3801",
+    "id": "1dc0a656569f",
     "title": "Veterans Day Workshop: Making Poppies (k-2nd & 3-5th) at Art House 7",
     "date": "2026-11-11",
     "time": "9:30pm - 12:00pm",
@@ -62,6 +49,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/veterans-day-workshop-making-poppies-k-2nd-3-5th-at-art-house-7-28013/",
+    "category": "other"
+  },
+  {
+    "id": "76667db955ac",
+    "title": "Storytime",
+    "date": "2026-11-12",
+    "time": "10:30am - 11:15am",
+    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/storytime-100867/",
     "category": "other"
   },
   {
@@ -88,6 +88,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/climate-commons-100857/",
+    "category": "other"
+  },
+  {
+    "id": "c50274c05b44",
+    "title": "Sound Bath",
+    "date": "2026-11-12",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax Drive ArlingtonArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sound-bath-100868/",
     "category": "other"
   },
   {
@@ -634,19 +647,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/alisons-community-comedy-night-100847/",
-    "category": "other"
-  },
-  {
-    "id": "688b8657f967",
-    "title": "Madeline\u2019s Christmas | Encore Stage & Studio",
-    "date": "2026-11-20",
-    "time": "7:00pm - 9:00pm",
-    "location": "2700 S Lang StreetArlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/madelines-christmas-encore-stage-studio-28827/",
     "category": "other"
   }
 ]
