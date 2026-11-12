@@ -1,58 +1,6 @@
 [
   {
-    "id": "60e8a7efd44d",
-    "title": "Great Clips provides free haircuts for military service members on Veterans Day",
-    "date": "2026-11-11",
-    "time": "9:00am - 8:00pm",
-    "location": "1101 S Joyce St b19Arlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/great-clips-provides-free-haircuts-for-military-service-members-on-veterans-day-100776/",
-    "category": "other"
-  },
-  {
-    "id": "c0385ce43a39",
-    "title": "Veterans Day Workshop: Stars and Stripes (k-2nd & 3-5th) at Art House 7",
-    "date": "2026-11-11",
-    "time": "1:00pm - 3:30pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/veterans-day-workshop-stars-and-stripes-k-2nd-3-5th-at-art-house-7-28016/",
-    "category": "other"
-  },
-  {
-    "id": "4360c9442104",
-    "title": "America on the World Stage: How Do We Come Back From This?",
-    "date": "2026-11-11",
-    "time": "7:00pm - 10:00pm",
-    "location": "2300 Clarendon BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/america-on-the-world-stage-how-do-we-come-back-from-this-100744/",
-    "category": "other"
-  },
-  {
-    "id": "1dc0a656569f",
-    "title": "Veterans Day Workshop: Making Poppies (k-2nd & 3-5th) at Art House 7",
-    "date": "2026-11-11",
-    "time": "9:30pm - 12:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/veterans-day-workshop-making-poppies-k-2nd-3-5th-at-art-house-7-28013/",
-    "category": "other"
-  },
-  {
-    "id": "76667db955ac",
+    "id": "f136c6371812",
     "title": "Storytime",
     "date": "2026-11-12",
     "time": "10:30am - 11:15am",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "a7df5137c076",
+    "id": "b92ecd6e00c3",
     "title": "MoCA on the Move: Painted Taper Candles",
     "date": "2026-11-12",
     "time": "5:00pm - 7:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "8b11cafa442c",
+    "id": "092c4f3fbdbf",
     "title": "Climate Commons",
     "date": "2026-11-12",
     "time": "6:00pm - 8:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "c50274c05b44",
+    "id": "2cb1284e04cf",
     "title": "Sound Bath",
     "date": "2026-11-12",
     "time": "6:00pm - 7:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "1bd1b1bd61e2",
+    "id": "bca037037dac",
     "title": "Monthly Meditation",
     "date": "2026-11-12",
     "time": "6:30pm - 7:30pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "37f5f4df1b49",
+    "id": "9dfafb943744",
     "title": "Mothers of Northern Arlington Annual Holiday Market",
     "date": "2026-11-12",
     "time": "6:30pm - 9:30pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "826ef25356d8",
+    "id": "e6c15bb261ab",
     "title": "Low Income Housing Assistance in Arlington: Panel discussion at Central Library",
     "date": "2026-11-12",
     "time": "6:33pm - 7:33pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "2294823f0e1d",
+    "id": "c1036b1332d0",
     "title": "Signature Theatre Education & Washington-Liberty Theatre Present Come From Away",
     "date": "2026-11-12",
     "time": "7:00pm - 9:00pm",
@@ -156,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "cf3d69c09b6f",
+    "id": "bd439667d491",
     "title": "The Washington-Rochambeau Route Through Arlington",
     "date": "2026-11-12",
     "time": "7:00pm - 8:30pm",
@@ -169,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "ed5ccf5b7d07",
+    "id": "dcecb015c3b7",
     "title": "Can Artisans Save the World? A Screening of Handmade Future",
     "date": "2026-11-12",
     "time": "7:00pm - 8:30pm",
@@ -494,6 +442,32 @@
     "category": "other"
   },
   {
+    "id": "6a5f38c60a70",
+    "title": "Barre3 Arlington at GMU",
+    "date": "2026-11-17",
+    "time": "12:00pm - 1:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/barre3-arlington-at-gmu-100885/",
+    "category": "other"
+  },
+  {
+    "id": "525121dfb10a",
+    "title": "Knit Kindness",
+    "date": "2026-11-17",
+    "time": "5:30pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/knit-kindness-100886/",
+    "category": "other"
+  },
+  {
     "id": "3049823d0207",
     "title": "Artist Reception: Elizabeth Bloom",
     "date": "2026-11-17",
@@ -520,6 +494,19 @@
     "category": "other"
   },
   {
+    "id": "e1a5f9a15bdd",
+    "title": "Storytime",
+    "date": "2026-11-18",
+    "time": "10:30am - 11:15am",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/storytime-100887/",
+    "category": "other"
+  },
+  {
     "id": "f815a1603aa5",
     "title": "The Pike \u2013 Lunch Club at MoMo GoGo",
     "date": "2026-11-18",
@@ -543,6 +530,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/community-volunteer-reading-night-28050/",
+    "category": "other"
+  },
+  {
+    "id": "626256ade82a",
+    "title": "Sound Bath",
+    "date": "2026-11-18",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sound-bath-100888/",
     "category": "other"
   },
   {
