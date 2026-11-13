@@ -1,136 +1,6 @@
 [
   {
-    "id": "f136c6371812",
-    "title": "Storytime",
-    "date": "2026-11-12",
-    "time": "10:30am - 11:15am",
-    "location": "3351 Fairfax Dr.Arlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/storytime-100867/",
-    "category": "other"
-  },
-  {
-    "id": "b92ecd6e00c3",
-    "title": "MoCA on the Move: Painted Taper Candles",
-    "date": "2026-11-12",
-    "time": "5:00pm - 7:00pm",
-    "location": "525 14th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/moca-on-the-move-painted-taper-candles-100354/",
-    "category": "other"
-  },
-  {
-    "id": "092c4f3fbdbf",
-    "title": "Climate Commons",
-    "date": "2026-11-12",
-    "time": "6:00pm - 8:00pm",
-    "location": "300 N Park DriveArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/climate-commons-100857/",
-    "category": "other"
-  },
-  {
-    "id": "2cb1284e04cf",
-    "title": "Sound Bath",
-    "date": "2026-11-12",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax Drive ArlingtonArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sound-bath-100868/",
-    "category": "other"
-  },
-  {
-    "id": "bca037037dac",
-    "title": "Monthly Meditation",
-    "date": "2026-11-12",
-    "time": "6:30pm - 7:30pm",
-    "location": "816 South Walter Reed DrArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/monthly-meditation-100561/",
-    "category": "other"
-  },
-  {
-    "id": "9dfafb943744",
-    "title": "Mothers of Northern Arlington Annual Holiday Market",
-    "date": "2026-11-12",
-    "time": "6:30pm - 9:30pm",
-    "location": "5115 Little Falls RoadArlington ,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/mothers-of-northern-arlington-annual-holiday-market-100831/",
-    "category": "other"
-  },
-  {
-    "id": "e6c15bb261ab",
-    "title": "Low Income Housing Assistance in Arlington: Panel discussion at Central Library",
-    "date": "2026-11-12",
-    "time": "6:33pm - 7:33pm",
-    "location": "1015 N. Quincy StreetArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/low-income-housing-assistance-in-arlington-panel-discussion-at-central-library-100755/",
-    "category": "other"
-  },
-  {
-    "id": "c1036b1332d0",
-    "title": "Signature Theatre Education & Washington-Liberty Theatre Present Come From Away",
-    "date": "2026-11-12",
-    "time": "7:00pm - 9:00pm",
-    "location": "1301 N Stafford StreetArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/signature-theatre-education-washington-liberty-theatre-present-come-from-away-100609/",
-    "category": "other"
-  },
-  {
-    "id": "bd439667d491",
-    "title": "The Washington-Rochambeau Route Through Arlington",
-    "date": "2026-11-12",
-    "time": "7:00pm - 8:30pm",
-    "location": "2807 North Glebe RoadArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-washington-rochambeau-route-through-arlington-100642/",
-    "category": "other"
-  },
-  {
-    "id": "dcecb015c3b7",
-    "title": "Can Artisans Save the World? A Screening of Handmade Future",
-    "date": "2026-11-12",
-    "time": "7:00pm - 8:30pm",
-    "location": "5852 Washington BlvdArlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/can-artisans-save-the-world-a-screening-of-handmade-future-100731/",
-    "category": "other"
-  },
-  {
-    "id": "d2b8b482a88d",
+    "id": "ce0280b665e4",
     "title": "Holiday Market | Vendors Wanted",
     "date": "2026-11-13",
     "time": "9:30am - 2:30pm",
@@ -143,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "f9d5a1830756",
+    "id": "6f993b95cb62",
     "title": "20th Annual Alexandria Film Festival",
     "date": "2026-11-13",
     "time": "12:00pm - 11:00pm",
@@ -156,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "5427385ee270",
+    "id": "c1036b1332d0",
     "title": "Signature Theatre Education & Washington-Liberty Theatre Present Come From Away",
     "date": "2026-11-13",
     "time": "7:00pm - 9:00pm",
@@ -403,6 +273,19 @@
     "category": "other"
   },
   {
+    "id": "df6d9fb0dc7f",
+    "title": "Drop-in Resume and Job Search Help at Courthouse",
+    "date": "2026-11-16",
+    "time": "2:00pm - 3:00pm",
+    "location": "2100 Clarendon BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/drop-in-resume-and-job-search-help-at-courthouse-100966/",
+    "category": "other"
+  },
+  {
     "id": "959af0683ad4",
     "title": "Heart Centered Meditation",
     "date": "2026-11-16",
@@ -439,6 +322,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/browntown-comedy-at-the-dc-improv-100626/",
+    "category": "other"
+  },
+  {
+    "id": "a4719f848212",
+    "title": "Nonprofit Open House & Nonprofit Lunch Forum",
+    "date": "2026-11-17",
+    "time": "11:00am - 1:15pm",
+    "location": "115 E Fairfax StreetFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/nonprofit-open-house-nonprofit-lunch-forum-100970/",
     "category": "other"
   },
   {
@@ -520,6 +416,32 @@
     "category": "other"
   },
   {
+    "id": "c756e67ff4fa",
+    "title": "Next Level Networking for Arlington Business Leaders Networking Event",
+    "date": "2026-11-18",
+    "time": "3:30pm - 5:00pm",
+    "location": "5849 Washington Boulevard #BArlington,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/next-level-networking-for-arlington-business-leaders-networking-event-100962/",
+    "category": "other"
+  },
+  {
+    "id": "dbaa82eb8e94",
+    "title": "GEMS: Girls Empowered, Motivated & Strong | Ni\u00f1as Fuertes y Empoderadas",
+    "date": "2026-11-18",
+    "time": "4:30pm - 5:30pm",
+    "location": "ArlingtonCity,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/gems-girls-empowered-motivated-strong-ninas-fuertes-y-empoderadas-100929/",
+    "category": "other"
+  },
+  {
     "id": "55e726c88ab4",
     "title": "Community Volunteer Reading Night",
     "date": "2026-11-18",
@@ -572,6 +494,19 @@
     "category": "other"
   },
   {
+    "id": "03ce4e0b0c8e",
+    "title": "Study Hall",
+    "date": "2026-11-19",
+    "time": "1:00pm - 2:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/study-hall-100943/",
+    "category": "other"
+  },
+  {
     "id": "27a767a716f0",
     "title": "MoCA on the Move: Design a Seasonal Mini-tote Bag",
     "date": "2026-11-19",
@@ -582,6 +517,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/moca-on-the-move-design-a-seasonal-mini-tote-bag-100356/",
+    "category": "other"
+  },
+  {
+    "id": "821c88bbcd0a",
+    "title": "Video Game Social",
+    "date": "2026-11-19",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/video-game-social-100944/",
     "category": "other"
   },
   {
@@ -647,6 +595,58 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/alisons-community-comedy-night-100847/",
+    "category": "other"
+  },
+  {
+    "id": "688b8657f967",
+    "title": "Madeline\u2019s Christmas | Encore Stage & Studio",
+    "date": "2026-11-20",
+    "time": "7:00pm - 9:00pm",
+    "location": "2700 S Lang StreetArlington,Virginia22206",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/madelines-christmas-encore-stage-studio-28827/",
+    "category": "other"
+  },
+  {
+    "id": "b64c210acef9",
+    "title": "Workshop: Parent & Child Needle Felting Ornaments/Objects at Art House 7",
+    "date": "2026-11-21",
+    "time": "10:00am - 12:00pm",
+    "location": "5537 Langston Blvd.Arlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/workshop-parent-child-needle-felting-ornamentsobjects-at-art-house-7-27670/",
+    "category": "other"
+  },
+  {
+    "id": "98693d2fc9c3",
+    "title": "Rosslyn Holiday Market",
+    "date": "2026-11-21",
+    "time": "10:00am - 4:00pm",
+    "location": "1800 N Lynn StArlington,Virginia22209",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rosslyn-holiday-market-100329/",
+    "category": "other"
+  },
+  {
+    "id": "8e7e6d8d32c0",
+    "title": "The Sky Tonight: Live Planetarium Show",
+    "date": "2026-11-21",
+    "time": "10:30am - 11:00am",
+    "location": "650 Jefferson Drive SWWashington,District of Columbia20560",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-sky-tonight-live-planetarium-show-27552/",
     "category": "other"
   }
 ]
