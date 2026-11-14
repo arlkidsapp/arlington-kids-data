@@ -1,45 +1,6 @@
 [
   {
-    "id": "ce0280b665e4",
-    "title": "Holiday Market | Vendors Wanted",
-    "date": "2026-11-13",
-    "time": "9:30am - 2:30pm",
-    "location": "4211 12th Rd SArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/holiday-market-100299/",
-    "category": "other"
-  },
-  {
-    "id": "6f993b95cb62",
-    "title": "20th Annual Alexandria Film Festival",
-    "date": "2026-11-13",
-    "time": "12:00pm - 11:00pm",
-    "location": "201 S. Washington StreetAlexandria,Virginia22314",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/20th-annual-alexandria-film-festival-100275/",
-    "category": "other"
-  },
-  {
-    "id": "c1036b1332d0",
-    "title": "Signature Theatre Education & Washington-Liberty Theatre Present Come From Away",
-    "date": "2026-11-13",
-    "time": "7:00pm - 9:00pm",
-    "location": "1301 N Stafford StreetArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/signature-theatre-education-washington-liberty-theatre-present-come-from-away-100610/",
-    "category": "other"
-  },
-  {
-    "id": "59072f18cdbd",
+    "id": "0210a1583410",
     "title": "Fall Craft Fair, Woman\u2019s Club of Arlington",
     "date": "2026-11-14",
     "time": "9:00am - 3:00pm",
@@ -52,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "10cc55b3f102",
+    "id": "d8d32436e586",
     "title": "Holiday Market | Mercado Navide\u00f1o",
     "date": "2026-11-14",
     "time": "9:30am - 2:30pm",
@@ -65,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "db09fecc5704",
+    "id": "bcc00ec75eeb",
     "title": "Workshop: Intaglio Printmaking with Tetra-Pak plates at Art House 7",
     "date": "2026-11-14",
     "time": "10:00am - 12:00pm",
@@ -78,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "415b5e2e0dee",
+    "id": "d82506740a0c",
     "title": "Open House",
     "date": "2026-11-14",
     "time": "10:00am - 12:00pm",
@@ -91,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "bcdcbd00bda5",
+    "id": "046e00623423",
     "title": "Intro to Mindfulness \u2013 Free Workshop",
     "date": "2026-11-14",
     "time": "10:00am - 11:30am",
@@ -104,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "768a61325cf5",
+    "id": "dfc37d3c5281",
     "title": "Arlington Branch American Association of University Women BizLaunch Presentation",
     "date": "2026-11-14",
     "time": "10:30am - 12:00pm",
@@ -117,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "f0f95f906492",
+    "id": "18898de07806",
     "title": "Coffee Education with Red Bean Harvest Coffee",
     "date": "2026-11-14",
     "time": "11:00am - 12:00pm",
@@ -130,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "a4a401355c37",
+    "id": "34000d64d9ad",
     "title": "StoryWorx Book Festival/ Meet the Authors at the Workhouse Arts Center",
     "date": "2026-11-14",
     "time": "11:00am - 5:00pm",
@@ -143,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "6b80663487d1",
+    "id": "a05f65cd6554",
     "title": "How Does Recycling Work?",
     "date": "2026-11-14",
     "time": "11:00am - 12:00pm",
@@ -156,7 +117,7 @@
     "category": "other"
   },
   {
-    "id": "95c81181d50f",
+    "id": "c1036b1332d0",
     "title": "Signature Theatre Education & Washington-Liberty Theatre Present Come From Away",
     "date": "2026-11-14",
     "time": "1:00pm - 3:00pm",
@@ -169,7 +130,7 @@
     "category": "other"
   },
   {
-    "id": "23990e716b8a",
+    "id": "a87efaa2f5a0",
     "title": "Career Spotlight: Finishing Trades",
     "date": "2026-11-14",
     "time": "1:30pm - 2:30pm",
@@ -182,7 +143,7 @@
     "category": "other"
   },
   {
-    "id": "2102368f61e3",
+    "id": "0592d26c350a",
     "title": "Memorializing the Enslaved in Arlington Dedication of Pike Park Stumbling Stones",
     "date": "2026-11-14",
     "time": "2:00pm - 3:00pm",
@@ -195,7 +156,7 @@
     "category": "other"
   },
   {
-    "id": "3b92607c7318",
+    "id": "3c07f445fa16",
     "title": "Fiber Arts Series @ the Innovation Studio \u2014 Drop-in Knitting",
     "date": "2026-11-14",
     "time": "2:30pm - 4:00pm",
@@ -208,7 +169,7 @@
     "category": "other"
   },
   {
-    "id": "61db3a4f3e26",
+    "id": "f497253bedf0",
     "title": "The Comedy Karaoke Trivia Funtime Show with Will Purpura",
     "date": "2026-11-14",
     "time": "7:30pm - 9:30pm",
@@ -572,6 +533,19 @@
     "category": "other"
   },
   {
+    "id": "14e14530dcc5",
+    "title": "Tour of Common Wealth: Assembly 2026",
+    "date": "2026-11-20",
+    "time": "12:00pm - 1:00pm",
+    "location": "3550 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/tour-of-common-wealth-assembly-2026-100990/",
+    "category": "other"
+  },
+  {
     "id": "8c1e45a6c69f",
     "title": "Art Night: Needle Felting \u2013 Ornaments/Gnomes at Art House 7",
     "date": "2026-11-20",
@@ -647,6 +621,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/the-sky-tonight-live-planetarium-show-27552/",
+    "category": "other"
+  },
+  {
+    "id": "95fd9e45845e",
+    "title": "First Baby? Connect with other New Moms!",
+    "date": "2026-11-21",
+    "time": "11:00am - 12:00pm",
+    "location": "Arlington, VA",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/first-baby-connect-with-other-new-moms-100814/",
+    "category": "other"
+  },
+  {
+    "id": "b03c93d98610",
+    "title": "Cherrydale Holiday Market",
+    "date": "2026-11-21",
+    "time": "11:00am - 5:00pm",
+    "location": "3701 Lorcom LaneArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/cherrydale-holiday-market-100989/",
     "category": "other"
   }
 ]
