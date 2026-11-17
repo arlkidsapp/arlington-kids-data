@@ -1,58 +1,6 @@
 [
   {
-    "id": "6d2e065bdf96",
-    "title": "Drop-in Resume and Job Search Help at Courthouse",
-    "date": "2026-11-16",
-    "time": "2:00pm - 3:00pm",
-    "location": "2100 Clarendon BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/drop-in-resume-and-job-search-help-at-courthouse-100966/",
-    "category": "other"
-  },
-  {
-    "id": "4f6bb17bc851",
-    "title": "Heart Centered Meditation",
-    "date": "2026-11-16",
-    "time": "4:00pm - 5:00pm",
-    "location": "4001 9th Street N, Suite 230Arlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/heart-centered-meditation-100720/",
-    "category": "other"
-  },
-  {
-    "id": "1f654beffb72",
-    "title": "Art Night: Conversation and Art History \u2013 Michelangelo at Art House 7",
-    "date": "2026-11-16",
-    "time": "7:00pm - 8:00pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/art-night-conversation-and-art-history-michelangelo-at-art-house-7-26584/",
-    "category": "other"
-  },
-  {
-    "id": "fa60b869da5d",
-    "title": "BrownTown Comedy at the DC Improv!!!!",
-    "date": "2026-11-16",
-    "time": "7:30pm - 9:30pm",
-    "location": "1140 Connecticut Ave. NWWashington, DC,District Of Columbia20036",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/browntown-comedy-at-the-dc-improv-100626/",
-    "category": "other"
-  },
-  {
-    "id": "a4719f848212",
+    "id": "a16e45131824",
     "title": "Nonprofit Open House & Nonprofit Lunch Forum",
     "date": "2026-11-17",
     "time": "11:00am - 1:15pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "6a5f38c60a70",
+    "id": "5b6ec36f1c0b",
     "title": "Barre3 Arlington at GMU",
     "date": "2026-11-17",
     "time": "12:00pm - 1:00pm",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "525121dfb10a",
+    "id": "5ed816474b94",
     "title": "Knit Kindness",
     "date": "2026-11-17",
     "time": "5:30pm - 7:00pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "3049823d0207",
+    "id": "bcab1d42a56c",
     "title": "Artist Reception: Elizabeth Bloom",
     "date": "2026-11-17",
     "time": "6:30pm - 7:30pm",
@@ -455,6 +403,19 @@
     "category": "other"
   },
   {
+    "id": "117a4eb655af",
+    "title": "Public Planetarium Shows \u2013 Saturday, 11/21",
+    "date": "2026-11-21",
+    "time": "6:00pm - 8:30pm",
+    "location": "1426 N Quincy StArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/public-planetarium-shows-saturday-1121-101034/",
+    "category": "other"
+  },
+  {
     "id": "3fbc970beed0",
     "title": "Intentions, Movement, & Mimosas",
     "date": "2026-11-22",
@@ -478,6 +439,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/free-family-fall-rodeo-100784/",
+    "category": "other"
+  },
+  {
+    "id": "481881922f12",
+    "title": "Public Planetarium Shows \u2013 Sunday, 11/22",
+    "date": "2026-11-22",
+    "time": "1:30pm - 4:00pm",
+    "location": "1426 N Quincy StArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/public-planetarium-shows-sunday-1122-101035/",
     "category": "other"
   },
   {
@@ -647,6 +621,32 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/rosslyn-cheer-2026-light-the-plaza-100709/",
+    "category": "other"
+  },
+  {
+    "id": "2b9a2dcb2784",
+    "title": "Rosslyn Cheer 2026: Santa Paws Yappy Hour",
+    "date": "2026-12-04",
+    "time": "5:00pm - 7:00pm",
+    "location": "1800 N Lynn StArlington,Virginia22209",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rosslyn-cheer-2026-santa-paws-yappy-hour-100711/",
+    "category": "other"
+  },
+  {
+    "id": "11151270bc33",
+    "title": "Local Artist Aidan Leclaire in Concert",
+    "date": "2026-12-04",
+    "time": "7:00pm - 10:00pm",
+    "location": "540 Penn Street NEVienna,District Of Columbia20002",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/local-artist-aidan-leclaire-in-concert-101026/",
     "category": "other"
   }
 ]
