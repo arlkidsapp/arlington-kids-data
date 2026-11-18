@@ -1,58 +1,6 @@
 [
   {
-    "id": "a16e45131824",
-    "title": "Nonprofit Open House & Nonprofit Lunch Forum",
-    "date": "2026-11-17",
-    "time": "11:00am - 1:15pm",
-    "location": "115 E Fairfax StreetFalls Church,Virginia22046",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/nonprofit-open-house-nonprofit-lunch-forum-100970/",
-    "category": "other"
-  },
-  {
-    "id": "5b6ec36f1c0b",
-    "title": "Barre3 Arlington at GMU",
-    "date": "2026-11-17",
-    "time": "12:00pm - 1:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/barre3-arlington-at-gmu-100885/",
-    "category": "other"
-  },
-  {
-    "id": "5ed816474b94",
-    "title": "Knit Kindness",
-    "date": "2026-11-17",
-    "time": "5:30pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/knit-kindness-100886/",
-    "category": "other"
-  },
-  {
-    "id": "bcab1d42a56c",
-    "title": "Artist Reception: Elizabeth Bloom",
-    "date": "2026-11-17",
-    "time": "6:30pm - 7:30pm",
-    "location": "735 18th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/artist-reception-elizabeth-bloom-100791/",
-    "category": "other"
-  },
-  {
-    "id": "1f7d6c42cf62",
+    "id": "d71f2a9d82ee",
     "title": "Free Memory Screening",
     "date": "2026-11-18",
     "time": "8:00am - 5:00pm",
@@ -65,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "e1a5f9a15bdd",
+    "id": "f136c6371812",
     "title": "Storytime",
     "date": "2026-11-18",
     "time": "10:30am - 11:15am",
@@ -78,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "f815a1603aa5",
+    "id": "f015ca5e6f26",
     "title": "The Pike \u2013 Lunch Club at MoMo GoGo",
     "date": "2026-11-18",
     "time": "12:00pm - 1:30pm",
@@ -91,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "c756e67ff4fa",
+    "id": "6cd6d4a0fba2",
     "title": "Next Level Networking for Arlington Business Leaders Networking Event",
     "date": "2026-11-18",
     "time": "3:30pm - 5:00pm",
@@ -104,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "dbaa82eb8e94",
+    "id": "5ed000dde825",
     "title": "GEMS: Girls Empowered, Motivated & Strong | Ni\u00f1as Fuertes y Empoderadas",
     "date": "2026-11-18",
     "time": "4:30pm - 5:30pm",
@@ -117,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "55e726c88ab4",
+    "id": "6eef8b891132",
     "title": "Community Volunteer Reading Night",
     "date": "2026-11-18",
     "time": "5:00pm - 6:00pm",
@@ -130,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "626256ade82a",
+    "id": "2cb1284e04cf",
     "title": "Sound Bath",
     "date": "2026-11-18",
     "time": "6:00pm - 7:00pm",
@@ -143,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "cffcc76c7c66",
+    "id": "ccda51bd2c37",
     "title": "Washington Spirit Alum Meet & Greet + The Amazing Race Watch Party",
     "date": "2026-11-18",
     "time": "8:30pm - 11:00pm",
@@ -218,6 +166,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/arlington-concert-orchestra-triumph-of-honor-100603/",
+    "category": "other"
+  },
+  {
+    "id": "4b45e5d6f0bf",
+    "title": "Free English Classes | Classes de Ingles GRATIS!",
+    "date": "2026-11-19",
+    "time": "7:00pm - 8:30pm",
+    "location": "1120 S George Mason DrArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/free-english-classes-classes-de-ingles-gratis-101063/",
     "category": "other"
   },
   {
@@ -494,6 +455,19 @@
     "category": "other"
   },
   {
+    "id": "92d72605882a",
+    "title": "Knit Kindness",
+    "date": "2026-11-24",
+    "time": "5:30pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/knit-kindness-101092/",
+    "category": "other"
+  },
+  {
     "id": "3cc86f0fc043",
     "title": "Protecting Your Money: Fraud and Scam Awareness",
     "date": "2026-11-24",
@@ -504,6 +478,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/protecting-your-money-fraud-and-scam-awareness-100717/",
+    "category": "other"
+  },
+  {
+    "id": "15e4a3176650",
+    "title": "Free English Classes | Classes de Ingles GRATIS!",
+    "date": "2026-11-24",
+    "time": "7:00pm - 8:30pm",
+    "location": "1120 S George Mason DrArlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/free-english-classes-classes-de-ingles-gratis-101064/",
     "category": "other"
   },
   {
@@ -559,6 +546,19 @@
     "category": "other"
   },
   {
+    "id": "77511139f093",
+    "title": "City of Fall Church\u2019s Winter Wonderland at Founders Row",
+    "date": "2026-12-01",
+    "time": "5:30pm - 7:30pm",
+    "location": "109 Founders AvenueFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/city-of-fall-churchs-winter-wonderland-at-founders-row-101080/",
+    "category": "other"
+  },
+  {
     "id": "92b99954f3dc",
     "title": "Sustainability for the Holidays",
     "date": "2026-12-01",
@@ -569,6 +569,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/sustainability-for-the-holidays-100679/",
+    "category": "other"
+  },
+  {
+    "id": "44888aa92e45",
+    "title": "Rock Spring Recital Series: Choirs Christmas Concert",
+    "date": "2026-12-02",
+    "time": "3:00pm - 4:15pm",
+    "location": "5010 Little Falls RdArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rock-spring-recital-series-choirs-christmas-concert-101066/",
     "category": "other"
   },
   {
@@ -620,33 +633,20 @@
     "description": "No description available",
     "ageRange": "all ages",
     "cost": "Free",
-    "url": "https://www.arlnow.com/events/rosslyn-cheer-2026-light-the-plaza-100709/",
+    "url": "https://www.arlnow.com/events/rosslyn-cheer-2026-light-the-plaza-101089/",
     "category": "other"
   },
   {
-    "id": "2b9a2dcb2784",
-    "title": "Rosslyn Cheer 2026: Santa Paws Yappy Hour",
+    "id": "a1acefffff50",
+    "title": "Tour of Dusk in the Dawnland: Assembly 2026",
     "date": "2026-12-04",
-    "time": "5:00pm - 7:00pm",
-    "location": "1800 N Lynn StArlington,Virginia22209",
+    "time": "12:00pm - 1:00pm",
+    "location": "3550 Wilson BlvdArlington,Virginia22201",
     "address": null,
     "description": "No description available",
     "ageRange": "all ages",
     "cost": "Free",
-    "url": "https://www.arlnow.com/events/rosslyn-cheer-2026-santa-paws-yappy-hour-100711/",
-    "category": "other"
-  },
-  {
-    "id": "11151270bc33",
-    "title": "Local Artist Aidan Leclaire in Concert",
-    "date": "2026-12-04",
-    "time": "7:00pm - 10:00pm",
-    "location": "540 Penn Street NEVienna,District Of Columbia20002",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/local-artist-aidan-leclaire-in-concert-101026/",
+    "url": "https://www.arlnow.com/events/tour-of-dusk-in-the-dawnland-assembly-2026-101059/",
     "category": "other"
   }
 ]
