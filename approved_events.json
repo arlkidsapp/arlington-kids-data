@@ -1,110 +1,6 @@
 [
   {
-    "id": "d71f2a9d82ee",
-    "title": "Free Memory Screening",
-    "date": "2026-11-18",
-    "time": "8:00am - 5:00pm",
-    "location": "1635 N George Mason Drive Suite 455Arlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-memory-screening-100404/",
-    "category": "other"
-  },
-  {
-    "id": "f136c6371812",
-    "title": "Storytime",
-    "date": "2026-11-18",
-    "time": "10:30am - 11:15am",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/storytime-100887/",
-    "category": "other"
-  },
-  {
-    "id": "f015ca5e6f26",
-    "title": "The Pike \u2013 Lunch Club at MoMo GoGo",
-    "date": "2026-11-18",
-    "time": "12:00pm - 1:30pm",
-    "location": "2501 9th Rd S #85Arlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/the-pike-lunch-club-at-momo-gogo-100293/",
-    "category": "other"
-  },
-  {
-    "id": "6cd6d4a0fba2",
-    "title": "Next Level Networking for Arlington Business Leaders Networking Event",
-    "date": "2026-11-18",
-    "time": "3:30pm - 5:00pm",
-    "location": "5849 Washington Boulevard #BArlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/next-level-networking-for-arlington-business-leaders-networking-event-100962/",
-    "category": "other"
-  },
-  {
-    "id": "5ed000dde825",
-    "title": "GEMS: Girls Empowered, Motivated & Strong | Ni\u00f1as Fuertes y Empoderadas",
-    "date": "2026-11-18",
-    "time": "4:30pm - 5:30pm",
-    "location": "ArlingtonCity,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/gems-girls-empowered-motivated-strong-ninas-fuertes-y-empoderadas-100929/",
-    "category": "other"
-  },
-  {
-    "id": "6eef8b891132",
-    "title": "Community Volunteer Reading Night",
-    "date": "2026-11-18",
-    "time": "5:00pm - 6:00pm",
-    "location": "909 S Dinwiddie St 3rd FloorArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/community-volunteer-reading-night-28050/",
-    "category": "other"
-  },
-  {
-    "id": "2cb1284e04cf",
-    "title": "Sound Bath",
-    "date": "2026-11-18",
-    "time": "6:00pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/sound-bath-100888/",
-    "category": "other"
-  },
-  {
-    "id": "ccda51bd2c37",
-    "title": "Washington Spirit Alum Meet & Greet + The Amazing Race Watch Party",
-    "date": "2026-11-18",
-    "time": "8:30pm - 11:00pm",
-    "location": "5849 Washington Blvd BArlington,Virginia22205",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/washington-spirit-alum-meet-greet-the-amazing-race-watch-party-100706/",
-    "category": "other"
-  },
-  {
-    "id": "8e23f7f01945",
+    "id": "a633792e45ad",
     "title": "Arts and Coffee: Conversation and Art History \u2013 Michelangelo at Art House 7",
     "date": "2026-11-19",
     "time": "11:00am - 12:00pm",
@@ -117,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "03ce4e0b0c8e",
+    "id": "cdb4987cdc01",
     "title": "Study Hall",
     "date": "2026-11-19",
     "time": "1:00pm - 2:30pm",
@@ -130,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "27a767a716f0",
+    "id": "eff3c2a466e6",
     "title": "MoCA on the Move: Design a Seasonal Mini-tote Bag",
     "date": "2026-11-19",
     "time": "5:00pm - 7:00pm",
@@ -143,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "821c88bbcd0a",
+    "id": "a18268586238",
     "title": "Video Game Social",
     "date": "2026-11-19",
     "time": "6:00pm - 7:00pm",
@@ -156,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "3bedb69f21fa",
+    "id": "a22b64e028a4",
     "title": "Arlington Concert Orchestra: Triumph of Honor",
     "date": "2026-11-19",
     "time": "7:00pm - 8:30pm",
@@ -169,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "4b45e5d6f0bf",
+    "id": "90db68f6d7a9",
     "title": "Free English Classes | Classes de Ingles GRATIS!",
     "date": "2026-11-19",
     "time": "7:00pm - 8:30pm",
@@ -647,6 +543,110 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/tour-of-dusk-in-the-dawnland-assembly-2026-101059/",
+    "category": "other"
+  },
+  {
+    "id": "2b9a2dcb2784",
+    "title": "Rosslyn Cheer 2026: Santa Paws Yappy Hour",
+    "date": "2026-12-04",
+    "time": "5:00pm - 7:00pm",
+    "location": "1800 N Lynn StArlington,Virginia22209",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/rosslyn-cheer-2026-santa-paws-yappy-hour-100711/",
+    "category": "other"
+  },
+  {
+    "id": "11151270bc33",
+    "title": "Local Artist Aidan Leclaire in Concert",
+    "date": "2026-12-04",
+    "time": "7:00pm - 10:00pm",
+    "location": "540 Penn Street NEVienna,District Of Columbia20002",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/local-artist-aidan-leclaire-in-concert-101026/",
+    "category": "other"
+  },
+  {
+    "id": "36f848997e1e",
+    "title": "Holiday Gift and Craft Show \u2013 City of Falls Church",
+    "date": "2026-12-05",
+    "time": "8:30am - 3:30pm",
+    "location": "223 Little Falls StreetFalls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/holiday-gift-and-craft-show-city-of-falls-church-100858/",
+    "category": "other"
+  },
+  {
+    "id": "8b717dd2bf61",
+    "title": "66th Annual Washington-Liberty Holiday Bazaar",
+    "date": "2026-12-05",
+    "time": "10:00am - 4:00pm",
+    "location": "1301 N Stafford St.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/66th-annual-washington-liberty-holiday-bazaar-100855/",
+    "category": "other"
+  },
+  {
+    "id": "f3351aeb8eb8",
+    "title": "The Sky Tonight: Live Planetarium Show",
+    "date": "2026-12-05",
+    "time": "10:30am - 11:00am",
+    "location": "650 Jefferson Drive SWWashington,District of Columbia20560",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-sky-tonight-live-planetarium-show-27639/",
+    "category": "other"
+  },
+  {
+    "id": "b7e465b68e94",
+    "title": "The Lodge",
+    "date": "2026-12-05",
+    "time": "11:00am - 5:00pm",
+    "location": "1330 S Fair St)Arlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/the-lodge-100921/",
+    "category": "other"
+  },
+  {
+    "id": "dcafeb9ac546",
+    "title": "Cooking Utensils Swap",
+    "date": "2026-12-05",
+    "time": "11:30am - 12:30pm",
+    "location": "735 18th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/cooking-utensils-swap-100792/",
+    "category": "other"
+  },
+  {
+    "id": "f145dd1200cf",
+    "title": "Christmas Pop Up Shop",
+    "date": "2026-12-05",
+    "time": "12:00pm - 4:00pm",
+    "location": "3412 S. 22nd St.Arlington,Virginia22204",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/christmas-pop-up-shop-100905/",
     "category": "other"
   }
 ]
