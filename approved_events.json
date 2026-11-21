@@ -1,84 +1,6 @@
 [
   {
-    "id": "871173caf54a",
-    "title": "Free Business Networking in Arlington",
-    "date": "2026-11-20",
-    "time": "9:00am - 11:00am",
-    "location": "300 N Park DrArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-business-networking-in-arlington-100666/",
-    "category": "other"
-  },
-  {
-    "id": "d59894695780",
-    "title": "Enchant Christmas (Nationals Park)",
-    "date": "2026-11-20",
-    "time": "10:00am - 10:00pm",
-    "location": "1500 S Capitol St SE, Washington, D.C.Washington,District of Columbia20006",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/enchant-christmas-nationals-park-27334/",
-    "category": "other"
-  },
-  {
-    "id": "333c25595e4d",
-    "title": "Tour of Common Wealth: Assembly 2026",
-    "date": "2026-11-20",
-    "time": "12:00pm - 1:00pm",
-    "location": "3550 Wilson BlvdArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/tour-of-common-wealth-assembly-2026-100990/",
-    "category": "other"
-  },
-  {
-    "id": "7070c7875a1b",
-    "title": "Art Night: Needle Felting \u2013 Ornaments/Gnomes at Art House 7",
-    "date": "2026-11-20",
-    "time": "6:30pm - 8:30pm",
-    "location": "5537 Langston Blvd.Arlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/art-night-needle-felting-ornamentsgnomes-at-art-house-7-27669/",
-    "category": "other"
-  },
-  {
-    "id": "4be1deab9d60",
-    "title": "Alison\u2019s Community + Comedy Night!",
-    "date": "2026-11-20",
-    "time": "6:30pm - 8:45pm",
-    "location": "4444 Arlington BoulevardArlington,Virginia22203",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/alisons-community-comedy-night-100847/",
-    "category": "other"
-  },
-  {
-    "id": "a3a8c4330392",
-    "title": "Madeline\u2019s Christmas | Encore Stage & Studio",
-    "date": "2026-11-20",
-    "time": "7:00pm - 9:00pm",
-    "location": "2700 S Lang StreetArlington,Virginia22206",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/madelines-christmas-encore-stage-studio-28827/",
-    "category": "other"
-  },
-  {
-    "id": "b64c210acef9",
+    "id": "2b141b90078a",
     "title": "Workshop: Parent & Child Needle Felting Ornaments/Objects at Art House 7",
     "date": "2026-11-21",
     "time": "10:00am - 12:00pm",
@@ -91,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "98693d2fc9c3",
+    "id": "ed96c5b2c899",
     "title": "Rosslyn Holiday Market",
     "date": "2026-11-21",
     "time": "10:00am - 4:00pm",
@@ -104,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "8e7e6d8d32c0",
+    "id": "8ff2d5e1f4e3",
     "title": "The Sky Tonight: Live Planetarium Show",
     "date": "2026-11-21",
     "time": "10:30am - 11:00am",
@@ -117,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "95fd9e45845e",
+    "id": "f2d76cec1d9d",
     "title": "First Baby? Connect with other New Moms!",
     "date": "2026-11-21",
     "time": "11:00am - 12:00pm",
@@ -130,7 +52,7 @@
     "category": "other"
   },
   {
-    "id": "b03c93d98610",
+    "id": "0a6821fe8492",
     "title": "Cherrydale Holiday Market",
     "date": "2026-11-21",
     "time": "11:00am - 5:00pm",
@@ -143,7 +65,7 @@
     "category": "other"
   },
   {
-    "id": "6dc37b9f2875",
+    "id": "fe696bf81017",
     "title": "Origin of the Blues: The Native American Influence",
     "date": "2026-11-21",
     "time": "1:00pm - 3:00pm",
@@ -156,7 +78,7 @@
     "category": "other"
   },
   {
-    "id": "bc244adf8d74",
+    "id": "86a8c68584b1",
     "title": "Let\u2019s Talk Books!",
     "date": "2026-11-21",
     "time": "2:30pm - 3:30pm",
@@ -169,7 +91,7 @@
     "category": "other"
   },
   {
-    "id": "26cb16161e01",
+    "id": "d07a8ad7bf58",
     "title": "Flora in Focus Photography Art Exhibit",
     "date": "2026-11-21",
     "time": "4:00pm - 6:00pm",
@@ -182,7 +104,7 @@
     "category": "other"
   },
   {
-    "id": "117a4eb655af",
+    "id": "7a56fccd754d",
     "title": "Public Planetarium Shows \u2013 Saturday, 11/21",
     "date": "2026-11-21",
     "time": "6:00pm - 8:30pm",
@@ -312,6 +234,32 @@
     "category": "other"
   },
   {
+    "id": "b4370f7e5cc2",
+    "title": "Arlington Optimist Christmas Tree Sale",
+    "date": "2026-11-27",
+    "time": "12:00pm - 8:00pm",
+    "location": "5115 Little Falls RdArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/arlington-optimist-christmas-tree-sale-101171/",
+    "category": "other"
+  },
+  {
+    "id": "9f334a50f80c",
+    "title": "Live Comedy Show Starring Dewayne White (Apple TV)",
+    "date": "2026-11-27",
+    "time": "8:00pm - 10:00pm",
+    "location": "529 23rd Street SouthArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/live-comedy-show-starring-dewayne-white-apple-tv-101152/",
+    "category": "other"
+  },
+  {
     "id": "7d7cd526d06b",
     "title": "Introduce your little one to Richard Scarry\u2019s Busy Town at the READ Book Nook Bo",
     "date": "2026-11-28",
@@ -322,6 +270,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/introduce-your-little-one-to-richard-scarrys-busy-town-at-the-read-book-nook-bo-100680/",
+    "category": "other"
+  },
+  {
+    "id": "a8e6b1e9b4b2",
+    "title": "St. Andrew\u2019s Episcopal Church Christmas Tree Sales & Makers Market",
+    "date": "2026-11-28",
+    "time": "1:00pm - 5:00pm",
+    "location": "4000 Lorcom LaneArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/st-andrews-episcopal-church-christmas-tree-sales-makers-market-101175/",
     "category": "other"
   },
   {
@@ -455,6 +416,32 @@
     "category": "other"
   },
   {
+    "id": "b0756cb0e33a",
+    "title": "Sound Bath",
+    "date": "2026-12-02",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/sound-bath-101151/",
+    "category": "other"
+  },
+  {
+    "id": "c850ac2071b3",
+    "title": "Study Hall",
+    "date": "2026-12-03",
+    "time": "1:00pm - 2:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/study-hall-101153/",
+    "category": "other"
+  },
+  {
     "id": "3bda160859e3",
     "title": "NAMI Talks- Caring for the Caregiver: Self-Care for Family Caregivers and Senior",
     "date": "2026-12-03",
@@ -504,6 +491,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/rosslyn-cheer-2026-light-the-plaza-101089/",
+    "category": "other"
+  },
+  {
+    "id": "fab55f7796cf",
+    "title": "Video Game Social",
+    "date": "2026-12-03",
+    "time": "6:00pm - 7:00pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/video-game-social-101154/",
     "category": "other"
   },
   {
@@ -598,6 +598,32 @@
     "category": "other"
   },
   {
+    "id": "33332fc75016",
+    "title": "Christkindlmarkt at Arlington Knights of Columbus",
+    "date": "2026-12-05",
+    "time": "11:00am - 4:00pm",
+    "location": "5115 Little Falls RoadArlington,Virginia22207",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/christkindlmarkt-at-arlington-knights-of-columbus-101162/",
+    "category": "other"
+  },
+  {
+    "id": "01ad8bb3da96",
+    "title": "Arlington Dating Day",
+    "date": "2026-12-05",
+    "time": "11:00am - 8:00pm",
+    "location": "2901 Wilson BlvdArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/arlington-dating-day-101170/",
+    "category": "other"
+  },
+  {
     "id": "dcafeb9ac546",
     "title": "Cooking Utensils Swap",
     "date": "2026-12-05",
@@ -621,32 +647,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/christmas-pop-up-shop-100905/",
-    "category": "other"
-  },
-  {
-    "id": "a8ac3b347ba8",
-    "title": "Opening Reception: Virginia & the Vietnam War, with a talk by Kim O\u2019Connell",
-    "date": "2026-12-05",
-    "time": "1:00pm - 4:00pm",
-    "location": "1805 S. Arlington Ridge RoadArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/opening-reception-virginia-the-vietnam-war-with-a-talk-by-kim-oconnell-101121/",
-    "category": "other"
-  },
-  {
-    "id": "4f3b7dc9b541",
-    "title": "Career Spotlight: Operating Engineers",
-    "date": "2026-12-05",
-    "time": "1:30pm - 2:30pm",
-    "location": "2190 North Military RdArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/career-spotlight-operating-engineers-100663/",
     "category": "other"
   }
 ]
