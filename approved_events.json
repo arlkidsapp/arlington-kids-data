@@ -1,6 +1,6 @@
 [
   {
-    "id": "42457e2d882d",
+    "id": "c77f2d290f31",
     "title": "Rock Spring Garden Club Annual Holiday Fundraiser",
     "date": "2026-11-24",
     "time": "3:30pm - 5:30pm",
@@ -13,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "92d72605882a",
+    "id": "5ed816474b94",
     "title": "Knit Kindness",
     "date": "2026-11-24",
     "time": "5:30pm - 7:00pm",
@@ -26,7 +26,7 @@
     "category": "other"
   },
   {
-    "id": "3cc86f0fc043",
+    "id": "24c65b08dde6",
     "title": "Protecting Your Money: Fraud and Scam Awareness",
     "date": "2026-11-24",
     "time": "6:30pm - 7:30pm",
@@ -39,7 +39,7 @@
     "category": "other"
   },
   {
-    "id": "15e4a3176650",
+    "id": "90db68f6d7a9",
     "title": "Free English Classes | Classes de Ingles GRATIS!",
     "date": "2026-11-24",
     "time": "7:00pm - 8:30pm",
@@ -533,6 +533,32 @@
     "category": "other"
   },
   {
+    "id": "37ff43adc3fa",
+    "title": "Arlington Reads: B. Dylan Hollis",
+    "date": "2026-12-05",
+    "time": "6:30pm - 8:30pm",
+    "location": "3351 Fairfax DrArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/arlington-reads-b-dylan-hollis-101236/",
+    "category": "other"
+  },
+  {
+    "id": "195201524674",
+    "title": "\u201cTogether,\u201d an all-media exhibition",
+    "date": "2026-12-05",
+    "time": "7:00pm - 9:00pm",
+    "location": "700-B West Broad Street (Route 7)Falls Church,Virginia22046",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/together-an-all-media-exhibition-101229/",
+    "category": "other"
+  },
+  {
     "id": "c10878202a86",
     "title": "The Pike Holiday Market: Shop Local & Meet Santa!",
     "date": "2026-12-06",
@@ -621,32 +647,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/free-virtual-home-buying-workshop-buy-with-confidence-101022/",
-    "category": "other"
-  },
-  {
-    "id": "e15d831fc6b6",
-    "title": "Scams: Prevention and Response",
-    "date": "2026-12-09",
-    "time": "11:00am - 12:00pm",
-    "location": "735 18th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/scams-prevention-and-response-100804/",
-    "category": "other"
-  },
-  {
-    "id": "4560814ea481",
-    "title": "Romance Novel Book Swap",
-    "date": "2026-12-09",
-    "time": "6:00pm - 8:00pm",
-    "location": "735 18 St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/romance-novel-book-swap-100805/",
     "category": "other"
   }
 ]
