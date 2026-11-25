@@ -1,57 +1,5 @@
 [
   {
-    "id": "c77f2d290f31",
-    "title": "Rock Spring Garden Club Annual Holiday Fundraiser",
-    "date": "2026-11-24",
-    "time": "3:30pm - 5:30pm",
-    "location": "6025 Little Falls RoadArlington,Virginia22207",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/rock-spring-garden-club-annual-holiday-fundraiser-100950/",
-    "category": "other"
-  },
-  {
-    "id": "5ed816474b94",
-    "title": "Knit Kindness",
-    "date": "2026-11-24",
-    "time": "5:30pm - 7:00pm",
-    "location": "3351 Fairfax DrArlington,Virginia22201",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/knit-kindness-101092/",
-    "category": "other"
-  },
-  {
-    "id": "24c65b08dde6",
-    "title": "Protecting Your Money: Fraud and Scam Awareness",
-    "date": "2026-11-24",
-    "time": "6:30pm - 7:30pm",
-    "location": "300 South Kensington StArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/protecting-your-money-fraud-and-scam-awareness-100717/",
-    "category": "other"
-  },
-  {
-    "id": "90db68f6d7a9",
-    "title": "Free English Classes | Classes de Ingles GRATIS!",
-    "date": "2026-11-24",
-    "time": "7:00pm - 8:30pm",
-    "location": "1120 S George Mason DrArlington,Virginia22204",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-english-classes-classes-de-ingles-gratis-101064/",
-    "category": "other"
-  },
-  {
     "id": "b4370f7e5cc2",
     "title": "Arlington Optimist Christmas Tree Sale",
     "date": "2026-11-27",
@@ -351,6 +299,19 @@
     "category": "other"
   },
   {
+    "id": "7dbdaa46175d",
+    "title": "Historic Downtown Manassas Celebrates a Weekend of Holiday Magic with Santa Ligh",
+    "date": "2026-12-04",
+    "time": "4:00pm - 8:00pm",
+    "location": "9431 West StreetManassas,Virginia20110",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/historic-downtown-manassas-celebrates-a-weekend-of-holiday-magic-with-santa-ligh-101275/",
+    "category": "other"
+  },
+  {
     "id": "2b9a2dcb2784",
     "title": "Rosslyn Cheer 2026: Santa Paws Yappy Hour",
     "date": "2026-12-04",
@@ -611,6 +572,19 @@
     "category": "other"
   },
   {
+    "id": "e91e09316207",
+    "title": "Byzantio Adult Greek Dance Workshop",
+    "date": "2026-12-06",
+    "time": "5:30pm - 7:30pm",
+    "location": "5130 Wilson BlvdArlington,Virginia22205",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/byzantio-adult-greek-dance-workshop-101278/",
+    "category": "other"
+  },
+  {
     "id": "bac853083fff",
     "title": "Profs & Pints Northern Virginia: Managing Holiday Stress",
     "date": "2026-12-06",
@@ -637,6 +611,19 @@
     "category": "other"
   },
   {
+    "id": "a4063cbfd3e7",
+    "title": "Light Up Arlington \u2013 Clarendon Menorah Lighting",
+    "date": "2026-12-08",
+    "time": "6:00pm - 7:00pm",
+    "location": "1307 N Highland StreetArlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/light-up-arlington-clarendon-menorah-lighting-101274/",
+    "category": "other"
+  },
+  {
     "id": "7f675fb0981e",
     "title": "Free Virtual Home Buying Workshop: Buy with Confidence",
     "date": "2026-12-08",
@@ -647,6 +634,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/free-virtual-home-buying-workshop-buy-with-confidence-101022/",
+    "category": "other"
+  },
+  {
+    "id": "e15d831fc6b6",
+    "title": "Scams: Prevention and Response",
+    "date": "2026-12-09",
+    "time": "11:00am - 12:00pm",
+    "location": "735 18th St SArlington,Virginia22202",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/scams-prevention-and-response-100804/",
     "category": "other"
   }
 ]
