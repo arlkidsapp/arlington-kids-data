@@ -1,6 +1,6 @@
 [
   {
-    "id": "b4370f7e5cc2",
+    "id": "73ec5e9ad2cd",
     "title": "Arlington Optimist Christmas Tree Sale",
     "date": "2026-11-27",
     "time": "12:00pm - 8:00pm",
@@ -13,7 +13,7 @@
     "category": "other"
   },
   {
-    "id": "9f334a50f80c",
+    "id": "b0a0bcb95d5e",
     "title": "Live Comedy Show Starring Dewayne White (Apple TV)",
     "date": "2026-11-27",
     "time": "8:00pm - 10:00pm",
@@ -75,6 +75,19 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/museum-store-sunday-at-the-arlington-historical-museum-100860/",
+    "category": "other"
+  },
+  {
+    "id": "0b7a15fbe1f2",
+    "title": "Toys for Tots Frequent Traveler Happy Hour",
+    "date": "2026-11-30",
+    "time": "6:00pm - 9:00pm",
+    "location": "3100 Clarendon Blvd.Arlington,Virginia22201",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/toys-for-tots-frequent-traveler-happy-hour-101295/",
     "category": "other"
   },
   {
@@ -520,6 +533,19 @@
     "category": "other"
   },
   {
+    "id": "228a57248d0f",
+    "title": "Et In Terra Pax: Capitol Hill Chorale Holiday Concert",
+    "date": "2026-12-05",
+    "time": "7:30pm - 9:15pm",
+    "location": "212 E. Capitol St. NEWashington DC,District Of Columbia20003",
+    "address": null,
+    "description": "No description available",
+    "ageRange": "all ages",
+    "cost": "Free",
+    "url": "https://www.arlnow.com/events/et-in-terra-pax-capitol-hill-chorale-holiday-concert-101294/",
+    "category": "other"
+  },
+  {
     "id": "c10878202a86",
     "title": "The Pike Holiday Market: Shop Local & Meet Santa!",
     "date": "2026-12-06",
@@ -621,32 +647,6 @@
     "ageRange": "all ages",
     "cost": "Free",
     "url": "https://www.arlnow.com/events/light-up-arlington-clarendon-menorah-lighting-101274/",
-    "category": "other"
-  },
-  {
-    "id": "7f675fb0981e",
-    "title": "Free Virtual Home Buying Workshop: Buy with Confidence",
-    "date": "2026-12-08",
-    "time": "6:30pm - 7:30pm",
-    "location": "Arlington, VA",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/free-virtual-home-buying-workshop-buy-with-confidence-101022/",
-    "category": "other"
-  },
-  {
-    "id": "e15d831fc6b6",
-    "title": "Scams: Prevention and Response",
-    "date": "2026-12-09",
-    "time": "11:00am - 12:00pm",
-    "location": "735 18th St SArlington,Virginia22202",
-    "address": null,
-    "description": "No description available",
-    "ageRange": "all ages",
-    "cost": "Free",
-    "url": "https://www.arlnow.com/events/scams-prevention-and-response-100804/",
     "category": "other"
   }
 ]
